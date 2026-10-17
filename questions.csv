@@ -1249,3 +1249,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 50,23,2026-10-17T22:01:37Z,A retailer sells 454 units at $17.13 each. What is total revenue?,"$7,605.72","$7,948.32","$8,231.02","$7,777.02"
 50,24,2026-10-17T22:01:37Z,"A product line generates $61,250.00 in revenue against $29,728.14 in cost of goods sold. What is the gross margin?",106.0%,51.5%,34.6%,48.5%
 50,25,2026-10-17T22:01:37Z,"An investment of $4,000.00 grows at 13% compounded annually. What is its value after 2 years?","$1,040.00","$4,520.00","$5,107.60","$5,040.00"
+51,1,2026-10-17T23:01:37Z,"A product line generates $67,500.00 in revenue against $31,573.34 in cost of goods sold. What is the gross margin?",36.3%,53.2%,113.8%,46.8%
+51,2,2026-10-17T23:01:37Z,Region A had 177 orders averaging $32.00; region B had 170 orders averaging $93.00. What is the overall average order value?,61.88,63.12,62.50,121.32
+51,3,2026-10-17T23:01:37Z,"Quarterly revenue moved from $1,050.00 to $1,392.00. What is the percentage change?",32.6%,132.6%,24.6%,-32.6%
+51,4,2026-10-17T23:01:37Z,"A product line generates $69,750.00 in revenue against $51,316.36 in cost of goods sold. What is the gross margin?",26.4%,73.6%,15.2%,35.9%
+51,5,2026-10-17T23:01:37Z,A contract signed on 24 October 2026 has a 367-day settlement period. On what date does it settle?,25 November 2027,26 October 2027,19 October 2027,27 October 2027
+51,6,2026-10-17T23:01:37Z,An item listed at $408.98 is discounted by 10%. What is the sale price?,$449.88,$368.08,$398.98,$40.90
+51,7,2026-10-17T23:01:37Z,A contract signed on 12 October 2026 has a 390-day settlement period. On what date does it settle?,6 November 2027,6 December 2027,30 October 2027,7 November 2027
+51,8,2026-10-17T23:01:37Z,An item listed at $468.84 is discounted by 5%. What is the sale price?,$23.44,$445.40,$492.28,$463.84
+51,9,2026-10-17T23:01:37Z,A retailer sells 836 units at $82.50 each. What is total revenue?,"$68,145.00","$68,970.00","$69,795.00","$69,806.00"
+51,10,2026-10-17T23:01:37Z,An item listed at $196.72 is discounted by 40%. What is the sale price?,$275.41,$78.69,$118.03,$156.72
+51,11,2026-10-17T23:01:37Z,An item listed at $634.95 is discounted by 25%. What is the sale price?,$793.69,$609.95,$158.74,$476.21
+51,12,2026-10-17T23:01:37Z,"An invoice for $3,704.42 is converted to euros at 1.5816 euros per US dollar. How many euros is that?","2,342.20","6,229.35","5,858.91","5,488.47"
+51,13,2026-10-17T23:01:37Z,"Quarterly revenue moved from $3,100.00 to $2,208.00. What is the percentage change?",71.2%,-28.8%,-40.4%,28.8%
+51,14,2026-10-17T23:01:37Z,"Fixed costs are $24,000.00. Each unit sells for $166.00 with a variable cost of $85.00. How many units must be sold to break even, to the nearest unit?",296 units,282 units,145 units,96 units
+51,15,2026-10-17T23:01:37Z,"An investment of $40,500.00 grows at 13% compounded annually. What is its value after 7 years?","$77,355.00","$95,280.52","$84,319.05","$36,855.00"
+51,16,2026-10-17T23:01:37Z,"Fixed costs are $5,500.00. Each unit sells for $79.00 with a variable cost of $47.00. How many units must be sold to break even, to the nearest unit?",117 units,44 units,172 units,70 units
+51,17,2026-10-17T23:01:37Z,"Fixed costs are $22,000.00. Each unit sells for $144.00 with a variable cost of $75.00. How many units must be sold to break even, to the nearest unit?",153 units,319 units,100 units,293 units
+51,18,2026-10-17T23:01:37Z,A contract signed on 29 April 2026 has a 212-day settlement period. On what date does it settle?,28 November 2026,20 November 2026,27 November 2026,27 December 2026
+51,19,2026-10-17T23:01:37Z,"Quarterly revenue moved from $1,650.00 to $2,313.00. What is the percentage change?",28.7%,40.2%,-40.2%,140.2%
+51,20,2026-10-17T23:01:37Z,"An invoice for $7,798.39 is converted to euros at 0.6473 euros per US dollar. How many euros is that?","12,047.57","5,047.90","4,268.06","5,827.74"
+51,21,2026-10-17T23:01:37Z,"An investment of $20,000.00 grows at 11% compounded annually. What is its value after 6 years?","$33,701.16","$13,200.00","$37,408.29","$33,200.00"
+51,22,2026-10-17T23:01:37Z,"An investment of $18,500.00 grows at 12% compounded annually. What is its value after 2 years?","$22,940.00","$20,720.00","$4,440.00","$23,206.40"
+51,23,2026-10-17T23:01:37Z,"An invoice for $3,124.01 is converted to euros at 1.7153 euros per US dollar. How many euros is that?","5,046.21","5,671.02","5,358.61","1,821.26"
+51,24,2026-10-17T23:01:37Z,"Quarterly revenue moved from $3,550.00 to $5,184.00. What is the percentage change?",31.5%,146.0%,46.0%,-46.0%
+51,25,2026-10-17T23:01:37Z,A retailer sells 492 units at $30.28 each. What is total revenue?,"$14,594.96","$14,897.76","$15,389.76","$15,200.56"
