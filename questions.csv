@@ -1199,3 +1199,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 48,23,2026-10-15T21:00:00Z,A retailer sells 764 units at $36.24 each. What is total revenue?,"$27,687.36","$28,451.36","$28,049.76","$27,324.96"
 48,24,2026-10-15T21:00:00Z,A retailer sells 558 units at $11.06 each. What is total revenue?,"$6,729.48","$6,282.08","$6,171.48","$6,060.88"
 48,25,2026-10-15T21:00:00Z,A retailer sells 560 units at $70.75 each. What is total revenue?,"$38,912.50","$40,327.50","$40,180.00","$39,620.00"
+49,1,2026-10-17T21:01:39Z,"A support queue holds 6 billing tickets, 15 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",35.3%,65.2%,91.3%,26.1%
+49,2,2026-10-17T21:01:39Z,"A support queue holds 4 billing tickets, 5 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",69.2%,44.4%,38.5%,30.8%
+49,3,2026-10-17T21:01:39Z,Region A had 105 orders averaging $69.00; region B had 141 orders averaging $40.00. What is the overall average order value?,56.62,91.38,54.50,52.38
+49,4,2026-10-17T21:01:39Z,A contract signed on 18 August 2026 has a 291-day settlement period. On what date does it settle?,5 July 2027,5 June 2027,29 May 2027,6 June 2027
+49,5,2026-10-17T21:01:39Z,"A product line generates $13,000.00 in revenue against $6,483.07 in cost of goods sold. What is the gross margin?",33.4%,50.1%,100.5%,49.9%
+49,6,2026-10-17T21:01:39Z,"Fixed costs are $8,000.00. Each unit sells for $182.00 with a variable cost of $122.00. How many units must be sold to break even, to the nearest unit?",44 units,26 units,133 units,66 units
+49,7,2026-10-17T21:01:39Z,"An invoice for $4,653.92 is converted to euros at 0.8799 euros per US dollar. How many euros is that?","4,094.98","5,289.15","3,629.59","4,560.38"
+49,8,2026-10-17T21:01:39Z,An item listed at $158.84 is discounted by 20%. What is the sale price?,$127.07,$190.61,$138.84,$31.77
+49,9,2026-10-17T21:01:39Z,"An invoice for $7,811.05 is converted to euros at 1.0345 euros per US dollar. How many euros is that?","7,299.43","8,861.64","7,550.56","8,080.53"
+49,10,2026-10-17T21:01:39Z,"A product line generates $42,500.00 in revenue against $26,280.03 in cost of goods sold. What is the gross margin?",61.7%,61.8%,38.2%,23.6%
+49,11,2026-10-17T21:01:39Z,"An invoice for $5,824.35 is converted to euros at 1.8212 euros per US dollar. How many euros is that?","3,198.08","10,607.31","11,189.74","10,024.87"
+49,12,2026-10-17T21:01:39Z,A retailer sells 426 units at $39.16 each. What is total revenue?,"$16,682.16","$17,073.76","$17,108.16","$16,290.56"
+49,13,2026-10-17T21:01:39Z,"Quarterly revenue moved from $2,800.00 to $1,429.00. What is the percentage change?",49.0%,-49.0%,51.0%,-95.9%
+49,14,2026-10-17T21:01:39Z,"A product line generates $47,000.00 in revenue against $40,780.12 in cost of goods sold. What is the gross margin?",13.2%,15.3%,7.1%,86.8%
+49,15,2026-10-17T21:01:39Z,"An invoice for $8,860.02 is converted to euros at 1.5470 euros per US dollar. How many euros is that?","12,820.45","13,706.45","14,592.45","5,727.23"
+49,16,2026-10-17T21:01:39Z,"Fixed costs are $60,000.00. Each unit sells for $165.00 with a variable cost of $87.00. How many units must be sold to break even, to the nearest unit?",238 units,364 units,690 units,769 units
+49,17,2026-10-17T21:01:39Z,A retailer sells 725 units at $77.31 each. What is total revenue?,"$56,049.75","$56,822.85","$55,276.65","$56,774.75"
+49,18,2026-10-17T21:01:39Z,"A monthly headcount series runs 25, 39, 53, 67, 81. If the pattern continues, what is the next value?",109,95,81,123
+49,19,2026-10-17T21:01:39Z,"Quarterly revenue moved from $3,100.00 to $4,726.00. What is the percentage change?",34.4%,-52.5%,52.5%,152.5%
+49,20,2026-10-17T21:01:39Z,A contract signed on 18 January 2026 has a 264-day settlement period. On what date does it settle?,9 October 2026,8 November 2026,2 October 2026,10 October 2026
+49,21,2026-10-17T21:01:39Z,"A support queue holds 15 billing tickets, 18 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",65.2%,39.5%,86.8%,47.4%
+49,22,2026-10-17T21:01:39Z,"A product line generates $76,250.00 in revenue against $43,935.84 in cost of goods sold. What is the gross margin?",26.9%,73.5%,42.4%,57.6%
+49,23,2026-10-17T21:01:39Z,An item listed at $515.69 is discounted by 15%. What is the sale price?,$593.04,$438.34,$500.69,$77.35
+49,24,2026-10-17T21:01:39Z,"A support queue holds 21 billing tickets, 18 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",40.9%,91.3%,88.6%,47.7%
+49,25,2026-10-17T21:01:39Z,A contract signed on 13 December 2026 has a 12-day settlement period. On what date does it settle?,24 January 2027,18 December 2026,25 December 2026,26 December 2026
