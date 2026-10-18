@@ -1424,3 +1424,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 57,23,2026-10-18T05:01:38Z,A contract signed on 23 April 2026 has a 319-day settlement period. On what date does it settle?,8 March 2027,1 March 2027,9 March 2027,7 April 2027
 57,24,2026-10-18T05:01:38Z,"An investment of $12,000.00 grows at 7% compounded annually. What is its value after 4 years?","$15,360.00","$15,729.55","$3,360.00","$14,700.52"
 57,25,2026-10-18T05:01:38Z,A retailer sells 729 units at $65.22 each. What is total revenue?,"$47,545.38","$46,893.18","$48,274.38","$48,197.58"
+58,1,2026-10-18T06:01:37Z,"An investment of $29,500.00 grows at 13% compounded annually. What is its value after 3 years?","$42,565.46","$41,005.00","$37,668.55","$11,505.00"
+58,2,2026-10-18T06:01:37Z,Region A had 13 orders averaging $29.00; region B had 43 orders averaging $45.00. What is the overall average order value?,37.00,53.77,41.29,32.71
+58,3,2026-10-18T06:01:37Z,An item listed at $299.59 is discounted by 25%. What is the sale price?,$274.59,$74.90,$374.49,$224.69
+58,4,2026-10-18T06:01:37Z,"A monthly headcount series runs 39, 52, 65, 78, 91. If the pattern continues, what is the next value?",117,91,130,104
+58,5,2026-10-18T06:01:37Z,Quarterly revenue moved from $350.00 to $471.00. What is the percentage change?,25.7%,134.6%,-34.6%,34.6%
+58,6,2026-10-18T06:01:37Z,"A product line generates $57,750.00 in revenue against $51,956.15 in cost of goods sold. What is the gross margin?",11.2%,10.0%,90.0%,5.3%
+58,7,2026-10-18T06:01:37Z,"Quarterly revenue moved from $2,750.00 to $2,118.00. What is the percentage change?",77.0%,-29.8%,23.0%,-23.0%
+58,8,2026-10-18T06:01:37Z,An item listed at $248.70 is discounted by 20%. What is the sale price?,$228.70,$49.74,$198.96,$298.44
+58,9,2026-10-18T06:01:37Z,"Quarterly revenue moved from $1,850.00 to $1,304.00. What is the percentage change?",29.5%,70.5%,-41.9%,-29.5%
+58,10,2026-10-18T06:01:37Z,"An invoice for $8,586.30 is converted to euros at 1.6200 euros per US dollar. How many euros is that?","13,051.18","14,768.44","13,909.81","5,300.19"
+58,11,2026-10-18T06:01:37Z,A contract signed on 19 March 2026 has a 241-day settlement period. On what date does it settle?,8 November 2026,15 December 2026,16 November 2026,15 November 2026
+58,12,2026-10-18T06:01:37Z,"A support queue holds 20 billing tickets, 22 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",36.4%,40.0%,57.1%,76.4%
+58,13,2026-10-18T06:01:37Z,"Quarterly revenue moved from $4,250.00 to $6,541.00. What is the percentage change?",153.9%,35.0%,-53.9%,53.9%
+58,14,2026-10-18T06:01:37Z,"An invoice for $4,297.72 is converted to euros at 0.8579 euros per US dollar. How many euros is that?","4,116.79","3,687.01","3,257.24","5,009.58"
+58,15,2026-10-18T06:01:37Z,An item listed at $159.28 is discounted by 45%. What is the sale price?,$114.28,$71.68,$87.60,$230.96
+58,16,2026-10-18T06:01:37Z,"A monthly headcount series runs 5, 9, 13, 17, 21. If the pattern continues, what is the next value?",29,25,21,33
+58,17,2026-10-18T06:01:37Z,A contract signed on 3 April 2026 has a 282-day settlement period. On what date does it settle?,10 January 2027,3 January 2027,9 February 2027,11 January 2027
+58,18,2026-10-18T06:01:37Z,"A $8,400.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$16,800.00","$5,600.00","$2,800.00","$1,400.00"
+58,19,2026-10-18T06:01:37Z,A contract signed on 18 September 2026 has a 271-day settlement period. On what date does it settle?,9 June 2027,17 June 2027,16 June 2027,16 July 2027
+58,20,2026-10-18T06:01:37Z,"An investment of $17,000.00 grows at 7% compounded annually. What is its value after 6 years?","$25,512.42","$23,843.38","$24,140.00","$7,140.00"
+58,21,2026-10-18T06:01:37Z,A contract signed on 31 October 2026 has a 21-day settlement period. On what date does it settle?,21 December 2026,22 November 2026,21 November 2026,14 November 2026
+58,22,2026-10-18T06:01:37Z,An item listed at $408.26 is discounted by 20%. What is the sale price?,$81.65,$388.26,$489.91,$326.61
+58,23,2026-10-18T06:01:37Z,A retailer sells 281 units at $26.75 each. What is total revenue?,"$7,784.25","$7,249.25","$7,797.75","$7,516.75"
+58,24,2026-10-18T06:01:37Z,"An investment of $38,500.00 grows at 11% compounded annually. What is its value after 3 years?","$51,205.00","$12,705.00","$47,435.85","$52,653.79"
+58,25,2026-10-18T06:01:37Z,"A monthly headcount series runs 11, 18, 25, 32, 39. If the pattern continues, what is the next value?",39,53,46,60
