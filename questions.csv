@@ -1549,3 +1549,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 62,23,2026-10-18T10:01:39Z,"An invoice for $3,988.11 is converted to euros at 1.6132 euros per US dollar. How many euros is that?","6,433.62","6,034.81","6,832.43","2,472.17"
 62,24,2026-10-18T10:01:39Z,A retailer sells 967 units at $19.11 each. What is total revenue?,"$18,288.27","$19,446.37","$18,670.47","$18,479.37"
 62,25,2026-10-18T10:01:39Z,"An investment of $14,000.00 grows at 8% compounded annually. What is its value after 2 years?","$16,329.60","$16,240.00","$15,120.00","$2,240.00"
+63,1,2026-10-18T11:01:36Z,"A support queue holds 16 billing tickets, 5 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",59.3%,18.5%,77.8%,145.5%
+63,2,2026-10-18T11:01:36Z,"A monthly headcount series runs 33, 42, 51, 60, 69. If the pattern continues, what is the next value?",96,87,78,69
+63,3,2026-10-18T11:01:36Z,A contract signed on 10 December 2026 has a 100-day settlement period. On what date does it settle?,21 March 2027,20 March 2027,13 March 2027,19 April 2027
+63,4,2026-10-18T11:01:36Z,"A monthly headcount series runs 25, 42, 59, 76, 93. If the pattern continues, what is the next value?",144,127,93,110
+63,5,2026-10-18T11:01:36Z,An item listed at $507.48 is discounted by 45%. What is the sale price?,$279.11,$735.85,$462.48,$228.37
+63,6,2026-10-18T11:01:36Z,"Fixed costs are $5,500.00. Each unit sells for $121.00 with a variable cost of $104.00. How many units must be sold to break even, to the nearest unit?",45 units,53 units,324 units,24 units
+63,7,2026-10-18T11:01:36Z,"A product line generates $33,500.00 in revenue against $22,429.28 in cost of goods sold. What is the gross margin?",67.0%,49.4%,19.8%,33.0%
+63,8,2026-10-18T11:01:36Z,A retailer sells 726 units at $88.56 each. What is total revenue?,"$65,180.16","$63,408.96","$64,294.56","$65,020.56"
+63,9,2026-10-18T11:01:36Z,"Fixed costs are $19,500.00. Each unit sells for $140.00 with a variable cost of $59.00. How many units must be sold to break even, to the nearest unit?",139 units,331 units,241 units,98 units
+63,10,2026-10-18T11:01:36Z,Region A had 146 orders averaging $86.00; region B had 180 orders averaging $46.00. What is the overall average order value?,66.00,63.91,68.09,115.76
+63,11,2026-10-18T11:01:36Z,"A $8,370.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$4,782.86","$3,587.14","$1,195.71","$6,277.50"
+63,12,2026-10-18T11:01:36Z,"An invoice for $6,162.15 is converted to euros at 0.8507 euros per US dollar. How many euros is that?","4,625.93","5,242.14","5,858.36","7,243.62"
+63,13,2026-10-18T11:01:36Z,"A $8,220.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$3,288.00","$4,932.00","$1,644.00","$5,480.00"
+63,14,2026-10-18T11:01:36Z,"A $8,520.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?","$1,217.14","$6,085.71","$2,434.29","$3,408.00"
+63,15,2026-10-18T11:01:36Z,"A $8,340.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$5,560.00","$5,004.00","$3,336.00","$1,668.00"
+63,16,2026-10-18T11:01:36Z,An item listed at $515.23 is discounted by 20%. What is the sale price?,$618.28,$495.23,$103.05,$412.18
+63,17,2026-10-18T11:01:36Z,"A product line generates $39,500.00 in revenue against $20,511.63 in cost of goods sold. What is the gross margin?",51.9%,48.1%,92.6%,31.6%
+63,18,2026-10-18T11:01:36Z,A retailer sells 617 units at $21.98 each. What is total revenue?,"$13,341.86","$13,561.66","$13,781.46","$14,178.66"
+63,19,2026-10-18T11:01:36Z,A contract signed on 29 December 2026 has a 78-day settlement period. On what date does it settle?,16 April 2027,17 March 2027,10 March 2027,18 March 2027
+63,20,2026-10-18T11:01:36Z,"An invoice for $6,904.94 is converted to euros at 1.5291 euros per US dollar. How many euros is that?","10,558.34","11,248.84","9,867.85","4,515.69"
+63,21,2026-10-18T11:01:36Z,A contract signed on 16 March 2026 has a 364-day settlement period. On what date does it settle?,14 April 2027,15 March 2027,16 March 2027,8 March 2027
+63,22,2026-10-18T11:01:36Z,"A monthly headcount series runs 9, 24, 39, 54, 69. If the pattern continues, what is the next value?",114,84,69,99
+63,23,2026-10-18T11:01:36Z,"A monthly headcount series runs 15, 27, 39, 51, 63. If the pattern continues, what is the next value?",99,63,75,87
+63,24,2026-10-18T11:01:36Z,"A support queue holds 9 billing tickets, 3 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",44.4%,50.0%,33.3%,11.1%
+63,25,2026-10-18T11:01:36Z,"An investment of $45,000.00 grows at 3% compounded annually. What is its value after 5 years?","$52,167.33","$6,750.00","$51,750.00","$50,647.90"
