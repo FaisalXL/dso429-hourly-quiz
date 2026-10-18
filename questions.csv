@@ -1824,3 +1824,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 73,23,2026-10-18T21:01:37Z,An item listed at $475.40 is discounted by 35%. What is the sale price?,$309.01,$166.39,$440.40,$641.79
 73,24,2026-10-18T21:01:37Z,"A support queue holds 20 billing tickets, 21 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",87.2%,42.6%,74.1%,44.7%
 73,25,2026-10-18T21:01:37Z,"An investment of $22,500.00 grows at 12% compounded annually. What is its value after 4 years?","$33,300.00","$35,404.19","$10,800.00","$31,610.88"
+74,1,2026-10-18T22:01:39Z,"An investment of $41,000.00 grows at 14% compounded annually. What is its value after 2 years?","$53,283.60","$11,480.00","$52,480.00","$46,740.00"
+74,2,2026-10-18T22:01:39Z,A contract signed on 18 January 2026 has a 295-day settlement period. On what date does it settle?,10 November 2026,9 November 2026,9 December 2026,2 November 2026
+74,3,2026-10-18T22:01:39Z,"A $6,540.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$1,308.00","$3,924.00","$9,810.00","$2,616.00"
+74,4,2026-10-18T22:01:39Z,Region A had 99 orders averaging $22.00; region B had 196 orders averaging $63.00. What is the overall average order value?,49.24,74.11,35.76,42.50
+74,5,2026-10-18T22:01:39Z,A retailer sells 604 units at $5.50 each. What is total revenue?,"$3,267.00","$3,322.00","$3,377.00","$3,926.00"
+74,6,2026-10-18T22:01:39Z,"Quarterly revenue moved from $4,500.00 to $5,266.00. What is the percentage change?",117.0%,17.0%,14.5%,-17.0%
+74,7,2026-10-18T22:01:39Z,"A support queue holds 9 billing tickets, 21 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",48.8%,69.8%,20.9%,26.5%
+74,8,2026-10-18T22:01:39Z,Region A had 155 orders averaging $47.00; region B had 23 orders averaging $85.00. What is the overall average order value?,66.00,59.61,80.09,51.91
+74,9,2026-10-18T22:01:39Z,"A support queue holds 9 billing tickets, 3 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",52.9%,11.5%,46.2%,34.6%
+74,10,2026-10-18T22:01:39Z,An item listed at $406.00 is discounted by 25%. What is the sale price?,$304.50,$507.50,$381.00,$101.50
+74,11,2026-10-18T22:01:39Z,"Quarterly revenue moved from $3,000.00 to $3,789.00. What is the percentage change?",126.3%,20.8%,26.3%,-26.3%
+74,12,2026-10-18T22:01:39Z,"A support queue holds 16 billing tickets, 17 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",73.3%,35.6%,55.2%,37.8%
+74,13,2026-10-18T22:01:39Z,A retailer sells 488 units at $76.21 each. What is total revenue?,"$37,190.48","$36,428.38","$37,678.48","$37,952.58"
+74,14,2026-10-18T22:01:39Z,An item listed at $299.64 is discounted by 25%. What is the sale price?,$274.64,$374.55,$74.91,$224.73
+74,15,2026-10-18T22:01:39Z,"Quarterly revenue moved from $4,800.00 to $2,809.00. What is the percentage change?",-41.5%,-70.9%,41.5%,58.5%
+74,16,2026-10-18T22:01:39Z,"An invoice for $4,450.88 is converted to euros at 1.4385 euros per US dollar. How many euros is that?","6,402.59","6,847.68","3,094.11","5,957.50"
+74,17,2026-10-18T22:01:39Z,"An investment of $22,000.00 grows at 4% compounded annually. What is its value after 3 years?","$24,640.00","$23,795.20","$24,747.01","$2,640.00"
+74,18,2026-10-18T22:01:39Z,"A product line generates $66,750.00 in revenue against $55,955.43 in cost of goods sold. What is the gross margin?",8.8%,83.8%,19.3%,16.2%
+74,19,2026-10-18T22:01:39Z,A contract signed on 2 July 2026 has a 349-day settlement period. On what date does it settle?,17 June 2027,16 July 2027,16 June 2027,9 June 2027
+74,20,2026-10-18T22:01:39Z,"A product line generates $10,500.00 in revenue against $5,351.59 in cost of goods sold. What is the gross margin?",32.5%,49.0%,51.0%,96.2%
+74,21,2026-10-18T22:01:39Z,A retailer sells 626 units at $64.20 each. What is total revenue?,"$40,815.20","$39,547.20","$40,189.20","$40,831.20"
+74,22,2026-10-18T22:01:39Z,"A $8,550.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$3,420.00","$5,130.00","$1,710.00","$5,700.00"
+74,23,2026-10-18T22:01:39Z,"An investment of $40,000.00 grows at 10% compounded annually. What is its value after 6 years?","$64,420.40","$64,000.00","$24,000.00","$70,862.44"
+74,24,2026-10-18T22:01:39Z,"Quarterly revenue moved from $3,350.00 to $5,150.00. What is the percentage change?",35.0%,153.7%,53.7%,-53.7%
+74,25,2026-10-18T22:01:39Z,"Quarterly revenue moved from $2,950.00 to $2,632.00. What is the percentage change?",10.8%,89.2%,-12.1%,-10.8%
