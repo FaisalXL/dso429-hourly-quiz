@@ -1399,3 +1399,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 56,23,2026-10-18T04:01:39Z,A retailer sells 444 units at $35.44 each. What is total revenue?,"$15,380.96","$16,179.36","$16,089.76","$15,735.36"
 56,24,2026-10-18T04:01:39Z,"A support queue holds 9 billing tickets, 15 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",64.9%,32.1%,24.3%,40.5%
 56,25,2026-10-18T04:01:39Z,"A support queue holds 23 billing tickets, 25 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",41.0%,60.5%,78.7%,37.7%
+57,1,2026-10-18T05:01:38Z,"An investment of $43,000.00 grows at 4% compounded annually. What is its value after 7 years?","$55,040.00","$12,040.00","$56,585.07","$54,408.72"
+57,2,2026-10-18T05:01:38Z,"An investment of $20,000.00 grows at 11% compounded annually. What is its value after 2 years?","$22,200.00","$24,642.00","$24,400.00","$4,400.00"
+57,3,2026-10-18T05:01:38Z,"An invoice for $3,116.25 is converted to euros at 0.9803 euros per US dollar. How many euros is that?","2,743.23","3,054.86","3,366.48","3,178.87"
+57,4,2026-10-18T05:01:38Z,"A monthly headcount series runs 39, 50, 61, 72, 83. If the pattern continues, what is the next value?",105,116,94,83
+57,5,2026-10-18T05:01:38Z,"Quarterly revenue moved from $4,400.00 to $6,784.00. What is the percentage change?",35.1%,-54.2%,154.2%,54.2%
+57,6,2026-10-18T05:01:38Z,"Quarterly revenue moved from $1,600.00 to $1,270.00. What is the percentage change?",79.4%,-20.6%,-26.0%,20.6%
+57,7,2026-10-18T05:01:38Z,Region A had 98 orders averaging $43.00; region B had 24 orders averaging $31.00. What is the overall average order value?,40.64,50.59,33.36,37.00
+57,8,2026-10-18T05:01:38Z,An item listed at $745.76 is discounted by 20%. What is the sale price?,$149.15,$725.76,$894.91,$596.61
+57,9,2026-10-18T05:01:38Z,A retailer sells 798 units at $75.18 each. What is total revenue?,"$59,993.64","$60,791.64","$59,241.84","$60,745.44"
+57,10,2026-10-18T05:01:38Z,An item listed at $25.15 is discounted by 20%. What is the sale price?,$20.12,$5.15,$5.03,$30.18
+57,11,2026-10-18T05:01:38Z,"An investment of $45,500.00 grows at 8% compounded annually. What is its value after 6 years?","$67,340.00","$66,854.43","$72,202.78","$21,840.00"
+57,12,2026-10-18T05:01:38Z,"A support queue holds 9 billing tickets, 17 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",34.6%,74.3%,25.7%,48.6%
+57,13,2026-10-18T05:01:38Z,An item listed at $23.72 is discounted by 45%. What is the sale price?,$34.39,$13.05,$-21.28,$10.67
+57,14,2026-10-18T05:01:38Z,A retailer sells 591 units at $44.05 each. What is total revenue?,"$26,624.55","$25,593.05","$26,033.55","$26,474.05"
+57,15,2026-10-18T05:01:38Z,"An investment of $24,000.00 grows at 7% compounded annually. What is its value after 5 years?","$33,661.24","$32,400.00","$31,459.10","$8,400.00"
+57,16,2026-10-18T05:01:38Z,"A monthly headcount series runs 16, 25, 34, 43, 52. If the pattern continues, what is the next value?",52,79,70,61
+57,17,2026-10-18T05:01:38Z,"An invoice for $7,995.91 is converted to euros at 1.2505 euros per US dollar. How many euros is that?","9,199.29","6,394.17","9,998.89","10,798.48"
+57,18,2026-10-18T05:01:38Z,A retailer sells 938 units at $8.01 each. What is total revenue?,"$7,513.38","$7,433.28","$8,451.38","$7,593.48"
+57,19,2026-10-18T05:01:38Z,A contract signed on 24 October 2026 has a 147-day settlement period. On what date does it settle?,19 April 2027,20 March 2027,21 March 2027,13 March 2027
+57,20,2026-10-18T05:01:38Z,Region A had 73 orders averaging $45.00; region B had 75 orders averaging $42.00. What is the overall average order value?,43.50,43.48,43.52,85.80
+57,21,2026-10-18T05:01:38Z,"A support queue holds 3 billing tickets, 7 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",29.2%,14.3%,12.5%,41.7%
+57,22,2026-10-18T05:01:38Z,A contract signed on 9 December 2026 has a 335-day settlement period. On what date does it settle?,2 November 2027,10 November 2027,9 November 2027,9 December 2027
+57,23,2026-10-18T05:01:38Z,A contract signed on 23 April 2026 has a 319-day settlement period. On what date does it settle?,8 March 2027,1 March 2027,9 March 2027,7 April 2027
+57,24,2026-10-18T05:01:38Z,"An investment of $12,000.00 grows at 7% compounded annually. What is its value after 4 years?","$15,360.00","$15,729.55","$3,360.00","$14,700.52"
+57,25,2026-10-18T05:01:38Z,A retailer sells 729 units at $65.22 each. What is total revenue?,"$47,545.38","$46,893.18","$48,274.38","$48,197.58"
