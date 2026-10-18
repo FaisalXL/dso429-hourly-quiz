@@ -1774,3 +1774,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 71,23,2026-10-18T19:01:40Z,Region A had 126 orders averaging $88.00; region B had 200 orders averaging $52.00. What is the overall average order value?,107.44,74.09,65.91,70.00
 71,24,2026-10-18T19:01:40Z,A retailer sells 498 units at $43.15 each. What is total revenue?,"$21,920.20","$21,986.70","$21,488.70","$21,057.20"
 71,25,2026-10-18T19:01:40Z,"Fixed costs are $28,000.00. Each unit sells for $154.00 with a variable cost of $56.00. How many units must be sold to break even, to the nearest unit?",133 units,286 units,182 units,500 units
+72,1,2026-10-18T20:01:59Z,An item listed at $515.03 is discounted by 5%. What is the sale price?,$25.75,$510.03,$540.78,$489.28
+72,2,2026-10-18T20:01:59Z,"Quarterly revenue moved from $3,450.00 to $1,956.00. What is the percentage change?",56.7%,-76.4%,43.3%,-43.3%
+72,3,2026-10-18T20:01:59Z,"An invoice for $3,583.46 is converted to euros at 1.2619 euros per US dollar. How many euros is that?","4,521.97","4,880.31","4,163.62","2,839.73"
+72,4,2026-10-18T20:01:59Z,"A $8,520.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$3,408.00","$1,704.00","$5,112.00","$5,680.00"
+72,5,2026-10-18T20:01:59Z,"Quarterly revenue moved from $4,550.00 to $6,954.00. What is the percentage change?",52.8%,152.8%,-52.8%,34.6%
+72,6,2026-10-18T20:01:59Z,"Quarterly revenue moved from $1,800.00 to $2,000.00. What is the percentage change?",-11.1%,10.0%,111.1%,11.1%
+72,7,2026-10-18T20:01:59Z,"An investment of $8,500.00 grows at 12% compounded annually. What is its value after 8 years?","$18,790.79","$8,160.00","$16,660.00","$21,045.69"
+72,8,2026-10-18T20:01:59Z,"An invoice for $3,710.22 is converted to euros at 0.6967 euros per US dollar. How many euros is that?","2,213.89","5,325.42","2,584.91","2,955.93"
+72,9,2026-10-18T20:01:59Z,"Quarterly revenue moved from $1,650.00 to $2,616.00. What is the percentage change?",158.5%,36.9%,58.5%,-58.5%
+72,10,2026-10-18T20:01:59Z,"Fixed costs are $51,500.00. Each unit sells for $154.00 with a variable cost of $75.00. How many units must be sold to break even, to the nearest unit?",225 units,687 units,652 units,334 units
+72,11,2026-10-18T20:01:59Z,An item listed at $227.14 is discounted by 30%. What is the sale price?,$295.28,$197.14,$68.14,$159.00
+72,12,2026-10-18T20:01:59Z,"A support queue holds 7 billing tickets, 10 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",35.0%,37.0%,63.0%,25.9%
+72,13,2026-10-18T20:01:59Z,"A product line generates $24,250.00 in revenue against $11,700.03 in cost of goods sold. What is the gross margin?",34.9%,51.8%,107.3%,48.2%
+72,14,2026-10-18T20:01:59Z,"A product line generates $52,000.00 in revenue against $31,364.58 in cost of goods sold. What is the gross margin?",39.7%,65.8%,60.3%,24.8%
+72,15,2026-10-18T20:01:59Z,A contract signed on 4 March 2026 has a 379-day settlement period. On what date does it settle?,11 March 2027,17 April 2027,18 March 2027,19 March 2027
+72,16,2026-10-18T20:01:59Z,"A product line generates $56,250.00 in revenue against $33,683.69 in cost of goods sold. What is the gross margin?",67.0%,40.1%,25.1%,59.9%
+72,17,2026-10-18T20:01:59Z,Quarterly revenue moved from $300.00 to $443.00. What is the percentage change?,47.7%,147.7%,32.3%,-47.7%
+72,18,2026-10-18T20:01:59Z,"A support queue holds 23 billing tickets, 8 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",23.5%,91.2%,67.6%,209.1%
+72,19,2026-10-18T20:01:59Z,"A monthly headcount series runs 22, 32, 42, 52, 62. If the pattern continues, what is the next value?",92,82,62,72
+72,20,2026-10-18T20:01:59Z,A retailer sells 922 units at $67.78 each. What is total revenue?,"$62,493.16","$63,170.96","$63,415.16","$61,815.36"
+72,21,2026-10-18T20:01:59Z,A retailer sells 701 units at $22.90 each. What is total revenue?,"$16,753.90","$16,052.90","$15,823.90","$16,281.90"
+72,22,2026-10-18T20:01:59Z,"An invoice for $6,877.87 is converted to euros at 1.4554 euros per US dollar. How many euros is that?","4,725.76","9,322.26","10,697.84","10,010.05"
+72,23,2026-10-18T20:01:59Z,A contract signed on 23 February 2026 has a 389-day settlement period. On what date does it settle?,18 April 2027,20 March 2027,19 March 2027,12 March 2027
+72,24,2026-10-18T20:01:59Z,A retailer sells 155 units at $89.57 each. What is total revenue?,"$13,883.35","$12,987.65","$14,779.05","$14,038.35"
+72,25,2026-10-18T20:01:59Z,"Fixed costs are $24,500.00. Each unit sells for $192.00 with a variable cost of $83.00. How many units must be sold to break even, to the nearest unit?",89 units,128 units,225 units,295 units
