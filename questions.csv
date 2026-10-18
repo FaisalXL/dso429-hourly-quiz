@@ -1724,3 +1724,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 69,23,2026-10-18T17:01:37Z,"A product line generates $7,000.00 in revenue against $4,271.25 in cost of goods sold. What is the gross margin?",61.0%,24.2%,39.0%,63.9%
 69,24,2026-10-18T17:01:37Z,"Quarterly revenue moved from $3,250.00 to $2,293.00. What is the percentage change?",70.6%,-29.4%,29.4%,-41.7%
 69,25,2026-10-18T17:01:37Z,"An investment of $6,000.00 grows at 13% compounded annually. What is its value after 3 years?","$2,340.00","$8,657.38","$7,661.40","$8,340.00"
+70,1,2026-10-18T18:01:37Z,A retailer sells 829 units at $36.16 each. What is total revenue?,"$29,615.04","$29,976.64","$30,338.24","$30,805.64"
+70,2,2026-10-18T18:01:37Z,"Fixed costs are $6,000.00. Each unit sells for $31.00 with a variable cost of $11.00. How many units must be sold to break even, to the nearest unit?",143 units,300 units,545 units,194 units
+70,3,2026-10-18T18:01:37Z,"A product line generates $85,750.00 in revenue against $72,707.09 in cost of goods sold. What is the gross margin?",15.2%,84.8%,8.2%,17.9%
+70,4,2026-10-18T18:01:37Z,An item listed at $40.43 is discounted by 20%. What is the sale price?,$32.34,$8.09,$48.52,$20.43
+70,5,2026-10-18T18:01:37Z,"Quarterly revenue moved from $1,800.00 to $991.00. What is the percentage change?",-44.9%,-81.6%,44.9%,55.1%
+70,6,2026-10-18T18:01:37Z,"A monthly headcount series runs 10, 27, 44, 61, 78. If the pattern continues, what is the next value?",95,129,112,78
+70,7,2026-10-18T18:01:37Z,An item listed at $708.59 is discounted by 30%. What is the sale price?,$212.58,$678.59,$921.17,$496.01
+70,8,2026-10-18T18:01:37Z,"Fixed costs are $24,500.00. Each unit sells for $86.00 with a variable cost of $34.00. How many units must be sold to break even, to the nearest unit?",285 units,204 units,471 units,721 units
+70,9,2026-10-18T18:01:37Z,A retailer sells 711 units at $77.93 each. What is total revenue?,"$54,628.93","$56,119.23","$56,187.53","$55,408.23"
+70,10,2026-10-18T18:01:37Z,"Quarterly revenue moved from $2,650.00 to $1,790.00. What is the percentage change?",-48.0%,67.5%,-32.5%,32.5%
+70,11,2026-10-18T18:01:37Z,A contract signed on 9 November 2026 has a 191-day settlement period. On what date does it settle?,19 May 2027,18 June 2027,12 May 2027,20 May 2027
+70,12,2026-10-18T18:01:37Z,"A support queue holds 3 billing tickets, 21 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",8.3%,58.3%,66.7%,9.1%
+70,13,2026-10-18T18:01:37Z,"An invoice for $4,738.86 is converted to euros at 0.8240 euros per US dollar. How many euros is that?","5,751.04","3,904.82","3,430.93","4,378.71"
+70,14,2026-10-18T18:01:37Z,A retailer sells 550 units at $78.16 each. What is total revenue?,"$42,206.40","$42,988.00","$43,769.60","$43,538.00"
+70,15,2026-10-18T18:01:37Z,Region A had 138 orders averaging $35.00; region B had 155 orders averaging $50.00. What is the overall average order value?,42.06,81.16,42.94,42.50
+70,16,2026-10-18T18:01:37Z,Region A had 30 orders averaging $73.00; region B had 174 orders averaging $55.00. What is the overall average order value?,64.00,67.59,57.65,70.35
+70,17,2026-10-18T18:01:37Z,A retailer sells 732 units at $27.07 each. What is total revenue?,"$19,815.24","$20,085.94","$19,544.54","$20,547.24"
+70,18,2026-10-18T18:01:37Z,"A support queue holds 22 billing tickets, 14 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",32.6%,51.2%,104.8%,83.7%
+70,19,2026-10-18T18:01:37Z,"Quarterly revenue moved from $4,200.00 to $5,278.00. What is the percentage change?",-25.7%,20.4%,25.7%,125.7%
+70,20,2026-10-18T18:01:37Z,"An investment of $26,000.00 grows at 14% compounded annually. What is its value after 2 years?","$29,640.00","$33,789.60","$7,280.00","$33,280.00"
+70,21,2026-10-18T18:01:37Z,Region A had 61 orders averaging $73.00; region B had 182 orders averaging $45.00. What is the overall average order value?,69.47,65.97,59.00,52.03
+70,22,2026-10-18T18:01:37Z,"Fixed costs are $22,000.00. Each unit sells for $150.00 with a variable cost of $70.00. How many units must be sold to break even, to the nearest unit?",147 units,100 units,314 units,275 units
+70,23,2026-10-18T18:01:37Z,Region A had 82 orders averaging $35.00; region B had 10 orders averaging $25.00. What is the overall average order value?,26.09,38.05,33.91,30.00
+70,24,2026-10-18T18:01:37Z,"A monthly headcount series runs 21, 31, 41, 51, 61. If the pattern continues, what is the next value?",61,81,71,91
+70,25,2026-10-18T18:01:37Z,"A monthly headcount series runs 17, 27, 37, 47, 57. If the pattern continues, what is the next value?",67,77,87,57
