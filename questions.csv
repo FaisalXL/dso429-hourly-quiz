@@ -1574,3 +1574,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 63,23,2026-10-18T11:01:36Z,"A monthly headcount series runs 15, 27, 39, 51, 63. If the pattern continues, what is the next value?",99,63,75,87
 63,24,2026-10-18T11:01:36Z,"A support queue holds 9 billing tickets, 3 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",44.4%,50.0%,33.3%,11.1%
 63,25,2026-10-18T11:01:36Z,"An investment of $45,000.00 grows at 3% compounded annually. What is its value after 5 years?","$52,167.33","$6,750.00","$51,750.00","$50,647.90"
+64,1,2026-10-18T12:01:39Z,"An investment of $45,500.00 grows at 7% compounded annually. What is its value after 3 years?","$55,739.46","$55,055.00","$52,092.95","$9,555.00"
+64,2,2026-10-18T12:01:39Z,"A monthly headcount series runs 3, 8, 13, 18, 23. If the pattern continues, what is the next value?",23,38,28,33
+64,3,2026-10-18T12:01:39Z,An item listed at $371.99 is discounted by 35%. What is the sale price?,$130.20,$336.99,$241.79,$502.19
+64,4,2026-10-18T12:01:39Z,An item listed at $493.63 is discounted by 20%. What is the sale price?,$98.73,$394.90,$592.36,$473.63
+64,5,2026-10-18T12:01:39Z,"Fixed costs are $41,000.00. Each unit sells for $174.00 with a variable cost of $55.00. How many units must be sold to break even, to the nearest unit?",179 units,345 units,236 units,745 units
+64,6,2026-10-18T12:01:39Z,"A monthly headcount series runs 33, 40, 47, 54, 61. If the pattern continues, what is the next value?",61,75,68,82
+64,7,2026-10-18T12:01:39Z,An item listed at $654.65 is discounted by 20%. What is the sale price?,$130.93,$785.58,$523.72,$634.65
+64,8,2026-10-18T12:01:39Z,A $630.00 marketing budget is split between two channels in the ratio 5:6. What does the first channel receive?,$57.27,$343.64,$525.00,$286.36
+64,9,2026-10-18T12:01:39Z,Quarterly revenue moved from $450.00 to $658.00. What is the percentage change?,31.6%,-46.2%,46.2%,146.2%
+64,10,2026-10-18T12:01:39Z,"An invoice for $5,423.60 is converted to euros at 1.6847 euros per US dollar. How many euros is that?","9,679.50","9,137.14","3,219.33","8,594.78"
+64,11,2026-10-18T12:01:39Z,"A $8,070.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?","$10,760.00","$1,152.86","$3,458.57","$4,611.43"
+64,12,2026-10-18T12:01:39Z,An invoice for $556.33 is converted to euros at 1.3218 euros per US dollar. How many euros is that?,420.89,735.36,790.99,679.72
+64,13,2026-10-18T12:01:39Z,"An investment of $19,000.00 grows at 7% compounded annually. What is its value after 5 years?","$24,905.12","$6,650.00","$25,650.00","$26,648.48"
+64,14,2026-10-18T12:01:39Z,An item listed at $741.36 is discounted by 30%. What is the sale price?,$963.77,$518.95,$222.41,$711.36
+64,15,2026-10-18T12:01:39Z,"A support queue holds 9 billing tickets, 17 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",47.4%,60.7%,92.9%,32.1%
+64,16,2026-10-18T12:01:39Z,A retailer sells 516 units at $53.41 each. What is total revenue?,"$27,025.46","$28,093.66","$27,559.56","$28,075.56"
+64,17,2026-10-18T12:01:39Z,Region A had 38 orders averaging $74.00; region B had 41 orders averaging $70.00. What is the overall average order value?,72.00,71.92,72.08,138.59
+64,18,2026-10-18T12:01:39Z,An item listed at $179.75 is discounted by 15%. What is the sale price?,$164.75,$26.96,$206.71,$152.79
+64,19,2026-10-18T12:01:39Z,"An invoice for $5,758.34 is converted to euros at 1.7186 euros per US dollar. How many euros is that?","10,472.12","9,320.45","9,896.28","3,350.60"
+64,20,2026-10-18T12:01:39Z,"An invoice for $3,230.15 is converted to euros at 1.4775 euros per US dollar. How many euros is that?","4,772.55","5,095.56","4,449.53","2,186.23"
+64,21,2026-10-18T12:01:39Z,Region A had 185 orders averaging $64.00; region B had 40 orders averaging $95.00. What is the overall average order value?,89.49,84.54,69.51,79.50
+64,22,2026-10-18T12:01:39Z,"A $5,520.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$3,312.00","$3,680.00","$1,104.00","$2,208.00"
+64,23,2026-10-18T12:01:39Z,"Quarterly revenue moved from $750.00 to $1,040.00. What is the percentage change?",27.9%,38.7%,138.7%,-38.7%
+64,24,2026-10-18T12:01:39Z,"A $1,170.00 marketing budget is split between two channels in the ratio 4:7. What does the first channel receive?",$668.57,$106.36,$744.55,$425.45
+64,25,2026-10-18T12:01:39Z,Region A had 139 orders averaging $34.00; region B had 104 orders averaging $22.00. What is the overall average order value?,50.46,28.86,28.00,27.14
