@@ -2174,3 +2174,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 87,23,2026-10-19T11:01:40Z,"A product line generates $79,500.00 in revenue against $60,514.81 in cost of goods sold. What is the gross margin?",31.4%,13.6%,76.1%,23.9%
 87,24,2026-10-19T11:01:40Z,"Fixed costs are $7,500.00. Each unit sells for $148.00 with a variable cost of $17.00. How many units must be sold to break even, to the nearest unit?",441 units,45 units,57 units,51 units
 87,25,2026-10-19T11:01:40Z,"A product line generates $78,500.00 in revenue against $60,058.12 in cost of goods sold. What is the gross margin?",23.5%,13.3%,30.7%,76.5%
+88,1,2026-10-19T12:01:41Z,"A $1,140.00 marketing budget is split between two channels in the ratio 7:8. What does the first channel receive?",$997.50,$76.00,$608.00,$532.00
+88,2,2026-10-19T12:01:41Z,"A support queue holds 23 billing tickets, 8 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",164.3%,21.6%,83.8%,62.2%
+88,3,2026-10-19T12:01:41Z,A contract signed on 4 April 2026 has a 200-day settlement period. On what date does it settle?,20 November 2026,22 October 2026,21 October 2026,14 October 2026
+88,4,2026-10-19T12:01:41Z,"A monthly headcount series runs 38, 43, 48, 53, 58. If the pattern continues, what is the next value?",73,63,58,68
+88,5,2026-10-19T12:01:41Z,"A product line generates $84,250.00 in revenue against $64,840.39 in cost of goods sold. What is the gross margin?",23.0%,13.0%,29.9%,77.0%
+88,6,2026-10-19T12:01:41Z,"A monthly headcount series runs 31, 45, 59, 73, 87. If the pattern continues, what is the next value?",129,87,101,115
+88,7,2026-10-19T12:01:41Z,"An invoice for $6,703.27 is converted to euros at 1.2993 euros per US dollar. How many euros is that?","9,379.89","8,039.23","5,159.14","8,709.56"
+88,8,2026-10-19T12:01:41Z,Quarterly revenue moved from $850.00 to $765.00. What is the percentage change?,-10.0%,90.0%,-11.1%,10.0%
+88,9,2026-10-19T12:01:41Z,"An investment of $43,500.00 grows at 15% compounded annually. What is its value after 6 years?","$82,650.00","$39,150.00","$100,618.14","$87,494.04"
+88,10,2026-10-19T12:01:41Z,A retailer sells 649 units at $9.78 each. What is total revenue?,"$6,249.42","$6,445.02","$6,347.22","$6,996.22"
+88,11,2026-10-19T12:01:41Z,"An invoice for $6,968.93 is converted to euros at 1.3624 euros per US dollar. How many euros is that?","5,115.19","9,494.47","8,797.58","10,191.36"
+88,12,2026-10-19T12:01:41Z,"An invoice for $8,167.62 is converted to euros at 1.7685 euros per US dollar. How many euros is that?","4,618.39","14,444.44","15,261.20","13,627.67"
+88,13,2026-10-19T12:01:41Z,"Fixed costs are $13,000.00. Each unit sells for $74.00 with a variable cost of $23.00. How many units must be sold to break even, to the nearest unit?",134 units,176 units,565 units,255 units
+88,14,2026-10-19T12:01:41Z,An item listed at $314.00 is discounted by 5%. What is the sale price?,$309.00,$329.70,$298.30,$15.70
+88,15,2026-10-19T12:01:41Z,An item listed at $283.56 is discounted by 45%. What is the sale price?,$155.96,$238.56,$411.16,$127.60
+88,16,2026-10-19T12:01:41Z,A contract signed on 16 December 2026 has a 90-day settlement period. On what date does it settle?,15 April 2027,16 March 2027,17 March 2027,9 March 2027
+88,17,2026-10-19T12:01:41Z,A contract signed on 29 September 2026 has a 101-day settlement period. On what date does it settle?,7 February 2027,9 January 2027,1 January 2027,8 January 2027
+88,18,2026-10-19T12:01:41Z,"Fixed costs are $47,000.00. Each unit sells for $193.00 with a variable cost of $127.00. How many units must be sold to break even, to the nearest unit?",147 units,244 units,712 units,370 units
+88,19,2026-10-19T12:01:41Z,"A monthly headcount series runs 24, 35, 46, 57, 68. If the pattern continues, what is the next value?",101,79,68,90
+88,20,2026-10-19T12:01:41Z,"An invoice for $3,468.03 is converted to euros at 0.8533 euros per US dollar. How many euros is that?","4,064.26","3,306.07","2,959.27","2,612.47"
+88,21,2026-10-19T12:01:41Z,"An invoice for $8,391.82 is converted to euros at 1.4369 euros per US dollar. How many euros is that?","12,058.21","11,219.02","5,840.23","12,897.39"
+88,22,2026-10-19T12:01:41Z,An item listed at $843.27 is discounted by 5%. What is the sale price?,$801.11,$885.43,$42.16,$838.27
+88,23,2026-10-19T12:01:41Z,"A $6,570.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$4,380.00","$1,314.00","$2,628.00","$3,942.00"
+88,24,2026-10-19T12:01:41Z,"An invoice for $1,885.87 is converted to euros at 1.0224 euros per US dollar. How many euros is that?","1,928.11","2,116.70","1,844.55","1,739.53"
+88,25,2026-10-19T12:01:41Z,"A $1,410.00 marketing budget is split between two channels in the ratio 4:6. What does the first channel receive?",$564.00,$940.00,$846.00,$141.00
