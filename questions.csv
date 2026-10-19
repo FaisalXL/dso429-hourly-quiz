@@ -1924,3 +1924,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 77,23,2026-10-19T01:01:37Z,A $630.00 marketing budget is split between two channels in the ratio 9:8. What does the first channel receive?,$37.06,$296.47,$708.75,$333.53
 77,24,2026-10-19T01:01:37Z,"Fixed costs are $5,500.00. Each unit sells for $105.00 with a variable cost of $47.00. How many units must be sold to break even, to the nearest unit?",36 units,52 units,117 units,95 units
 77,25,2026-10-19T01:01:37Z,"Fixed costs are $20,500.00. Each unit sells for $157.00 with a variable cost of $64.00. How many units must be sold to break even, to the nearest unit?",131 units,320 units,220 units,93 units
+78,1,2026-10-19T02:01:40Z,"A product line generates $71,000.00 in revenue against $51,334.39 in cost of goods sold. What is the gross margin?",27.7%,72.3%,16.1%,38.3%
+78,2,2026-10-19T02:01:40Z,"Fixed costs are $21,500.00. Each unit sells for $147.00 with a variable cost of $121.00. How many units must be sold to break even, to the nearest unit?",827 units,80 units,178 units,146 units
+78,3,2026-10-19T02:01:40Z,A retailer sells 243 units at $59.75 each. What is total revenue?,"$13,921.75","$15,116.75","$14,519.25","$14,762.25"
+78,4,2026-10-19T02:01:40Z,"A $8,490.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?","$1,212.86","$6,064.29","$3,396.00","$2,425.71"
+78,5,2026-10-19T02:01:40Z,"A support queue holds 17 billing tickets, 25 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",76.4%,45.5%,44.7%,30.9%
+78,6,2026-10-19T02:01:40Z,An item listed at $92.84 is discounted by 25%. What is the sale price?,$116.05,$69.63,$67.84,$23.21
+78,7,2026-10-19T02:01:40Z,"A product line generates $64,250.00 in revenue against $51,914.52 in cost of goods sold. What is the gross margin?",80.8%,23.8%,19.2%,10.6%
+78,8,2026-10-19T02:01:40Z,"A product line generates $14,750.00 in revenue against $10,981.11 in cost of goods sold. What is the gross margin?",34.3%,14.6%,74.4%,25.6%
+78,9,2026-10-19T02:01:40Z,"Fixed costs are $64,500.00. Each unit sells for $33.00 with a variable cost of $17.00. How many units must be sold to break even, to the nearest unit?","4,031 units","1,290 units","3,794 units","1,955 units"
+78,10,2026-10-19T02:01:40Z,"Fixed costs are $73,500.00. Each unit sells for $35.00 with a variable cost of $25.00. How many units must be sold to break even, to the nearest unit?","7,350 units","2,940 units","2,100 units","1,225 units"
+78,11,2026-10-19T02:01:40Z,A retailer sells 850 units at $29.74 each. What is total revenue?,"$25,279.00","$25,576.40","$26,129.00","$24,981.60"
+78,12,2026-10-19T02:01:40Z,An item listed at $25.82 is discounted by 15%. What is the sale price?,$21.95,$29.69,$10.82,$3.87
+78,13,2026-10-19T02:01:40Z,"Quarterly revenue moved from $3,600.00 to $4,162.00. What is the percentage change?",-15.6%,15.6%,115.6%,13.5%
+78,14,2026-10-19T02:01:40Z,"A product line generates $31,250.00 in revenue against $18,966.68 in cost of goods sold. What is the gross margin?",64.8%,39.3%,60.7%,24.5%
+78,15,2026-10-19T02:01:40Z,"An invoice for $3,379.79 is converted to euros at 0.7982 euros per US dollar. How many euros is that?","3,035.73","2,697.75","2,359.77","4,234.26"
+78,16,2026-10-19T02:01:40Z,"Fixed costs are $25,000.00. Each unit sells for $200.00 with a variable cost of $156.00. How many units must be sold to break even, to the nearest unit?",568 units,125 units,70 units,160 units
+78,17,2026-10-19T02:01:40Z,"Quarterly revenue moved from $2,950.00 to $1,805.00. What is the percentage change?",38.8%,-63.4%,-38.8%,61.2%
+78,18,2026-10-19T02:01:40Z,"Fixed costs are $35,500.00. Each unit sells for $191.00 with a variable cost of $104.00. How many units must be sold to break even, to the nearest unit?",408 units,186 units,341 units,120 units
+78,19,2026-10-19T02:01:40Z,A retailer sells 743 units at $70.14 each. What is total revenue?,"$52,815.42","$52,114.02","$52,857.02","$51,412.62"
+78,20,2026-10-19T02:01:40Z,"A $7,740.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$1,105.71","$5,528.57","$2,211.43","$19,350.00"
+78,21,2026-10-19T02:01:40Z,"Fixed costs are $64,500.00. Each unit sells for $31.00 with a variable cost of $10.00. How many units must be sold to break even, to the nearest unit?","6,450 units","3,071 units","2,081 units","1,573 units"
+78,22,2026-10-19T02:01:40Z,A retailer sells 317 units at $22.69 each. What is total revenue?,"$7,192.73","$7,419.63","$7,509.73","$6,965.83"
+78,23,2026-10-19T02:01:40Z,A contract signed on 5 August 2026 has a 177-day settlement period. On what date does it settle?,28 February 2027,30 January 2027,29 January 2027,22 January 2027
+78,24,2026-10-19T02:01:40Z,"A support queue holds 15 billing tickets, 13 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",42.9%,37.1%,75.0%,80.0%
+78,25,2026-10-19T02:01:40Z,A retailer sells 686 units at $31.58 each. What is total revenue?,"$21,979.68","$21,663.88","$22,349.88","$21,348.08"
