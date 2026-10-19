@@ -2099,3 +2099,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 84,23,2026-10-19T08:01:40Z,"Quarterly revenue moved from $3,550.00 to $2,004.00. What is the percentage change?",43.5%,-43.5%,-77.1%,56.5%
 84,24,2026-10-19T08:01:40Z,"A product line generates $45,000.00 in revenue against $22,405.68 in cost of goods sold. What is the gross margin?",50.2%,33.5%,49.8%,100.8%
 84,25,2026-10-19T08:01:40Z,"A $8,700.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$3,480.00","$1,740.00","$5,220.00","$13,050.00"
+85,1,2026-10-19T09:01:46Z,An item listed at $566.09 is discounted by 10%. What is the sale price?,$509.48,$622.70,$56.61,$556.09
+85,2,2026-10-19T09:01:46Z,"An investment of $8,000.00 grows at 8% compounded annually. What is its value after 7 years?","$13,710.59","$12,480.00","$4,480.00","$12,694.99"
+85,3,2026-10-19T09:01:46Z,"Fixed costs are $18,500.00. Each unit sells for $71.00 with a variable cost of $29.00. How many units must be sold to break even, to the nearest unit?",261 units,638 units,185 units,440 units
+85,4,2026-10-19T09:01:46Z,"An invoice for $1,388.32 is converted to euros at 1.0727 euros per US dollar. How many euros is that?","1,489.25","1,294.23","1,628.08","1,350.42"
+85,5,2026-10-19T09:01:46Z,A retailer sells 979 units at $57.94 each. What is total revenue?,"$56,143.86","$57,702.26","$56,723.26","$57,302.66"
+85,6,2026-10-19T09:01:46Z,An item listed at $192.01 is discounted by 45%. What is the sale price?,$278.41,$147.01,$105.61,$86.40
+85,7,2026-10-19T09:01:46Z,Quarterly revenue moved from $450.00 to $622.00. What is the percentage change?,38.2%,27.7%,-38.2%,138.2%
+85,8,2026-10-19T09:01:46Z,"A product line generates $79,000.00 in revenue against $53,289.03 in cost of goods sold. What is the gross margin?",32.5%,48.2%,19.4%,67.5%
+85,9,2026-10-19T09:01:46Z,"A product line generates $73,000.00 in revenue against $54,208.44 in cost of goods sold. What is the gross margin?",34.7%,25.7%,14.8%,74.3%
+85,10,2026-10-19T09:01:46Z,"An invoice for $7,293.88 is converted to euros at 1.5791 euros per US dollar. How many euros is that?","11,517.77","4,619.01","12,247.15","10,788.38"
+85,11,2026-10-19T09:01:46Z,"Quarterly revenue moved from $4,700.00 to $6,190.00. What is the percentage change?",31.7%,24.1%,-31.7%,131.7%
+85,12,2026-10-19T09:01:46Z,A retailer sells 269 units at $13.02 each. What is total revenue?,"$3,771.38","$3,372.18","$3,502.38","$3,632.58"
+85,13,2026-10-19T09:01:46Z,"Fixed costs are $77,500.00. Each unit sells for $55.00 with a variable cost of $13.00. How many units must be sold to break even, to the nearest unit?","1,409 units","1,140 units","5,962 units","1,845 units"
+85,14,2026-10-19T09:01:46Z,"A monthly headcount series runs 24, 28, 32, 36, 40. If the pattern continues, what is the next value?",44,40,48,52
+85,15,2026-10-19T09:01:46Z,"A $8,700.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?","$6,214.29","$3,480.00","$1,242.86","$2,485.71"
+85,16,2026-10-19T09:01:46Z,"An invoice for $2,876.87 is converted to euros at 1.7536 euros per US dollar. How many euros is that?","5,332.57","5,044.88","1,640.55","4,757.19"
+85,17,2026-10-19T09:01:46Z,A contract signed on 6 January 2026 has a 162-day settlement period. On what date does it settle?,18 June 2026,10 June 2026,17 June 2026,17 July 2026
+85,18,2026-10-19T09:01:46Z,Region A had 43 orders averaging $77.00; region B had 24 orders averaging $90.00. What is the overall average order value?,81.66,85.34,83.50,127.23
+85,19,2026-10-19T09:01:46Z,"A support queue holds 3 billing tickets, 11 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",12.5%,40.7%,51.9%,11.1%
+85,20,2026-10-19T09:01:46Z,"A monthly headcount series runs 20, 29, 38, 47, 56. If the pattern continues, what is the next value?",83,74,56,65
+85,21,2026-10-19T09:01:46Z,"A support queue holds 8 billing tickets, 7 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",47.1%,88.2%,41.2%,88.9%
+85,22,2026-10-19T09:01:46Z,"A monthly headcount series runs 33, 50, 67, 84, 101. If the pattern continues, what is the next value?",101,152,135,118
+85,23,2026-10-19T09:01:46Z,A retailer sells 359 units at $27.65 each. What is total revenue?,"$10,285.35","$10,202.85","$9,926.35","$9,649.85"
+85,24,2026-10-19T09:01:46Z,"Quarterly revenue moved from $4,950.00 to $3,233.00. What is the percentage change?",-34.7%,-53.1%,65.3%,34.7%
+85,25,2026-10-19T09:01:46Z,A retailer sells 482 units at $22.21 each. What is total revenue?,"$11,187.22","$10,705.22","$10,483.12","$10,927.32"
