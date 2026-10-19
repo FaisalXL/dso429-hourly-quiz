@@ -2349,3 +2349,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 94,23,2026-10-19T18:01:39Z,A $630.00 marketing budget is split between two channels in the ratio 8:6. What does the first channel receive?,$360.00,$45.00,$840.00,$270.00
 94,24,2026-10-19T18:01:39Z,"A support queue holds 19 billing tickets, 20 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",70.4%,43.5%,84.8%,41.3%
 94,25,2026-10-19T18:01:39Z,"A product line generates $57,500.00 in revenue against $33,702.71 in cost of goods sold. What is the gross margin?",70.6%,41.4%,26.1%,58.6%
+95,1,2026-10-19T19:01:38Z,"A monthly headcount series runs 5, 20, 35, 50, 65. If the pattern continues, what is the next value?",110,80,65,95
+95,2,2026-10-19T19:01:38Z,A retailer sells 371 units at $28.31 each. What is total revenue?,"$10,874.01","$10,503.01","$10,219.91","$10,786.11"
+95,3,2026-10-19T19:01:38Z,Region A had 187 orders averaging $62.00; region B had 126 orders averaging $93.00. What is the overall average order value?,124.66,77.50,74.48,80.52
+95,4,2026-10-19T19:01:38Z,Region A had 96 orders averaging $54.00; region B had 85 orders averaging $61.00. What is the overall average order value?,57.71,57.50,108.01,57.29
+95,5,2026-10-19T19:01:38Z,Quarterly revenue moved from $650.00 to $389.00. What is the percentage change?,-67.1%,-40.2%,40.2%,59.8%
+95,6,2026-10-19T19:01:38Z,"A support queue holds 8 billing tickets, 18 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",51.4%,22.9%,29.6%,74.3%
+95,7,2026-10-19T19:01:38Z,A retailer sells 369 units at $8.60 each. What is total revenue?,"$3,259.40","$3,087.40","$3,542.40","$3,173.40"
+95,8,2026-10-19T19:01:38Z,A contract signed on 18 November 2026 has a 112-day settlement period. On what date does it settle?,9 April 2027,11 March 2027,3 March 2027,10 March 2027
+95,9,2026-10-19T19:01:38Z,"A product line generates $58,000.00 in revenue against $30,780.29 in cost of goods sold. What is the gross margin?",53.1%,88.4%,30.7%,46.9%
+95,10,2026-10-19T19:01:38Z,An item listed at $66.03 is discounted by 40%. What is the sale price?,$26.03,$92.44,$26.41,$39.62
+95,11,2026-10-19T19:01:38Z,An item listed at $50.64 is discounted by 20%. What is the sale price?,$40.51,$60.77,$10.13,$30.64
+95,12,2026-10-19T19:01:38Z,"A product line generates $7,000.00 in revenue against $6,302.82 in cost of goods sold. What is the gross margin?",5.2%,90.0%,10.0%,11.1%
+95,13,2026-10-19T19:01:38Z,A retailer sells 386 units at $5.46 each. What is total revenue?,"$2,107.56","$2,493.56","$2,162.16","$2,052.96"
+95,14,2026-10-19T19:01:38Z,"A product line generates $75,250.00 in revenue against $65,734.65 in cost of goods sold. What is the gross margin?",14.5%,12.6%,6.7%,87.4%
+95,15,2026-10-19T19:01:38Z,"An investment of $27,000.00 grows at 13% compounded annually. What is its value after 5 years?","$44,022.79","$17,550.00","$49,745.75","$44,550.00"
+95,16,2026-10-19T19:01:38Z,"Quarterly revenue moved from $4,700.00 to $2,415.00. What is the percentage change?",-48.6%,48.6%,-94.6%,51.4%
+95,17,2026-10-19T19:01:38Z,Region A had 185 orders averaging $51.00; region B had 145 orders averaging $57.00. What is the overall average order value?,53.64,95.68,54.00,54.36
+95,18,2026-10-19T19:01:38Z,A retailer sells 246 units at $52.51 each. What is total revenue?,"$13,163.46","$12,917.46","$12,392.36","$13,442.56"
+95,19,2026-10-19T19:01:38Z,"A $7,200.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?","$1,028.57","$2,057.14","$5,142.86","$2,880.00"
+95,20,2026-10-19T19:01:38Z,"A $7,110.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?","$4,740.00","$1,185.00","$2,370.00","$3,555.00"
+95,21,2026-10-19T19:01:38Z,A contract signed on 19 April 2026 has a 48-day settlement period. On what date does it settle?,6 June 2026,7 June 2026,30 May 2026,6 July 2026
+95,22,2026-10-19T19:01:38Z,A contract signed on 25 August 2026 has a 74-day settlement period. On what date does it settle?,7 December 2026,31 October 2026,8 November 2026,7 November 2026
+95,23,2026-10-19T19:01:38Z,An item listed at $145.55 is discounted by 15%. What is the sale price?,$167.38,$123.72,$130.55,$21.83
+95,24,2026-10-19T19:01:38Z,Quarterly revenue moved from $850.00 to $431.00. What is the percentage change?,49.3%,50.7%,-49.3%,-97.2%
+95,25,2026-10-19T19:01:38Z,"Quarterly revenue moved from $1,550.00 to $2,194.00. What is the percentage change?",-41.5%,41.5%,141.5%,29.4%
