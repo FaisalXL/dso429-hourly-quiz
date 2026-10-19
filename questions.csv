@@ -2249,3 +2249,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 90,23,2026-10-19T14:01:38Z,"An invoice for $6,631.10 is converted to euros at 0.8801 euros per US dollar. How many euros is that?","6,499.14","5,836.03","5,172.92","7,534.48"
 90,24,2026-10-19T14:01:38Z,"A product line generates $72,750.00 in revenue against $49,011.27 in cost of goods sold. What is the gross margin?",19.5%,48.4%,32.6%,67.4%
 90,25,2026-10-19T14:01:38Z,"A product line generates $44,000.00 in revenue against $28,904.29 in cost of goods sold. What is the gross margin?",20.7%,52.2%,65.7%,34.3%
+91,1,2026-10-19T15:01:43Z,"An invoice for $4,096.00 is converted to euros at 1.3745 euros per US dollar. How many euros is that?","5,629.95","6,039.55","5,220.35","2,979.99"
+91,2,2026-10-19T15:01:43Z,"An investment of $48,000.00 grows at 3% compounded annually. What is its value after 4 years?","$54,024.42","$52,450.90","$53,760.00","$5,760.00"
+91,3,2026-10-19T15:01:43Z,"A monthly headcount series runs 13, 16, 19, 22, 25. If the pattern continues, what is the next value?",31,28,34,25
+91,4,2026-10-19T15:01:43Z,"A $5,370.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$1,074.00","$3,222.00","$2,148.00","$3,580.00"
+91,5,2026-10-19T15:01:43Z,A contract signed on 1 April 2026 has a 358-day settlement period. On what date does it settle?,18 March 2027,26 March 2027,24 April 2027,25 March 2027
+91,6,2026-10-19T15:01:43Z,An item listed at $359.08 is discounted by 30%. What is the sale price?,$107.72,$329.08,$466.80,$251.36
+91,7,2026-10-19T15:01:43Z,"Fixed costs are $20,500.00. Each unit sells for $171.00 with a variable cost of $82.00. How many units must be sold to break even, to the nearest unit?",230 units,250 units,81 units,120 units
+91,8,2026-10-19T15:01:43Z,"Quarterly revenue moved from $1,500.00 to $873.00. What is the percentage change?",58.2%,-71.8%,41.8%,-41.8%
+91,9,2026-10-19T15:01:43Z,"Fixed costs are $79,000.00. Each unit sells for $199.00 with a variable cost of $106.00. How many units must be sold to break even, to the nearest unit?",259 units,849 units,397 units,745 units
+91,10,2026-10-19T15:01:43Z,A $840.00 marketing budget is split between two channels in the ratio 8:7. What does the first channel receive?,$960.00,$448.00,$56.00,$392.00
+91,11,2026-10-19T15:01:43Z,An item listed at $668.91 is discounted by 25%. What is the sale price?,$501.68,$167.23,$836.14,$643.91
+91,12,2026-10-19T15:01:43Z,Region A had 115 orders averaging $65.00; region B had 146 orders averaging $76.00. What is the overall average order value?,127.20,70.50,71.15,69.85
+91,13,2026-10-19T15:01:43Z,"Quarterly revenue moved from $2,300.00 to $3,087.00. What is the percentage change?",-34.2%,34.2%,25.5%,134.2%
+91,14,2026-10-19T15:01:43Z,"A monthly headcount series runs 19, 24, 29, 34, 39. If the pattern continues, what is the next value?",44,39,54,49
+91,15,2026-10-19T15:01:43Z,Region A had 49 orders averaging $85.00; region B had 61 orders averaging $56.00. What is the overall average order value?,70.50,124.28,68.92,72.08
+91,16,2026-10-19T15:01:43Z,A retailer sells 631 units at $34.59 each. What is total revenue?,"$21,826.29","$22,172.19","$21,480.39","$22,457.29"
+91,17,2026-10-19T15:01:43Z,"Quarterly revenue moved from $1,750.00 to $2,272.00. What is the percentage change?",29.8%,23.0%,129.8%,-29.8%
+91,18,2026-10-19T15:01:43Z,An item listed at $355.66 is discounted by 10%. What is the sale price?,$35.57,$345.66,$391.23,$320.09
+91,19,2026-10-19T15:01:43Z,Region A had 68 orders averaging $78.00; region B had 48 orders averaging $60.00. What is the overall average order value?,120.35,67.45,70.55,69.00
+91,20,2026-10-19T15:01:43Z,"Fixed costs are $12,000.00. Each unit sells for $65.00 with a variable cost of $43.00. How many units must be sold to break even, to the nearest unit?",545 units,185 units,111 units,279 units
+91,21,2026-10-19T15:01:43Z,"Fixed costs are $19,000.00. Each unit sells for $194.00 with a variable cost of $142.00. How many units must be sold to break even, to the nearest unit?",57 units,365 units,98 units,134 units
+91,22,2026-10-19T15:01:43Z,"An investment of $48,000.00 grows at 2% compounded annually. What is its value after 8 years?","$55,136.91","$55,680.00","$7,680.00","$56,239.65"
+91,23,2026-10-19T15:01:43Z,A $900.00 marketing budget is split between two channels in the ratio 2:8. What does the first channel receive?,$90.00,$720.00,$180.00,$225.00
+91,24,2026-10-19T15:01:43Z,A retailer sells 363 units at $75.07 each. What is total revenue?,"$28,001.11","$26,499.71","$27,613.41","$27,250.41"
+91,25,2026-10-19T15:01:43Z,"Quarterly revenue moved from $1,700.00 to $1,377.00. What is the percentage change?",-19.0%,19.0%,81.0%,-23.5%
