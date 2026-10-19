@@ -2374,3 +2374,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 95,23,2026-10-19T19:01:38Z,An item listed at $145.55 is discounted by 15%. What is the sale price?,$167.38,$123.72,$130.55,$21.83
 95,24,2026-10-19T19:01:38Z,Quarterly revenue moved from $850.00 to $431.00. What is the percentage change?,49.3%,50.7%,-49.3%,-97.2%
 95,25,2026-10-19T19:01:38Z,"Quarterly revenue moved from $1,550.00 to $2,194.00. What is the percentage change?",-41.5%,41.5%,141.5%,29.4%
+96,1,2026-10-19T20:01:41Z,"A support queue holds 18 billing tickets, 6 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",21.4%,64.3%,85.7%,180.0%
+96,2,2026-10-19T20:01:41Z,"An invoice for $2,009.30 is converted to euros at 1.3378 euros per US dollar. How many euros is that?","2,888.97","2,688.04","1,501.94","2,487.11"
+96,3,2026-10-19T20:01:41Z,"A support queue holds 5 billing tickets, 15 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",18.5%,74.1%,55.6%,22.7%
+96,4,2026-10-19T20:01:41Z,"Quarterly revenue moved from $2,100.00 to $1,791.00. What is the percentage change?",85.3%,-17.3%,14.7%,-14.7%
+96,5,2026-10-19T20:01:41Z,Region A had 65 orders averaging $27.00; region B had 178 orders averaging $58.00. What is the overall average order value?,42.50,49.71,67.86,35.29
+96,6,2026-10-19T20:01:41Z,A contract signed on 27 May 2026 has a 169-day settlement period. On what date does it settle?,5 November 2026,13 November 2026,12 December 2026,12 November 2026
+96,7,2026-10-19T20:01:41Z,An item listed at $123.43 is discounted by 30%. What is the sale price?,$86.40,$160.46,$93.43,$37.03
+96,8,2026-10-19T20:01:41Z,"Fixed costs are $73,000.00. Each unit sells for $178.00 with a variable cost of $74.00. How many units must be sold to break even, to the nearest unit?",702 units,410 units,290 units,986 units
+96,9,2026-10-19T20:01:41Z,"An investment of $8,500.00 grows at 2% compounded annually. What is its value after 6 years?","$9,520.00","$1,020.00","$9,384.69","$9,572.38"
+96,10,2026-10-19T20:01:41Z,A contract signed on 2 January 2026 has a 297-day settlement period. On what date does it settle?,19 October 2026,25 November 2026,26 October 2026,27 October 2026
+96,11,2026-10-19T20:01:41Z,"A product line generates $41,000.00 in revenue against $26,129.01 in cost of goods sold. What is the gross margin?",22.2%,56.9%,36.3%,63.7%
+96,12,2026-10-19T20:01:41Z,A $630.00 marketing budget is split between two channels in the ratio 3:7. What does the first channel receive?,$441.00,$270.00,$189.00,$63.00
+96,13,2026-10-19T20:01:41Z,A retailer sells 609 units at $15.17 each. What is total revenue?,"$9,238.53","$9,847.53","$9,390.23","$9,086.83"
+96,14,2026-10-19T20:01:41Z,A contract signed on 16 June 2026 has a 14-day settlement period. On what date does it settle?,30 June 2026,23 June 2026,30 July 2026,1 July 2026
+96,15,2026-10-19T20:01:41Z,A $660.00 marketing budget is split between two channels in the ratio 6:7. What does the first channel receive?,$50.77,$565.71,$304.62,$355.38
+96,16,2026-10-19T20:01:41Z,A $840.00 marketing budget is split between two channels in the ratio 6:8. What does the first channel receive?,$480.00,$360.00,$60.00,$630.00
+96,17,2026-10-19T20:01:41Z,"A $1,440.00 marketing budget is split between two channels in the ratio 4:6. What does the first channel receive?",$864.00,$960.00,$576.00,$144.00
+96,18,2026-10-19T20:01:41Z,"A support queue holds 19 billing tickets, 16 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",73.1%,77.8%,42.2%,35.6%
+96,19,2026-10-19T20:01:41Z,"Quarterly revenue moved from $3,800.00 to $4,798.00. What is the percentage change?",26.3%,20.8%,-26.3%,126.3%
+96,20,2026-10-19T20:01:41Z,A retailer sells 849 units at $15.86 each. What is total revenue?,"$13,623.74","$13,465.14","$14,314.14","$13,306.54"
+96,21,2026-10-19T20:01:41Z,An item listed at $708.34 is discounted by 15%. What is the sale price?,$693.34,$602.09,$106.25,$814.59
+96,22,2026-10-19T20:01:41Z,"A $1,440.00 marketing budget is split between two channels in the ratio 5:8. What does the first channel receive?",$900.00,$553.85,$110.77,$886.15
+96,23,2026-10-19T20:01:41Z,"A support queue holds 13 billing tickets, 8 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",34.8%,56.5%,130.0%,91.3%
+96,24,2026-10-19T20:01:41Z,"An investment of $28,000.00 grows at 14% compounded annually. What is its value after 4 years?","$43,680.00","$15,680.00","$47,290.88","$41,483.23"
+96,25,2026-10-19T20:01:41Z,A contract signed on 20 December 2026 has a 341-day settlement period. On what date does it settle?,26 December 2027,19 November 2027,26 November 2027,27 November 2027
