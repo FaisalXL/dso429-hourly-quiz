@@ -1874,3 +1874,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 75,23,2026-10-18T23:01:37Z,Region A had 115 orders averaging $56.00; region B had 81 orders averaging $36.00. What is the overall average order value?,81.36,46.00,47.73,44.27
 75,24,2026-10-18T23:01:37Z,"An invoice for $4,775.21 is converted to euros at 0.7466 euros per US dollar. How many euros is that?","4,042.69","3,565.17","6,395.94","3,087.65"
 75,25,2026-10-18T23:01:37Z,"A support queue holds 19 billing tickets, 23 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",39.6%,47.9%,65.5%,87.5%
+76,1,2026-10-19T00:01:40Z,"An investment of $22,500.00 grows at 15% compounded annually. What is its value after 6 years?","$45,255.54","$42,750.00","$52,043.87","$20,250.00"
+76,2,2026-10-19T00:01:40Z,Region A had 113 orders averaging $65.00; region B had 60 orders averaging $34.00. What is the overall average order value?,83.05,49.50,54.25,44.75
+76,3,2026-10-19T00:01:40Z,"An invoice for $3,048.50 is converted to euros at 1.7725 euros per US dollar. How many euros is that?","5,708.32","5,098.62","5,403.47","1,719.89"
+76,4,2026-10-19T00:01:40Z,"Fixed costs are $5,000.00. Each unit sells for $59.00 with a variable cost of $41.00. How many units must be sold to break even, to the nearest unit?",278 units,122 units,85 units,50 units
+76,5,2026-10-19T00:01:40Z,Region A had 187 orders averaging $24.00; region B had 85 orders averaging $93.00. What is the overall average order value?,45.56,66.27,58.50,71.44
+76,6,2026-10-19T00:01:40Z,"A product line generates $44,000.00 in revenue against $37,730.25 in cost of goods sold. What is the gross margin?",16.6%,14.2%,85.8%,7.7%
+76,7,2026-10-19T00:01:40Z,"An invoice for $4,091.34 is converted to euros at 0.7493 euros per US dollar. How many euros is that?","3,474.78","5,460.22","2,656.51","3,065.64"
+76,8,2026-10-19T00:01:40Z,A contract signed on 16 March 2026 has a 361-day settlement period. On what date does it settle?,5 March 2027,12 March 2027,11 April 2027,13 March 2027
+76,9,2026-10-19T00:01:40Z,"A support queue holds 7 billing tickets, 15 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",22.6%,71.0%,48.4%,29.2%
+76,10,2026-10-19T00:01:40Z,A retailer sells 227 units at $50.10 each. What is total revenue?,"$10,871.70","$11,873.70","$11,599.70","$11,372.70"
+76,11,2026-10-19T00:01:40Z,"A monthly headcount series runs 40, 48, 56, 64, 72. If the pattern continues, what is the next value?",96,72,88,80
+76,12,2026-10-19T00:01:40Z,"An invoice for $2,247.11 is converted to euros at 1.0392 euros per US dollar. How many euros is that?","2,110.49","2,162.35","2,559.91","2,335.20"
+76,13,2026-10-19T00:01:40Z,"A $1,020.00 marketing budget is split between two channels in the ratio 6:8. What does the first channel receive?",$437.14,$582.86,$765.00,$72.86
+76,14,2026-10-19T00:01:40Z,Region A had 103 orders averaging $85.00; region B had 124 orders averaging $78.00. What is the overall average order value?,81.82,81.18,81.50,148.60
+76,15,2026-10-19T00:01:40Z,"A $8,340.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$4,765.71","$3,574.29","$1,191.43","$6,255.00"
+76,16,2026-10-19T00:01:40Z,A contract signed on 2 April 2026 has a 267-day settlement period. On what date does it settle?,24 January 2027,18 December 2026,26 December 2026,25 December 2026
+76,17,2026-10-19T00:01:40Z,"A product line generates $61,750.00 in revenue against $34,810.81 in cost of goods sold. What is the gross margin?",27.9%,56.4%,43.6%,77.4%
+76,18,2026-10-19T00:01:40Z,An item listed at $570.52 is discounted by 35%. What is the sale price?,$370.84,$199.68,$535.52,$770.20
+76,19,2026-10-19T00:01:40Z,"A support queue holds 17 billing tickets, 22 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",39.5%,65.4%,51.2%,90.7%
+76,20,2026-10-19T00:01:40Z,"A product line generates $89,750.00 in revenue against $54,834.03 in cost of goods sold. What is the gross margin?",61.1%,38.9%,24.1%,63.7%
+76,21,2026-10-19T00:01:40Z,"An investment of $23,500.00 grows at 11% compounded annually. What is its value after 4 years?","$10,340.00","$33,840.00","$35,674.65","$32,139.33"
+76,22,2026-10-19T00:01:40Z,A retailer sells 747 units at $64.30 each. What is total revenue?,"$48,779.10","$48,675.10","$47,389.10","$48,032.10"
+76,23,2026-10-19T00:01:40Z,"Fixed costs are $44,000.00. Each unit sells for $98.00 with a variable cost of $51.00. How many units must be sold to break even, to the nearest unit?",295 units,863 units,936 units,449 units
+76,24,2026-10-19T00:01:40Z,"A $1,050.00 marketing budget is split between two channels in the ratio 2:8. What does the first channel receive?",$840.00,$210.00,$262.50,$105.00
+76,25,2026-10-19T00:01:40Z,"Quarterly revenue moved from $1,750.00 to $2,094.00. What is the percentage change?",16.4%,19.7%,-19.7%,119.7%
