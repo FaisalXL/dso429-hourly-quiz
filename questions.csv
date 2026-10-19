@@ -2274,3 +2274,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 91,23,2026-10-19T15:01:43Z,A $900.00 marketing budget is split between two channels in the ratio 2:8. What does the first channel receive?,$90.00,$720.00,$180.00,$225.00
 91,24,2026-10-19T15:01:43Z,A retailer sells 363 units at $75.07 each. What is total revenue?,"$28,001.11","$26,499.71","$27,613.41","$27,250.41"
 91,25,2026-10-19T15:01:43Z,"Quarterly revenue moved from $1,700.00 to $1,377.00. What is the percentage change?",-19.0%,19.0%,81.0%,-23.5%
+92,1,2026-10-19T16:01:40Z,An item listed at $869.87 is discounted by 10%. What is the sale price?,$956.86,$86.99,$782.88,$859.87
+92,2,2026-10-19T16:01:40Z,"A monthly headcount series runs 30, 46, 62, 78, 94. If the pattern continues, what is the next value?",110,126,94,142
+92,3,2026-10-19T16:01:40Z,A contract signed on 13 July 2026 has a 103-day settlement period. On what date does it settle?,17 October 2026,24 October 2026,25 October 2026,23 November 2026
+92,4,2026-10-19T16:01:40Z,Region A had 61 orders averaging $50.00; region B had 80 orders averaging $36.00. What is the overall average order value?,74.12,43.94,43.00,42.06
+92,5,2026-10-19T16:01:40Z,A retailer sells 871 units at $83.30 each. What is total revenue?,"$73,425.30","$71,721.30","$73,387.30","$72,554.30"
+92,6,2026-10-19T16:01:40Z,"An investment of $4,000.00 grows at 8% compounded annually. What is its value after 5 years?","$5,441.96","$5,877.31","$5,600.00","$1,600.00"
+92,7,2026-10-19T16:01:40Z,A $990.00 marketing budget is split between two channels in the ratio 6:8. What does the first channel receive?,$424.29,$742.50,$565.71,$70.71
+92,8,2026-10-19T16:01:40Z,Region A had 58 orders averaging $64.00; region B had 150 orders averaging $24.00. What is the overall average order value?,44.00,52.85,35.15,48.75
+92,9,2026-10-19T16:01:40Z,An item listed at $310.34 is discounted by 10%. What is the sale price?,$279.31,$341.37,$300.34,$31.03
+92,10,2026-10-19T16:01:40Z,"Quarterly revenue moved from $2,350.00 to $3,721.00. What is the percentage change?",58.3%,36.8%,-58.3%,158.3%
+92,11,2026-10-19T16:01:40Z,A $720.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?,$240.00,$120.00,$480.00,$360.00
+92,12,2026-10-19T16:01:40Z,"An invoice for $8,717.40 is converted to euros at 1.3607 euros per US dollar. How many euros is that?","11,861.77","12,733.51","10,990.03","6,406.56"
+92,13,2026-10-19T16:01:40Z,"Fixed costs are $68,500.00. Each unit sells for $196.00 with a variable cost of $109.00. How many units must be sold to break even, to the nearest unit?",225 units,628 units,787 units,349 units
+92,14,2026-10-19T16:01:40Z,"Quarterly revenue moved from $2,650.00 to $2,200.00. What is the percentage change?",17.0%,-17.0%,83.0%,-20.5%
+92,15,2026-10-19T16:01:40Z,"A support queue holds 16 billing tickets, 24 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",37.2%,93.0%,59.3%,55.8%
+92,16,2026-10-19T16:01:40Z,A contract signed on 14 March 2026 has a 72-day settlement period. On what date does it settle?,24 June 2026,25 May 2026,18 May 2026,26 May 2026
+92,17,2026-10-19T16:01:40Z,Region A had 188 orders averaging $92.00; region B had 190 orders averaging $55.00. What is the overall average order value?,73.50,73.60,73.40,146.03
+92,18,2026-10-19T16:01:40Z,"Fixed costs are $12,000.00. Each unit sells for $198.00 with a variable cost of $53.00. How many units must be sold to break even, to the nearest unit?",83 units,61 units,48 units,226 units
+92,19,2026-10-19T16:01:40Z,"Quarterly revenue moved from $2,050.00 to $1,265.00. What is the percentage change?",38.3%,61.7%,-38.3%,-62.1%
+92,20,2026-10-19T16:01:40Z,"A support queue holds 8 billing tickets, 10 technical tickets and 6 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,41.7%,50.0%,75.0%
+92,21,2026-10-19T16:01:40Z,"A support queue holds 13 billing tickets, 3 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",69.6%,56.5%,13.0%,130.0%
+92,22,2026-10-19T16:01:40Z,"Quarterly revenue moved from $3,300.00 to $4,448.00. What is the percentage change?",134.8%,-34.8%,25.8%,34.8%
+92,23,2026-10-19T16:01:40Z,"A monthly headcount series runs 12, 19, 26, 33, 40. If the pattern continues, what is the next value?",40,54,61,47
+92,24,2026-10-19T16:01:40Z,"A monthly headcount series runs 13, 20, 27, 34, 41. If the pattern continues, what is the next value?",41,55,48,62
+92,25,2026-10-19T16:01:40Z,"Fixed costs are $38,500.00. Each unit sells for $180.00 with a variable cost of $107.00. How many units must be sold to break even, to the nearest unit?",527 units,360 units,134 units,214 units
