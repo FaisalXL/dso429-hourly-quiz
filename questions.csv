@@ -2424,3 +2424,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 97,23,2026-10-19T21:01:38Z,"An investment of $14,000.00 grows at 10% compounded annually. What is its value after 5 years?","$20,497.40","$21,000.00","$22,547.14","$7,000.00"
 97,24,2026-10-19T21:01:38Z,"A $8,880.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$6,660.00","$1,268.57","$5,074.29","$3,805.71"
 97,25,2026-10-19T21:01:38Z,"A product line generates $36,250.00 in revenue against $23,484.55 in cost of goods sold. What is the gross margin?",54.4%,21.4%,64.8%,35.2%
+98,1,2026-10-19T22:01:38Z,An item listed at $42.48 is discounted by 10%. What is the sale price?,$46.73,$32.48,$4.25,$38.23
+98,2,2026-10-19T22:01:38Z,"Fixed costs are $19,000.00. Each unit sells for $52.00 with a variable cost of $22.00. How many units must be sold to break even, to the nearest unit?",365 units,257 units,633 units,864 units
+98,3,2026-10-19T22:01:38Z,"A product line generates $16,750.00 in revenue against $11,632.55 in cost of goods sold. What is the gross margin?",44.0%,30.6%,18.0%,69.4%
+98,4,2026-10-19T22:01:38Z,"An investment of $15,000.00 grows at 15% compounded annually. What is its value after 4 years?","$24,000.00","$22,813.12","$9,000.00","$26,235.09"
+98,5,2026-10-19T22:01:38Z,An item listed at $226.09 is discounted by 30%. What is the sale price?,$293.92,$67.83,$196.09,$158.26
+98,6,2026-10-19T22:01:38Z,A retailer sells 827 units at $15.89 each. What is total revenue?,"$13,968.03","$12,982.13","$13,299.93","$13,141.03"
+98,7,2026-10-19T22:01:38Z,A retailer sells 393 units at $35.01 each. What is total revenue?,"$14,109.03","$13,758.93","$14,151.93","$13,408.83"
+98,8,2026-10-19T22:01:38Z,"A support queue holds 25 billing tickets, 9 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",94.4%,227.3%,25.0%,69.4%
+98,9,2026-10-19T22:01:38Z,A retailer sells 926 units at $20.35 each. What is total revenue?,"$18,640.60","$19,047.60","$18,844.10","$19,770.10"
+98,10,2026-10-19T22:01:38Z,An item listed at $679.31 is discounted by 45%. What is the sale price?,$634.31,$305.69,$985.00,$373.62
+98,11,2026-10-19T22:01:38Z,"An investment of $44,500.00 grows at 13% compounded annually. What is its value after 3 years?","$64,208.92","$17,355.00","$61,855.00","$56,822.05"
+98,12,2026-10-19T22:01:38Z,Region A had 128 orders averaging $95.00; region B had 14 orders averaging $31.00. What is the overall average order value?,37.31,98.39,63.00,88.69
+98,13,2026-10-19T22:01:38Z,"An investment of $20,000.00 grows at 13% compounded annually. What is its value after 8 years?","$47,052.11","$53,168.88","$20,800.00","$40,800.00"
+98,14,2026-10-19T22:01:38Z,Region A had 144 orders averaging $54.00; region B had 118 orders averaging $61.00. What is the overall average order value?,103.99,57.15,57.50,57.85
+98,15,2026-10-19T22:01:38Z,"A support queue holds 19 billing tickets, 12 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",118.8%,88.6%,54.3%,34.3%
+98,16,2026-10-19T22:01:38Z,A retailer sells 604 units at $67.72 each. What is total revenue?,"$41,580.08","$41,506.88","$40,225.68","$40,902.88"
+98,17,2026-10-19T22:01:38Z,"A product line generates $24,500.00 in revenue against $20,489.44 in cost of goods sold. What is the gross margin?",8.9%,16.4%,83.6%,19.6%
+98,18,2026-10-19T22:01:38Z,"A product line generates $29,000.00 in revenue against $17,766.53 in cost of goods sold. What is the gross margin?",24.0%,61.3%,63.2%,38.7%
+98,19,2026-10-19T22:01:38Z,"A $1,080.00 marketing budget is split between two channels in the ratio 5:6. What does the first channel receive?",$490.91,$589.09,$900.00,$98.18
+98,20,2026-10-19T22:01:38Z,"A product line generates $23,500.00 in revenue against $19,373.34 in cost of goods sold. What is the gross margin?",17.6%,21.3%,82.4%,9.6%
+98,21,2026-10-19T22:01:38Z,"A product line generates $14,500.00 in revenue against $7,173.87 in cost of goods sold. What is the gross margin?",49.5%,102.1%,33.8%,50.5%
+98,22,2026-10-19T22:01:38Z,"An invoice for $6,123.23 is converted to euros at 0.7122 euros per US dollar. How many euros is that?","4,973.29","4,360.96","3,748.64","8,597.63"
+98,23,2026-10-19T22:01:38Z,An item listed at $272.98 is discounted by 10%. What is the sale price?,$262.98,$245.68,$27.30,$300.28
+98,24,2026-10-19T22:01:38Z,A retailer sells 700 units at $44.98 each. What is total revenue?,"$31,935.80","$31,036.20","$32,186.00","$31,486.00"
+98,25,2026-10-19T22:01:38Z,"Fixed costs are $5,000.00. Each unit sells for $156.00 with a variable cost of $66.00. How many units must be sold to break even, to the nearest unit?",76 units,32 units,23 units,56 units
