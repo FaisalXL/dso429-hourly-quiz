@@ -1949,3 +1949,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 78,23,2026-10-19T02:01:40Z,A contract signed on 5 August 2026 has a 177-day settlement period. On what date does it settle?,28 February 2027,30 January 2027,29 January 2027,22 January 2027
 78,24,2026-10-19T02:01:40Z,"A support queue holds 15 billing tickets, 13 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",42.9%,37.1%,75.0%,80.0%
 78,25,2026-10-19T02:01:40Z,A retailer sells 686 units at $31.58 each. What is total revenue?,"$21,979.68","$21,663.88","$22,349.88","$21,348.08"
+79,1,2026-10-19T03:01:38Z,"Fixed costs are $18,000.00. Each unit sells for $75.00 with a variable cost of $27.00. How many units must be sold to break even, to the nearest unit?",240 units,176 units,375 units,667 units
+79,2,2026-10-19T03:01:38Z,"A support queue holds 24 billing tickets, 5 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",11.4%,54.5%,65.9%,120.0%
+79,3,2026-10-19T03:01:38Z,An item listed at $40.78 is discounted by 45%. What is the sale price?,$59.13,$-4.22,$18.35,$22.43
+79,4,2026-10-19T03:01:38Z,"An investment of $3,500.00 grows at 11% compounded annually. What is its value after 8 years?","$6,580.00","$3,080.00","$8,065.88","$7,266.56"
+79,5,2026-10-19T03:01:38Z,A retailer sells 618 units at $42.51 each. What is total revenue?,"$26,889.18","$25,846.08","$26,696.28","$26,271.18"
+79,6,2026-10-19T03:01:38Z,"A product line generates $43,750.00 in revenue against $23,095.94 in cost of goods sold. What is the gross margin?",89.4%,52.8%,47.2%,30.9%
+79,7,2026-10-19T03:01:38Z,An item listed at $148.01 is discounted by 15%. What is the sale price?,$22.20,$133.01,$125.81,$170.21
+79,8,2026-10-19T03:01:38Z,"An investment of $7,500.00 grows at 10% compounded annually. What is its value after 6 years?","$12,000.00","$13,286.71","$12,078.83","$4,500.00"
+79,9,2026-10-19T03:01:38Z,"An invoice for $4,404.88 is converted to euros at 0.8813 euros per US dollar. How many euros is that?","3,882.02","4,322.51","4,998.16","3,441.53"
+79,10,2026-10-19T03:01:38Z,"A support queue holds 23 billing tickets, 7 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",67.6%,20.6%,209.1%,88.2%
+79,11,2026-10-19T03:01:38Z,"An investment of $3,000.00 grows at 10% compounded annually. What is its value after 6 years?","$1,800.00","$4,831.53","$4,800.00","$5,314.68"
+79,12,2026-10-19T03:01:38Z,A contract signed on 11 April 2026 has a 80-day settlement period. On what date does it settle?,1 July 2026,30 June 2026,23 June 2026,30 July 2026
+79,13,2026-10-19T03:01:38Z,An item listed at $564.78 is discounted by 15%. What is the sale price?,$549.78,$649.50,$480.06,$84.72
+79,14,2026-10-19T03:01:38Z,"A support queue holds 4 billing tickets, 7 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",28.6%,40.0%,78.6%,50.0%
+79,15,2026-10-19T03:01:38Z,Region A had 25 orders averaging $21.00; region B had 49 orders averaging $20.00. What is the overall average order value?,30.71,20.66,20.50,20.34
+79,16,2026-10-19T03:01:38Z,A retailer sells 226 units at $34.86 each. What is total revenue?,"$7,878.36","$8,226.96","$7,529.76","$8,104.36"
+79,17,2026-10-19T03:01:38Z,"A product line generates $38,500.00 in revenue against $21,304.93 in cost of goods sold. What is the gross margin?",80.7%,28.8%,55.3%,44.7%
+79,18,2026-10-19T03:01:38Z,"Quarterly revenue moved from $1,100.00 to $1,222.00. What is the percentage change?",10.0%,111.1%,-11.1%,11.1%
+79,19,2026-10-19T03:01:38Z,"Fixed costs are $6,500.00. Each unit sells for $47.00 with a variable cost of $23.00. How many units must be sold to break even, to the nearest unit?",283 units,93 units,271 units,138 units
+79,20,2026-10-19T03:01:38Z,An invoice for $601.24 is converted to euros at 0.8942 euros per US dollar. How many euros is that?,537.63,672.38,477.50,597.75
+79,21,2026-10-19T03:01:38Z,"A product line generates $65,500.00 in revenue against $41,900.00 in cost of goods sold. What is the gross margin?",22.0%,36.0%,64.0%,56.3%
+79,22,2026-10-19T03:01:38Z,"A product line generates $40,250.00 in revenue against $28,026.71 in cost of goods sold. What is the gross margin?",69.6%,43.6%,17.9%,30.4%
+79,23,2026-10-19T03:01:38Z,"An invoice for $2,093.95 is converted to euros at 1.3131 euros per US dollar. How many euros is that?","1,594.66","2,540.17","2,749.57","2,958.96"
+79,24,2026-10-19T03:01:38Z,"An invoice for $8,312.11 is converted to euros at 0.6343 euros per US dollar. How many euros is that?","6,103.58","13,104.38","4,441.16","5,272.37"
+79,25,2026-10-19T03:01:38Z,"Quarterly revenue moved from $2,650.00 to $3,795.00. What is the percentage change?",43.2%,143.2%,30.2%,-43.2%
