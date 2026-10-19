@@ -2199,3 +2199,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 88,23,2026-10-19T12:01:41Z,"A $6,570.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$4,380.00","$1,314.00","$2,628.00","$3,942.00"
 88,24,2026-10-19T12:01:41Z,"An invoice for $1,885.87 is converted to euros at 1.0224 euros per US dollar. How many euros is that?","1,928.11","2,116.70","1,844.55","1,739.53"
 88,25,2026-10-19T12:01:41Z,"A $1,410.00 marketing budget is split between two channels in the ratio 4:6. What does the first channel receive?",$564.00,$940.00,$846.00,$141.00
+89,1,2026-10-19T13:01:38Z,"A support queue holds 8 billing tickets, 5 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",18.5%,42.1%,48.1%,29.6%
+89,2,2026-10-19T13:01:38Z,A retailer sells 945 units at $70.54 each. What is total revenue?,"$66,660.30","$67,365.70","$67,605.30","$65,954.90"
+89,3,2026-10-19T13:01:38Z,"A monthly headcount series runs 40, 57, 74, 91, 108. If the pattern continues, what is the next value?",125,159,108,142
+89,4,2026-10-19T13:01:38Z,"An investment of $47,500.00 grows at 6% compounded annually. What is its value after 2 years?","$5,700.00","$50,350.00","$53,200.00","$53,371.00"
+89,5,2026-10-19T13:01:38Z,An item listed at $229.22 is discounted by 15%. What is the sale price?,$214.22,$263.60,$34.38,$194.84
+89,6,2026-10-19T13:01:38Z,Region A had 183 orders averaging $72.00; region B had 171 orders averaging $53.00. What is the overall average order value?,62.50,121.52,62.18,62.82
+89,7,2026-10-19T13:01:38Z,"An invoice for $5,886.62 is converted to euros at 1.3965 euros per US dollar. How many euros is that?","8,220.66","4,215.27","8,809.33","7,632.00"
+89,8,2026-10-19T13:01:38Z,"Quarterly revenue moved from $4,150.00 to $2,757.00. What is the percentage change?",33.6%,-50.5%,66.4%,-33.6%
+89,9,2026-10-19T13:01:38Z,Region A had 100 orders averaging $50.00; region B had 105 orders averaging $26.00. What is the overall average order value?,38.29,73.62,37.71,38.00
+89,10,2026-10-19T13:01:38Z,A retailer sells 352 units at $36.98 each. What is total revenue?,"$13,016.96","$13,386.76","$13,368.96","$12,647.16"
+89,11,2026-10-19T13:01:38Z,"An investment of $15,500.00 grows at 6% compounded annually. What is its value after 2 years?","$16,430.00","$17,360.00","$1,860.00","$17,415.80"
+89,12,2026-10-19T13:01:38Z,An item listed at $485.33 is discounted by 20%. What is the sale price?,$582.40,$388.26,$465.33,$97.07
+89,13,2026-10-19T13:01:38Z,"Quarterly revenue moved from $4,400.00 to $5,044.00. What is the percentage change?",14.6%,12.8%,114.6%,-14.6%
+89,14,2026-10-19T13:01:38Z,"An investment of $33,000.00 grows at 5% compounded annually. What is its value after 2 years?","$36,300.00","$3,300.00","$36,382.50","$34,650.00"
+89,15,2026-10-19T13:01:38Z,"Fixed costs are $12,500.00. Each unit sells for $96.00 with a variable cost of $19.00. How many units must be sold to break even, to the nearest unit?",130 units,658 units,109 units,162 units
+89,16,2026-10-19T13:01:38Z,"Fixed costs are $52,500.00. Each unit sells for $141.00 with a variable cost of $75.00. How many units must be sold to break even, to the nearest unit?",372 units,243 units,795 units,700 units
+89,17,2026-10-19T13:01:38Z,"An invoice for $5,215.63 is converted to euros at 0.8783 euros per US dollar. How many euros is that?","5,102.45","5,938.32","4,580.89","4,059.32"
+89,18,2026-10-19T13:01:38Z,"A $7,860.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$1,572.00","$4,716.00","$5,240.00","$3,144.00"
+89,19,2026-10-19T13:01:38Z,Region A had 24 orders averaging $28.00; region B had 158 orders averaging $71.00. What is the overall average order value?,33.67,49.50,75.25,65.33
+89,20,2026-10-19T13:01:38Z,Region A had 109 orders averaging $89.00; region B had 159 orders averaging $46.00. What is the overall average order value?,63.49,107.01,71.51,67.50
+89,21,2026-10-19T13:01:38Z,"Fixed costs are $71,000.00. Each unit sells for $33.00 with a variable cost of $23.00. How many units must be sold to break even, to the nearest unit?","2,152 units","3,087 units","1,268 units","7,100 units"
+89,22,2026-10-19T13:01:38Z,"Fixed costs are $36,500.00. Each unit sells for $154.00 with a variable cost of $74.00. How many units must be sold to break even, to the nearest unit?",456 units,493 units,237 units,160 units
+89,23,2026-10-19T13:01:38Z,"Fixed costs are $32,000.00. Each unit sells for $130.00 with a variable cost of $79.00. How many units must be sold to break even, to the nearest unit?",153 units,627 units,405 units,246 units
+89,24,2026-10-19T13:01:38Z,"Quarterly revenue moved from $1,400.00 to $1,325.00. What is the percentage change?",94.6%,5.4%,-5.4%,-5.7%
+89,25,2026-10-19T13:01:38Z,A retailer sells 746 units at $62.51 each. What is total revenue?,"$47,257.56","$47,378.46","$46,007.36","$46,632.46"
