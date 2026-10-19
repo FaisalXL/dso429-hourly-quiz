@@ -2299,3 +2299,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 92,23,2026-10-19T16:01:40Z,"A monthly headcount series runs 12, 19, 26, 33, 40. If the pattern continues, what is the next value?",40,54,61,47
 92,24,2026-10-19T16:01:40Z,"A monthly headcount series runs 13, 20, 27, 34, 41. If the pattern continues, what is the next value?",41,55,48,62
 92,25,2026-10-19T16:01:40Z,"Fixed costs are $38,500.00. Each unit sells for $180.00 with a variable cost of $107.00. How many units must be sold to break even, to the nearest unit?",527 units,360 units,134 units,214 units
+93,1,2026-10-19T17:01:40Z,"A product line generates $7,500.00 in revenue against $4,298.67 in cost of goods sold. What is the gross margin?",57.3%,27.1%,42.7%,74.5%
+93,2,2026-10-19T17:01:40Z,"Fixed costs are $19,000.00. Each unit sells for $173.00 with a variable cost of $69.00. How many units must be sold to break even, to the nearest unit?",183 units,79 units,275 units,110 units
+93,3,2026-10-19T17:01:40Z,"Quarterly revenue moved from $2,450.00 to $3,209.00. What is the percentage change?",131.0%,31.0%,23.7%,-31.0%
+93,4,2026-10-19T17:01:40Z,An item listed at $481.95 is discounted by 35%. What is the sale price?,$168.68,$446.95,$650.63,$313.27
+93,5,2026-10-19T17:01:40Z,A retailer sells 870 units at $57.37 each. What is total revenue?,"$49,911.90","$50,485.60","$50,781.90","$49,338.20"
+93,6,2026-10-19T17:01:40Z,"A support queue holds 20 billing tickets, 3 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",92.0%,12.0%,80.0%,400.0%
+93,7,2026-10-19T17:01:40Z,"An invoice for $6,601.80 is converted to euros at 1.5873 euros per US dollar. How many euros is that?","4,159.14","10,479.04","9,818.86","11,139.22"
+93,8,2026-10-19T17:01:40Z,A retailer sells 542 units at $85.12 each. What is total revenue?,"$45,283.84","$46,135.04","$46,677.04","$46,986.24"
+93,9,2026-10-19T17:01:40Z,"An invoice for $5,578.10 is converted to euros at 1.3735 euros per US dollar. How many euros is that?","7,103.71","8,219.33","4,061.23","7,661.52"
+93,10,2026-10-19T17:01:40Z,"A monthly headcount series runs 12, 23, 34, 45, 56. If the pattern continues, what is the next value?",89,56,67,78
+93,11,2026-10-19T17:01:40Z,"An invoice for $5,038.73 is converted to euros at 1.7895 euros per US dollar. How many euros is that?","9,520.68","8,512.93","9,016.81","2,815.72"
+93,12,2026-10-19T17:01:40Z,A retailer sells 661 units at $72.93 each. What is total revenue?,"$47,477.43","$48,867.73","$48,936.03","$48,206.73"
+93,13,2026-10-19T17:01:40Z,"A product line generates $42,250.00 in revenue against $36,790.01 in cost of goods sold. What is the gross margin?",87.1%,6.9%,14.8%,12.9%
+93,14,2026-10-19T17:01:40Z,"A product line generates $55,500.00 in revenue against $41,365.59 in cost of goods sold. What is the gross margin?",74.5%,25.5%,34.2%,14.6%
+93,15,2026-10-19T17:01:40Z,"An invoice for $4,072.85 is converted to euros at 1.0535 euros per US dollar. How many euros is that?","4,698.03","4,290.75","3,883.46","3,866.02"
+93,16,2026-10-19T17:01:40Z,"Quarterly revenue moved from $3,600.00 to $5,233.00. What is the percentage change?",145.4%,45.4%,-45.4%,31.2%
+93,17,2026-10-19T17:01:40Z,A contract signed on 6 May 2026 has a 54-day settlement period. On what date does it settle?,29 June 2026,29 July 2026,22 June 2026,30 June 2026
+93,18,2026-10-19T17:01:40Z,A $900.00 marketing budget is split between two channels in the ratio 3:7. What does the first channel receive?,$270.00,$90.00,$630.00,$385.71
+93,19,2026-10-19T17:01:40Z,A retailer sells 231 units at $63.00 each. What is total revenue?,"$15,183.00","$14,553.00","$14,784.00","$13,923.00"
+93,20,2026-10-19T17:01:40Z,A retailer sells 585 units at $89.11 each. What is total revenue?,"$53,020.45","$51,238.25","$52,714.35","$52,129.35"
+93,21,2026-10-19T17:01:40Z,"A support queue holds 17 billing tickets, 20 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",50.0%,72.5%,33.3%,39.2%
+93,22,2026-10-19T17:01:40Z,An item listed at $612.06 is discounted by 15%. What is the sale price?,$597.06,$520.25,$703.87,$91.81
+93,23,2026-10-19T17:01:40Z,"A support queue holds 24 billing tickets, 20 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",37.0%,80.0%,81.5%,44.4%
+93,24,2026-10-19T17:01:40Z,An item listed at $819.68 is discounted by 15%. What is the sale price?,$696.73,$804.68,$942.63,$122.95
+93,25,2026-10-19T17:01:40Z,An item listed at $526.58 is discounted by 30%. What is the sale price?,$684.55,$368.61,$157.97,$496.58
