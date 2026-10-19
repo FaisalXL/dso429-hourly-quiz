@@ -2224,3 +2224,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 89,23,2026-10-19T13:01:38Z,"Fixed costs are $32,000.00. Each unit sells for $130.00 with a variable cost of $79.00. How many units must be sold to break even, to the nearest unit?",153 units,627 units,405 units,246 units
 89,24,2026-10-19T13:01:38Z,"Quarterly revenue moved from $1,400.00 to $1,325.00. What is the percentage change?",94.6%,5.4%,-5.4%,-5.7%
 89,25,2026-10-19T13:01:38Z,A retailer sells 746 units at $62.51 each. What is total revenue?,"$47,257.56","$47,378.46","$46,007.36","$46,632.46"
+90,1,2026-10-19T14:01:38Z,A contract signed on 7 January 2026 has a 147-day settlement period. On what date does it settle?,3 July 2026,3 June 2026,4 June 2026,27 May 2026
+90,2,2026-10-19T14:01:38Z,"A support queue holds 16 billing tickets, 17 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",70.2%,51.6%,36.2%,34.0%
+90,3,2026-10-19T14:01:38Z,A retailer sells 815 units at $48.17 each. What is total revenue?,"$38,776.85","$40,073.55","$39,258.55","$39,740.25"
+90,4,2026-10-19T14:01:38Z,"A product line generates $17,250.00 in revenue against $9,401.81 in cost of goods sold. What is the gross margin?",29.4%,54.5%,83.5%,45.5%
+90,5,2026-10-19T14:01:38Z,"A $8,250.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$1,375.00","$5,500.00","$16,500.00","$2,750.00"
+90,6,2026-10-19T14:01:38Z,Region A had 39 orders averaging $32.00; region B had 86 orders averaging $73.00. What is the overall average order value?,87.51,60.21,44.79,52.50
+90,7,2026-10-19T14:01:38Z,"A $7,860.00 marketing budget is split between two channels in the ratio 4:3. What does the first channel receive?","$10,480.00","$3,368.57","$1,122.86","$4,491.43"
+90,8,2026-10-19T14:01:38Z,An item listed at $26.19 is discounted by 40%. What is the sale price?,$10.48,$15.71,$36.67,$-13.81
+90,9,2026-10-19T14:01:38Z,A contract signed on 23 January 2026 has a 52-day settlement period. On what date does it settle?,15 April 2026,16 March 2026,17 March 2026,9 March 2026
+90,10,2026-10-19T14:01:38Z,A contract signed on 25 March 2026 has a 95-day settlement period. On what date does it settle?,28 July 2026,21 June 2026,29 June 2026,28 June 2026
+90,11,2026-10-19T14:01:38Z,"A monthly headcount series runs 4, 21, 38, 55, 72. If the pattern continues, what is the next value?",106,89,123,72
+90,12,2026-10-19T14:01:38Z,"A $8,550.00 marketing budget is split between two channels in the ratio 3:5. What does the first channel receive?","$5,130.00","$3,206.25","$1,068.75","$5,343.75"
+90,13,2026-10-19T14:01:38Z,"Fixed costs are $51,000.00. Each unit sells for $148.00 with a variable cost of $77.00. How many units must be sold to break even, to the nearest unit?",718 units,227 units,662 units,345 units
+90,14,2026-10-19T14:01:38Z,An item listed at $433.42 is discounted by 5%. What is the sale price?,$21.67,$455.09,$411.75,$428.42
+90,15,2026-10-19T14:01:38Z,Region A had 77 orders averaging $47.00; region B had 54 orders averaging $68.00. What is the overall average order value?,59.34,55.66,94.69,57.50
+90,16,2026-10-19T14:01:38Z,"Quarterly revenue moved from $4,700.00 to $7,272.00. What is the percentage change?",54.7%,154.7%,35.4%,-54.7%
+90,17,2026-10-19T14:01:38Z,A retailer sells 496 units at $43.68 each. What is total revenue?,"$21,228.48","$22,102.08","$22,161.28","$21,665.28"
+90,18,2026-10-19T14:01:38Z,"A product line generates $67,500.00 in revenue against $59,802.98 in cost of goods sold. What is the gross margin?",11.4%,12.9%,6.0%,88.6%
+90,19,2026-10-19T14:01:38Z,Region A had 89 orders averaging $23.00; region B had 117 orders averaging $76.00. What is the overall average order value?,93.50,53.10,45.90,49.50
+90,20,2026-10-19T14:01:38Z,A retailer sells 638 units at $25.30 each. What is total revenue?,"$16,394.40","$16,141.40","$15,888.40","$16,779.40"
+90,21,2026-10-19T14:01:38Z,A retailer sells 455 units at $48.01 each. What is total revenue?,"$21,364.45","$22,324.65","$22,299.55","$21,844.55"
+90,22,2026-10-19T14:01:38Z,A $720.00 marketing budget is split between two channels in the ratio 5:8. What does the first channel receive?,$443.08,$55.38,$276.92,$450.00
+90,23,2026-10-19T14:01:38Z,"An invoice for $6,631.10 is converted to euros at 0.8801 euros per US dollar. How many euros is that?","6,499.14","5,836.03","5,172.92","7,534.48"
+90,24,2026-10-19T14:01:38Z,"A product line generates $72,750.00 in revenue against $49,011.27 in cost of goods sold. What is the gross margin?",19.5%,48.4%,32.6%,67.4%
+90,25,2026-10-19T14:01:38Z,"A product line generates $44,000.00 in revenue against $28,904.29 in cost of goods sold. What is the gross margin?",20.7%,52.2%,65.7%,34.3%
