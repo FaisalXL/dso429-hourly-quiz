@@ -2524,3 +2524,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 101,23,2026-10-20T01:01:39Z,"An invoice for $2,058.36 is converted to euros at 0.8524 euros per US dollar. How many euros is that?","2,414.78","1,548.71","1,960.38","1,754.55"
 101,24,2026-10-20T01:01:39Z,"An invoice for $6,782.31 is converted to euros at 1.1020 euros per US dollar. How many euros is that?","6,795.87","7,474.11","6,154.55","8,152.34"
 101,25,2026-10-20T01:01:39Z,"A product line generates $15,750.00 in revenue against $10,550.52 in cost of goods sold. What is the gross margin?",33.0%,49.3%,67.0%,19.8%
+102,1,2026-10-20T02:01:37Z,"Fixed costs are $17,000.00. Each unit sells for $99.00 with a variable cost of $34.00. How many units must be sold to break even, to the nearest unit?",128 units,262 units,172 units,500 units
+102,2,2026-10-20T02:01:37Z,"Fixed costs are $8,000.00. Each unit sells for $103.00 with a variable cost of $81.00. How many units must be sold to break even, to the nearest unit?",99 units,43 units,78 units,364 units
+102,3,2026-10-20T02:01:37Z,"An investment of $12,000.00 grows at 12% compounded annually. What is its value after 2 years?","$15,052.80","$14,880.00","$2,880.00","$13,440.00"
+102,4,2026-10-20T02:01:37Z,"A product line generates $9,750.00 in revenue against $8,596.02 in cost of goods sold. What is the gross margin?",13.4%,88.2%,11.8%,6.3%
+102,5,2026-10-20T02:01:37Z,Region A had 94 orders averaging $64.00; region B had 36 orders averaging $93.00. What is the overall average order value?,84.97,72.03,78.50,99.62
+102,6,2026-10-20T02:01:37Z,Region A had 83 orders averaging $55.00; region B had 130 orders averaging $80.00. What is the overall average order value?,70.26,115.12,64.74,67.50
+102,7,2026-10-20T02:01:37Z,"A support queue holds 6 billing tickets, 7 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",26.1%,56.5%,30.4%,35.3%
+102,8,2026-10-20T02:01:37Z,"A product line generates $40,250.00 in revenue against $35,919.65 in cost of goods sold. What is the gross margin?",10.8%,89.2%,12.1%,5.7%
+102,9,2026-10-20T02:01:37Z,"A support queue holds 16 billing tickets, 25 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",55.6%,35.6%,91.1%,55.2%
+102,10,2026-10-20T02:01:37Z,An item listed at $805.95 is discounted by 15%. What is the sale price?,$685.06,$926.84,$790.95,$120.89
+102,11,2026-10-20T02:01:37Z,"Fixed costs are $78,500.00. Each unit sells for $51.00 with a variable cost of $10.00. How many units must be sold to break even, to the nearest unit?","1,287 units","1,915 units","7,850 units","1,539 units"
+102,12,2026-10-20T02:01:37Z,"A support queue holds 19 billing tickets, 4 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",126.7%,55.9%,11.8%,67.6%
+102,13,2026-10-20T02:01:37Z,Region A had 45 orders averaging $69.00; region B had 136 orders averaging $84.00. What is the overall average order value?,106.83,72.73,80.27,76.50
+102,14,2026-10-20T02:01:37Z,A contract signed on 27 June 2026 has a 258-day settlement period. On what date does it settle?,5 March 2027,12 March 2027,13 March 2027,11 April 2027
+102,15,2026-10-20T02:01:37Z,"Fixed costs are $40,000.00. Each unit sells for $168.00 with a variable cost of $81.00. How many units must be sold to break even, to the nearest unit?",460 units,494 units,238 units,161 units
+102,16,2026-10-20T02:01:37Z,A contract signed on 25 July 2026 has a 109-day settlement period. On what date does it settle?,12 November 2026,11 November 2026,4 November 2026,11 December 2026
+102,17,2026-10-20T02:01:37Z,"A monthly headcount series runs 3, 6, 9, 12, 15. If the pattern continues, what is the next value?",24,18,21,15
+102,18,2026-10-20T02:01:37Z,"An invoice for $6,478.88 is converted to euros at 1.4290 euros per US dollar. How many euros is that?","9,906.21","8,610.43","9,258.32","4,533.86"
+102,19,2026-10-20T02:01:37Z,"An invoice for $3,612.55 is converted to euros at 1.7850 euros per US dollar. How many euros is that?","2,023.84","6,087.15","6,809.66","6,448.40"
+102,20,2026-10-20T02:01:37Z,"A support queue holds 15 billing tickets, 11 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",32.4%,78.9%,76.5%,44.1%
+102,21,2026-10-20T02:01:37Z,"A product line generates $65,000.00 in revenue against $37,850.83 in cost of goods sold. What is the gross margin?",41.8%,58.2%,26.4%,71.7%
+102,22,2026-10-20T02:01:37Z,Region A had 166 orders averaging $26.00; region B had 55 orders averaging $45.00. What is the overall average order value?,40.27,40.91,30.73,35.50
+102,23,2026-10-20T02:01:37Z,"An investment of $46,500.00 grows at 14% compounded annually. What is its value after 7 years?","$45,570.00","$116,355.50","$92,070.00","$102,066.23"
+102,24,2026-10-20T02:01:37Z,"An invoice for $6,164.79 is converted to euros at 1.4302 euros per US dollar. How many euros is that?","8,816.88","9,433.36","4,310.44","8,200.40"
+102,25,2026-10-20T02:01:37Z,"An investment of $39,500.00 grows at 6% compounded annually. What is its value after 8 years?","$59,393.40","$62,957.00","$18,960.00","$58,460.00"
