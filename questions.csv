@@ -3049,3 +3049,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 122,23,2026-10-20T22:01:40Z,"A support queue holds 15 billing tickets, 25 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",40.5%,48.1%,28.8%,76.9%
 122,24,2026-10-20T22:01:40Z,A contract signed on 15 October 2026 has a 227-day settlement period. On what date does it settle?,29 June 2027,23 May 2027,31 May 2027,30 May 2027
 122,25,2026-10-20T22:01:40Z,"A support queue holds 24 billing tickets, 12 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",94.7%,171.4%,31.6%,63.2%
+123,1,2026-10-20T23:01:42Z,An item listed at $533.16 is discounted by 10%. What is the sale price?,$523.16,$586.48,$479.84,$53.32
+123,2,2026-10-20T23:01:42Z,An item listed at $629.32 is discounted by 30%. What is the sale price?,$188.80,$440.52,$599.32,$818.12
+123,3,2026-10-20T23:01:42Z,"Quarterly revenue moved from $4,100.00 to $6,095.00. What is the percentage change?",48.7%,-48.7%,148.7%,32.7%
+123,4,2026-10-20T23:01:42Z,Region A had 73 orders averaging $68.00; region B had 21 orders averaging $25.00. What is the overall average order value?,75.19,34.61,46.50,58.39
+123,5,2026-10-20T23:01:42Z,"An investment of $8,000.00 grows at 11% compounded annually. What is its value after 2 years?","$9,856.80","$1,760.00","$8,880.00","$9,760.00"
+123,6,2026-10-20T23:01:42Z,"Fixed costs are $17,500.00. Each unit sells for $124.00 with a variable cost of $41.00. How many units must be sold to break even, to the nearest unit?",141 units,211 units,106 units,427 units
+123,7,2026-10-20T23:01:42Z,"A product line generates $15,250.00 in revenue against $9,863.25 in cost of goods sold. What is the gross margin?",64.7%,54.6%,35.3%,21.4%
+123,8,2026-10-20T23:01:42Z,A contract signed on 6 July 2026 has a 166-day settlement period. On what date does it settle?,20 December 2026,19 December 2026,12 December 2026,18 January 2027
+123,9,2026-10-20T23:01:42Z,An item listed at $645.20 is discounted by 10%. What is the sale price?,$580.68,$709.72,$64.52,$635.20
+123,10,2026-10-20T23:01:42Z,"An investment of $37,500.00 grows at 7% compounded annually. What is its value after 2 years?","$5,250.00","$42,750.00","$42,933.75","$40,125.00"
+123,11,2026-10-20T23:01:42Z,"An invoice for $6,758.37 is converted to euros at 1.0532 euros per US dollar. How many euros is that?","7,117.92","7,793.75","6,416.99","6,442.08"
+123,12,2026-10-20T23:01:42Z,"A product line generates $77,750.00 in revenue against $64,032.21 in cost of goods sold. What is the gross margin?",82.4%,21.4%,9.7%,17.6%
+123,13,2026-10-20T23:01:42Z,"A support queue holds 13 billing tickets, 7 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",68.4%,62.5%,40.6%,21.9%
+123,14,2026-10-20T23:01:42Z,"A product line generates $21,750.00 in revenue against $15,134.46 in cost of goods sold. What is the gross margin?",30.4%,69.6%,43.7%,17.9%
+123,15,2026-10-20T23:01:42Z,"A product line generates $46,500.00 in revenue against $40,877.09 in cost of goods sold. What is the gross margin?",12.1%,6.4%,13.8%,87.9%
+123,16,2026-10-20T23:01:42Z,"An investment of $20,500.00 grows at 6% compounded annually. What is its value after 6 years?","$7,380.00","$27,880.00","$29,079.64","$27,433.62"
+123,17,2026-10-20T23:01:42Z,A contract signed on 12 March 2026 has a 98-day settlement period. On what date does it settle?,11 June 2026,18 July 2026,19 June 2026,18 June 2026
+123,18,2026-10-20T23:01:42Z,A contract signed on 6 October 2026 has a 27-day settlement period. On what date does it settle?,2 December 2026,26 October 2026,3 November 2026,2 November 2026
+123,19,2026-10-20T23:01:42Z,Region A had 39 orders averaging $57.00; region B had 44 orders averaging $43.00. What is the overall average order value?,93.52,50.42,49.58,50.00
+123,20,2026-10-20T23:01:42Z,"An invoice for $3,811.23 is converted to euros at 0.8045 euros per US dollar. How many euros is that?","3,066.13","2,685.01","3,447.26","4,737.39"
+123,21,2026-10-20T23:01:42Z,Region A had 121 orders averaging $61.00; region B had 189 orders averaging $66.00. What is the overall average order value?,64.05,105.05,62.95,63.50
+123,22,2026-10-20T23:01:42Z,"An invoice for $7,206.83 is converted to euros at 1.6821 euros per US dollar. How many euros is that?","12,843.29","11,401.93","4,284.42","12,122.61"
+123,23,2026-10-20T23:01:42Z,A contract signed on 15 December 2026 has a 339-day settlement period. On what date does it settle?,19 December 2027,12 November 2027,19 November 2027,20 November 2027
+123,24,2026-10-20T23:01:42Z,"A support queue holds 18 billing tickets, 8 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",78.3%,43.9%,19.5%,63.4%
+123,25,2026-10-20T23:01:42Z,"A support queue holds 24 billing tickets, 21 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",35.6%,76.3%,68.6%,40.7%
