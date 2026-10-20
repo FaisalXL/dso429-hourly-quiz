@@ -2699,3 +2699,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 108,23,2026-10-20T08:03:20Z,"Quarterly revenue moved from $4,950.00 to $5,962.00. What is the percentage change?",120.4%,20.4%,-20.4%,17.0%
 108,24,2026-10-20T08:03:20Z,"Quarterly revenue moved from $3,300.00 to $5,136.00. What is the percentage change?",55.6%,35.7%,155.6%,-55.6%
 108,25,2026-10-20T08:03:20Z,"Fixed costs are $15,000.00. Each unit sells for $119.00 with a variable cost of $63.00. How many units must be sold to break even, to the nearest unit?",82 units,126 units,238 units,268 units
+109,1,2026-10-20T09:02:24Z,An item listed at $712.46 is discounted by 40%. What is the sale price?,$997.44,$672.46,$427.48,$284.98
+109,2,2026-10-20T09:02:24Z,"An invoice for $4,066.92 is converted to euros at 1.4652 euros per US dollar. How many euros is that?","6,365.54","2,775.68","5,552.16","5,958.85"
+109,3,2026-10-20T09:02:24Z,"A support queue holds 5 billing tickets, 7 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",26.3%,35.7%,63.2%,36.8%
+109,4,2026-10-20T09:02:24Z,"Fixed costs are $5,000.00. Each unit sells for $61.00 with a variable cost of $32.00. How many units must be sold to break even, to the nearest unit?",54 units,156 units,82 units,172 units
+109,5,2026-10-20T09:02:24Z,A contract signed on 7 August 2026 has a 101-day settlement period. On what date does it settle?,16 December 2026,16 November 2026,17 November 2026,9 November 2026
+109,6,2026-10-20T09:02:24Z,"A $5,160.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$7,740.00","$2,064.00","$1,032.00","$3,096.00"
+109,7,2026-10-20T09:02:24Z,A retailer sells 788 units at $85.04 each. What is total revenue?,"$67,011.52","$66,161.12","$67,799.52","$67,861.92"
+109,8,2026-10-20T09:02:24Z,Region A had 132 orders averaging $74.00; region B had 161 orders averaging $32.00. What is the overall average order value?,50.92,53.00,55.08,92.67
+109,9,2026-10-20T09:02:24Z,"A product line generates $52,500.00 in revenue against $37,498.95 in cost of goods sold. What is the gross margin?",40.0%,16.7%,28.6%,71.4%
+109,10,2026-10-20T09:02:24Z,An item listed at $562.00 is discounted by 10%. What is the sale price?,$618.20,$56.20,$505.80,$552.00
+109,11,2026-10-20T09:02:24Z,"An investment of $15,000.00 grows at 8% compounded annually. What is its value after 6 years?","$22,200.00","$22,039.92","$7,200.00","$23,803.11"
+109,12,2026-10-20T09:02:24Z,"Quarterly revenue moved from $2,400.00 to $1,569.00. What is the percentage change?",34.6%,-53.0%,-34.6%,65.4%
+109,13,2026-10-20T09:02:24Z,"An investment of $46,500.00 grows at 12% compounded annually. What is its value after 7 years?","$85,560.00","$39,060.00","$91,782.75","$102,796.69"
+109,14,2026-10-20T09:02:24Z,"An invoice for $1,730.21 is converted to euros at 0.9714 euros per US dollar. How many euros is that?","1,680.73","1,781.15","1,507.70","1,853.75"
+109,15,2026-10-20T09:02:24Z,"A product line generates $85,250.00 in revenue against $72,726.58 in cost of goods sold. What is the gross margin?",85.3%,7.9%,17.2%,14.7%
+109,16,2026-10-20T09:02:24Z,"A support queue holds 14 billing tickets, 5 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",116.7%,73.1%,19.2%,53.8%
+109,17,2026-10-20T09:02:24Z,A contract signed on 11 November 2026 has a 364-day settlement period. On what date does it settle?,10 November 2027,11 November 2027,3 November 2027,10 December 2027
+109,18,2026-10-20T09:02:24Z,"A monthly headcount series runs 16, 28, 40, 52, 64. If the pattern continues, what is the next value?",100,76,64,88
+109,19,2026-10-20T09:02:24Z,"A monthly headcount series runs 25, 33, 41, 49, 57. If the pattern continues, what is the next value?",81,73,65,57
+109,20,2026-10-20T09:02:24Z,"A monthly headcount series runs 26, 33, 40, 47, 54. If the pattern continues, what is the next value?",75,54,68,61
+109,21,2026-10-20T09:02:24Z,"A $7,950.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$5,678.57","$19,875.00","$2,271.43","$1,135.71"
+109,22,2026-10-20T09:02:24Z,"An investment of $37,000.00 grows at 9% compounded annually. What is its value after 7 years?","$60,310.00","$62,052.70","$23,310.00","$67,637.45"
+109,23,2026-10-20T09:02:24Z,"An invoice for $7,037.62 is converted to euros at 1.2857 euros per US dollar. How many euros is that?","8,344.51","9,048.27","5,473.77","9,752.03"
+109,24,2026-10-20T09:02:24Z,"An invoice for $2,002.17 is converted to euros at 1.5509 euros per US dollar. How many euros is that?","3,105.17","2,904.95","1,290.97","3,305.38"
+109,25,2026-10-20T09:02:24Z,"A monthly headcount series runs 25, 36, 47, 58, 69. If the pattern continues, what is the next value?",80,69,102,91
