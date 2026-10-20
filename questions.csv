@@ -2674,3 +2674,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 107,23,2026-10-20T07:01:39Z,Region A had 148 orders averaging $87.00; region B had 197 orders averaging $90.00. What is the overall average order value?,88.29,88.50,155.36,88.71
 107,24,2026-10-20T07:01:39Z,Region A had 107 orders averaging $78.00; region B had 41 orders averaging $67.00. What is the overall average order value?,74.95,72.50,103.67,70.05
 107,25,2026-10-20T07:01:39Z,A contract signed on 20 July 2026 has a 294-day settlement period. On what date does it settle?,10 May 2027,11 May 2027,9 June 2027,3 May 2027
+108,1,2026-10-20T08:03:20Z,An item listed at $418.94 is discounted by 15%. What is the sale price?,$403.94,$356.10,$481.78,$62.84
+108,2,2026-10-20T08:03:20Z,"An invoice for $8,612.27 is converted to euros at 0.9456 euros per US dollar. How many euros is that?","7,282.54","9,004.99","9,107.73","8,143.76"
+108,3,2026-10-20T08:03:20Z,A retailer sells 200 units at $45.15 each. What is total revenue?,"$9,481.50","$9,230.00","$9,030.00","$8,578.50"
+108,4,2026-10-20T08:03:20Z,"Quarterly revenue moved from $4,500.00 to $5,569.00. What is the percentage change?",-23.8%,19.2%,23.8%,123.8%
+108,5,2026-10-20T08:03:20Z,"Quarterly revenue moved from $4,450.00 to $3,037.00. What is the percentage change?",31.8%,-46.5%,68.2%,-31.8%
+108,6,2026-10-20T08:03:20Z,"An investment of $32,000.00 grows at 11% compounded annually. What is its value after 3 years?","$10,560.00","$42,560.00","$39,427.20","$43,764.19"
+108,7,2026-10-20T08:03:20Z,"Fixed costs are $29,000.00. Each unit sells for $81.00 with a variable cost of $36.00. How many units must be sold to break even, to the nearest unit?",644 units,806 units,358 units,248 units
+108,8,2026-10-20T08:03:20Z,"An invoice for $5,255.93 is converted to euros at 0.6900 euros per US dollar. How many euros is that?","3,626.59","3,101.00","7,617.29","4,152.18"
+108,9,2026-10-20T08:03:20Z,"Fixed costs are $45,500.00. Each unit sells for $174.00 with a variable cost of $124.00. How many units must be sold to break even, to the nearest unit?",261 units,910 units,153 units,367 units
+108,10,2026-10-20T08:03:20Z,Region A had 44 orders averaging $45.00; region B had 132 orders averaging $78.00. What is the overall average order value?,93.00,61.50,69.75,53.25
+108,11,2026-10-20T08:03:20Z,"Fixed costs are $17,000.00. Each unit sells for $89.00 with a variable cost of $62.00. How many units must be sold to break even, to the nearest unit?",274 units,113 units,191 units,630 units
+108,12,2026-10-20T08:03:20Z,Region A had 52 orders averaging $93.00; region B had 130 orders averaging $68.00. What is the overall average order value?,75.14,105.20,80.50,85.86
+108,13,2026-10-20T08:03:20Z,A retailer sells 842 units at $43.33 each. What is total revenue?,"$36,483.86","$36,917.16","$37,325.86","$36,050.56"
+108,14,2026-10-20T08:03:20Z,"A $7,770.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$1,110.00","$5,827.50","$3,330.00","$4,440.00"
+108,15,2026-10-20T08:03:20Z,"An investment of $22,500.00 grows at 5% compounded annually. What is its value after 3 years?","$26,046.56","$24,806.25","$3,375.00","$25,875.00"
+108,16,2026-10-20T08:03:20Z,"An invoice for $2,337.73 is converted to euros at 0.8553 euros per US dollar. How many euros is that?","1,999.46","1,765.69","2,733.23","2,233.23"
+108,17,2026-10-20T08:03:20Z,Quarterly revenue moved from $200.00 to $290.00. What is the percentage change?,-45.0%,45.0%,145.0%,31.0%
+108,18,2026-10-20T08:03:20Z,"A monthly headcount series runs 11, 21, 31, 41, 51. If the pattern continues, what is the next value?",51,71,81,61
+108,19,2026-10-20T08:03:20Z,A retailer sells 867 units at $66.11 each. What is total revenue?,"$56,656.27","$57,978.47","$57,317.37","$58,184.37"
+108,20,2026-10-20T08:03:20Z,"A product line generates $81,500.00 in revenue against $37,224.78 in cost of goods sold. What is the gross margin?",37.3%,45.7%,118.9%,54.3%
+108,21,2026-10-20T08:03:20Z,A contract signed on 30 May 2026 has a 286-day settlement period. On what date does it settle?,5 March 2027,13 March 2027,11 April 2027,12 March 2027
+108,22,2026-10-20T08:03:20Z,A retailer sells 685 units at $11.20 each. What is total revenue?,"$7,784.00","$8,357.00","$7,560.00","$7,672.00"
+108,23,2026-10-20T08:03:20Z,"Quarterly revenue moved from $4,950.00 to $5,962.00. What is the percentage change?",120.4%,20.4%,-20.4%,17.0%
+108,24,2026-10-20T08:03:20Z,"Quarterly revenue moved from $3,300.00 to $5,136.00. What is the percentage change?",55.6%,35.7%,155.6%,-55.6%
+108,25,2026-10-20T08:03:20Z,"Fixed costs are $15,000.00. Each unit sells for $119.00 with a variable cost of $63.00. How many units must be sold to break even, to the nearest unit?",82 units,126 units,238 units,268 units
