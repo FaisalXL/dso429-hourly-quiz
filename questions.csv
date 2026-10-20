@@ -2899,3 +2899,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 116,23,2026-10-20T16:01:44Z,Region A had 158 orders averaging $61.00; region B had 51 orders averaging $86.00. What is the overall average order value?,73.50,88.76,79.90,67.10
 116,24,2026-10-20T16:01:44Z,"A monthly headcount series runs 37, 49, 61, 73, 85. If the pattern continues, what is the next value?",85,97,121,109
 116,25,2026-10-20T16:01:44Z,"An investment of $24,000.00 grows at 2% compounded annually. What is its value after 5 years?","$2,400.00","$25,978.37","$26,497.94","$26,400.00"
+117,1,2026-10-20T17:01:49Z,"Quarterly revenue moved from $3,750.00 to $4,245.00. What is the percentage change?",-13.2%,11.7%,13.2%,113.2%
+117,2,2026-10-20T17:01:49Z,An item listed at $722.92 is discounted by 20%. What is the sale price?,$578.34,$144.58,$867.50,$702.92
+117,3,2026-10-20T17:01:49Z,"An invoice for $2,968.86 is converted to euros at 1.6652 euros per US dollar. How many euros is that?","1,782.88","4,646.86","5,240.63","4,943.75"
+117,4,2026-10-20T17:01:49Z,"A product line generates $76,750.00 in revenue against $42,485.55 in cost of goods sold. What is the gross margin?",28.7%,55.4%,44.6%,80.6%
+117,5,2026-10-20T17:01:49Z,Region A had 117 orders averaging $20.00; region B had 171 orders averaging $75.00. What is the overall average order value?,88.68,42.34,52.66,47.50
+117,6,2026-10-20T17:01:49Z,"A support queue holds 13 billing tickets, 3 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",10.7%,46.4%,57.1%,86.7%
+117,7,2026-10-20T17:01:49Z,"Quarterly revenue moved from $2,500.00 to $3,943.00. What is the percentage change?",36.6%,157.7%,57.7%,-57.7%
+117,8,2026-10-20T17:01:49Z,"Fixed costs are $6,000.00. Each unit sells for $48.00 with a variable cost of $8.00. How many units must be sold to break even, to the nearest unit?",750 units,107 units,150 units,125 units
+117,9,2026-10-20T17:01:49Z,A retailer sells 816 units at $22.95 each. What is total revenue?,"$18,497.70","$19,543.20","$18,727.20","$18,956.70"
+117,10,2026-10-20T17:01:49Z,An item listed at $487.21 is discounted by 10%. What is the sale price?,$477.21,$438.49,$48.72,$535.93
+117,11,2026-10-20T17:01:49Z,"A support queue holds 24 billing tickets, 8 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",141.2%,19.5%,78.0%,58.5%
+117,12,2026-10-20T17:01:49Z,"Quarterly revenue moved from $2,600.00 to $1,921.00. What is the percentage change?",26.1%,-26.1%,73.9%,-35.3%
+117,13,2026-10-20T17:01:49Z,An item listed at $899.71 is discounted by 10%. What is the sale price?,$989.68,$809.74,$89.97,$889.71
+117,14,2026-10-20T17:01:49Z,"An invoice for $4,689.71 is converted to euros at 1.3200 euros per US dollar. How many euros is that?","6,190.42","5,721.45","3,552.81","6,659.39"
+117,15,2026-10-20T17:01:49Z,"An invoice for $6,155.63 is converted to euros at 1.7134 euros per US dollar. How many euros is that?","3,592.64","9,931.49","10,547.06","11,162.62"
+117,16,2026-10-20T17:01:49Z,"A support queue holds 16 billing tickets, 9 technical tickets and 7 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",78.1%,50.0%,28.1%,100.0%
+117,17,2026-10-20T17:01:49Z,A retailer sells 394 units at $55.56 each. What is total revenue?,"$22,284.64","$22,446.24","$21,335.04","$21,890.64"
+117,18,2026-10-20T17:01:49Z,"A product line generates $77,500.00 in revenue against $57,216.66 in cost of goods sold. What is the gross margin?",35.5%,26.2%,73.8%,15.1%
+117,19,2026-10-20T17:01:49Z,"Quarterly revenue moved from $1,750.00 to $1,309.00. What is the percentage change?",25.2%,74.8%,-25.2%,-33.7%
+117,20,2026-10-20T17:01:49Z,An item listed at $744.80 is discounted by 20%. What is the sale price?,$724.80,$148.96,$893.76,$595.84
+117,21,2026-10-20T17:01:49Z,Region A had 111 orders averaging $48.00; region B had 88 orders averaging $22.00. What is the overall average order value?,33.50,65.44,36.50,35.00
+117,22,2026-10-20T17:01:49Z,"A support queue holds 21 billing tickets, 9 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",20.5%,47.7%,91.3%,68.2%
+117,23,2026-10-20T17:01:49Z,An item listed at $596.32 is discounted by 10%. What is the sale price?,$586.32,$536.69,$655.95,$59.63
+117,24,2026-10-20T17:01:49Z,Region A had 26 orders averaging $86.00; region B had 186 orders averaging $44.00. What is the overall average order value?,65.00,56.02,49.15,80.85
+117,25,2026-10-20T17:01:49Z,"An investment of $12,000.00 grows at 15% compounded annually. What is its value after 6 years?","$27,756.73","$10,800.00","$24,136.29","$22,800.00"
