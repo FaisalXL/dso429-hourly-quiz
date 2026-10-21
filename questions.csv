@@ -3324,3 +3324,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 133,23,2026-10-21T09:01:41Z,"A product line generates $62,750.00 in revenue against $35,945.82 in cost of goods sold. What is the gross margin?",74.6%,27.2%,57.3%,42.7%
 133,24,2026-10-21T09:01:41Z,A retailer sells 199 units at $13.07 each. What is total revenue?,"$2,600.93","$2,799.93","$2,470.23","$2,731.63"
 133,25,2026-10-21T09:01:41Z,An item listed at $51.61 is discounted by 10%. What is the sale price?,$41.61,$5.16,$56.77,$46.45
+134,1,2026-10-21T10:01:40Z,An item listed at $849.07 is discounted by 5%. What is the sale price?,$42.45,$844.07,$806.62,$891.52
+134,2,2026-10-21T10:01:40Z,A retailer sells 177 units at $28.61 each. What is total revenue?,"$4,777.87","$5,063.97","$5,350.07","$5,240.97"
+134,3,2026-10-21T10:01:40Z,"An investment of $22,500.00 grows at 7% compounded annually. What is its value after 4 years?","$29,492.91","$6,300.00","$27,563.47","$28,800.00"
+134,4,2026-10-21T10:01:40Z,Region A had 178 orders averaging $36.00; region B had 123 orders averaging $80.00. What is the overall average order value?,91.28,62.02,58.00,53.98
+134,5,2026-10-21T10:01:40Z,An invoice for $383.92 is converted to euros at 1.6955 euros per US dollar. How many euros is that?,689.33,226.43,612.54,650.94
+134,6,2026-10-21T10:01:40Z,Region A had 57 orders averaging $79.00; region B had 98 orders averaging $94.00. What is the overall average order value?,86.50,84.52,88.48,139.95
+134,7,2026-10-21T10:01:40Z,"An investment of $13,500.00 grows at 12% compounded annually. What is its value after 6 years?","$26,646.61","$23,220.00","$9,720.00","$23,791.61"
+134,8,2026-10-21T10:01:40Z,Region A had 67 orders averaging $63.00; region B had 127 orders averaging $94.00. What is the overall average order value?,73.71,127.24,83.29,78.50
+134,9,2026-10-21T10:01:40Z,"A monthly headcount series runs 34, 48, 62, 76, 90. If the pattern continues, what is the next value?",118,132,104,90
+134,10,2026-10-21T10:01:40Z,"A product line generates $73,500.00 in revenue against $65,123.05 in cost of goods sold. What is the gross margin?",12.9%,88.6%,11.4%,6.0%
+134,11,2026-10-21T10:01:40Z,"An invoice for $7,883.85 is converted to euros at 0.6285 euros per US dollar. How many euros is that?","12,543.91","4,955.00","4,166.61","5,743.38"
+134,12,2026-10-21T10:01:40Z,A contract signed on 26 February 2026 has a 85-day settlement period. On what date does it settle?,22 May 2026,23 May 2026,21 June 2026,15 May 2026
+134,13,2026-10-21T10:01:40Z,Region A had 145 orders averaging $29.00; region B had 43 orders averaging $68.00. What is the overall average order value?,59.08,49.17,37.92,48.50
+134,14,2026-10-21T10:01:40Z,"A product line generates $51,500.00 in revenue against $45,616.10 in cost of goods sold. What is the gross margin?",6.1%,88.6%,11.4%,12.9%
+134,15,2026-10-21T10:01:40Z,Region A had 46 orders averaging $33.00; region B had 119 orders averaging $85.00. What is the overall average order value?,97.76,70.50,59.00,47.50
+134,16,2026-10-21T10:01:40Z,"A monthly headcount series runs 28, 45, 62, 79, 96. If the pattern continues, what is the next value?",96,113,147,130
+134,17,2026-10-21T10:01:40Z,An item listed at $554.02 is discounted by 35%. What is the sale price?,$519.02,$747.93,$193.91,$360.11
+134,18,2026-10-21T10:01:40Z,"Fixed costs are $16,500.00. Each unit sells for $145.00 with a variable cost of $78.00. How many units must be sold to break even, to the nearest unit?",246 units,114 units,212 units,74 units
+134,19,2026-10-21T10:01:40Z,"Fixed costs are $62,000.00. Each unit sells for $49.00 with a variable cost of $8.00. How many units must be sold to break even, to the nearest unit?","1,088 units","1,512 units","7,750 units","1,265 units"
+134,20,2026-10-21T10:01:40Z,"A support queue holds 9 billing tickets, 5 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",20.8%,37.5%,58.3%,60.0%
+134,21,2026-10-21T10:01:40Z,"An invoice for $8,069.98 is converted to euros at 1.6297 euros per US dollar. How many euros is that?","13,958.64","12,344.65","4,951.82","13,151.65"
+134,22,2026-10-21T10:01:40Z,A retailer sells 233 units at $4.80 each. What is total revenue?,"$1,351.40","$1,070.40","$1,118.40","$1,166.40"
+134,23,2026-10-21T10:01:40Z,An item listed at $277.54 is discounted by 15%. What is the sale price?,$319.17,$235.91,$41.63,$262.54
+134,24,2026-10-21T10:01:40Z,Region A had 181 orders averaging $30.00; region B had 87 orders averaging $46.00. What is the overall average order value?,35.19,52.11,40.81,38.00
+134,25,2026-10-21T10:01:40Z,A contract signed on 21 July 2026 has a 154-day settlement period. On what date does it settle?,15 December 2026,23 December 2026,21 January 2027,22 December 2026
