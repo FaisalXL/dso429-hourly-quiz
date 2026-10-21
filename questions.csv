@@ -3399,3 +3399,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 136,23,2026-10-21T12:01:41Z,Region A had 148 orders averaging $29.00; region B had 173 orders averaging $23.00. What is the overall average order value?,26.23,47.81,25.77,26.00
 136,24,2026-10-21T12:01:41Z,"An invoice for $7,585.28 is converted to euros at 0.7248 euros per US dollar. How many euros is that?","10,465.34","6,256.34","5,497.81","4,739.28"
 136,25,2026-10-21T12:01:41Z,"Quarterly revenue moved from $1,150.00 to $886.00. What is the percentage change?",-23.0%,77.0%,-29.8%,23.0%
+137,1,2026-10-21T13:01:41Z,A $810.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?,$607.50,$347.14,$462.86,$115.71
+137,2,2026-10-21T13:01:41Z,"A monthly headcount series runs 17, 24, 31, 38, 45. If the pattern continues, what is the next value?",45,59,66,52
+137,3,2026-10-21T13:01:41Z,Region A had 35 orders averaging $83.00; region B had 127 orders averaging $80.00. What is the overall average order value?,80.65,102.87,82.35,81.50
+137,4,2026-10-21T13:01:41Z,A retailer sells 480 units at $60.22 each. What is total revenue?,"$29,385.60","$28,303.40","$28,905.60","$29,507.80"
+137,5,2026-10-21T13:01:41Z,"A $7,320.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$5,490.00","$4,182.86","$3,137.14","$1,045.71"
+137,6,2026-10-21T13:01:41Z,"A monthly headcount series runs 33, 46, 59, 72, 85. If the pattern continues, what is the next value?",111,85,98,124
+137,7,2026-10-21T13:01:41Z,An item listed at $831.35 is discounted by 5%. What is the sale price?,$41.57,$789.78,$826.35,$872.92
+137,8,2026-10-21T13:01:41Z,"A $8,160.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$6,120.00","$1,165.71","$4,662.86","$3,497.14"
+137,9,2026-10-21T13:01:41Z,"A support queue holds 24 billing tickets, 6 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",71.4%,14.3%,133.3%,57.1%
+137,10,2026-10-21T13:01:41Z,"An investment of $32,000.00 grows at 13% compounded annually. What is its value after 6 years?","$56,960.00","$58,957.93","$66,622.46","$24,960.00"
+137,11,2026-10-21T13:01:41Z,A retailer sells 507 units at $31.83 each. What is total revenue?,"$16,456.11","$15,819.51","$16,137.81","$16,644.81"
+137,12,2026-10-21T13:01:41Z,A retailer sells 228 units at $6.32 each. What is total revenue?,"$1,377.76","$1,440.96","$1,668.96","$1,504.16"
+137,13,2026-10-21T13:01:41Z,"An invoice for $6,320.60 is converted to euros at 1.0821 euros per US dollar. How many euros is that?","5,841.05","6,839.52","6,207.46","7,471.58"
+137,14,2026-10-21T13:01:41Z,Region A had 94 orders averaging $95.00; region B had 78 orders averaging $29.00. What is the overall average order value?,65.07,62.00,58.93,119.06
+137,15,2026-10-21T13:01:41Z,A contract signed on 3 January 2026 has a 359-day settlement period. On what date does it settle?,21 December 2026,28 December 2026,29 December 2026,27 January 2027
+137,16,2026-10-21T13:01:41Z,"Quarterly revenue moved from $4,500.00 to $5,138.00. What is the percentage change?",14.2%,-14.2%,12.4%,114.2%
+137,17,2026-10-21T13:01:41Z,Region A had 147 orders averaging $41.00; region B had 113 orders averaging $74.00. What is the overall average order value?,57.50,97.88,55.34,59.66
+137,18,2026-10-21T13:01:41Z,A contract signed on 23 April 2026 has a 17-day settlement period. On what date does it settle?,10 May 2026,11 May 2026,3 May 2026,9 June 2026
+137,19,2026-10-21T13:01:41Z,"A support queue holds 8 billing tickets, 6 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",21.4%,40.0%,28.6%,50.0%
+137,20,2026-10-21T13:01:41Z,"A product line generates $82,000.00 in revenue against $51,467.10 in cost of goods sold. What is the gross margin?",37.2%,22.9%,62.8%,59.3%
+137,21,2026-10-21T13:01:41Z,"An investment of $41,000.00 grows at 13% compounded annually. What is its value after 5 years?","$66,849.42","$26,650.00","$75,539.84","$67,650.00"
+137,22,2026-10-21T13:01:41Z,"A monthly headcount series runs 32, 37, 42, 47, 52. If the pattern continues, what is the next value?",52,62,57,67
+137,23,2026-10-21T13:01:41Z,An invoice for $278.90 is converted to euros at 1.0564 euros per US dollar. How many euros is that?,322.52,266.74,264.01,294.63
+137,24,2026-10-21T13:01:41Z,An item listed at $448.29 is discounted by 35%. What is the sale price?,$605.19,$156.90,$291.39,$413.29
+137,25,2026-10-21T13:01:41Z,A retailer sells 445 units at $30.10 each. What is total revenue?,"$13,839.50","$13,695.50","$13,093.50","$13,394.50"
