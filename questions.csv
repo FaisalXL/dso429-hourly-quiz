@@ -3174,3 +3174,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 127,23,2026-10-21T03:01:41Z,"An invoice for $3,242.50 is converted to euros at 1.8623 euros per US dollar. How many euros is that?","5,714.26","6,362.76","6,038.51","1,741.13"
 127,24,2026-10-21T03:01:41Z,A $780.00 marketing budget is split between two channels in the ratio 8:7. What does the first channel receive?,$364.00,$52.00,$891.43,$416.00
 127,25,2026-10-21T03:01:41Z,"A monthly headcount series runs 34, 43, 52, 61, 70. If the pattern continues, what is the next value?",97,88,79,70
+128,1,2026-10-21T04:01:37Z,A retailer sells 382 units at $8.86 each. What is total revenue?,"$3,473.12","$3,766.52","$3,295.92","$3,384.52"
+128,2,2026-10-21T04:01:37Z,"Quarterly revenue moved from $3,500.00 to $3,289.00. What is the percentage change?",-6.4%,-6.0%,6.0%,94.0%
+128,3,2026-10-21T04:01:37Z,"A product line generates $62,750.00 in revenue against $41,255.60 in cost of goods sold. What is the gross margin?",20.7%,52.1%,34.3%,65.7%
+128,4,2026-10-21T04:01:37Z,"Quarterly revenue moved from $2,700.00 to $3,337.00. What is the percentage change?",-23.6%,123.6%,19.1%,23.6%
+128,5,2026-10-21T04:01:37Z,"An invoice for $4,862.43 is converted to euros at 1.8385 euros per US dollar. How many euros is that?","8,939.58","9,425.82","8,453.33","2,644.78"
+128,6,2026-10-21T04:01:37Z,"Quarterly revenue moved from $4,650.00 to $4,415.00. What is the percentage change?",5.1%,-5.3%,94.9%,-5.1%
+128,7,2026-10-21T04:01:37Z,"A $1,470.00 marketing budget is split between two channels in the ratio 2:4. What does the first channel receive?",$490.00,$980.00,$245.00,$735.00
+128,8,2026-10-21T04:01:37Z,A contract signed on 15 July 2026 has a 246-day settlement period. On what date does it settle?,19 March 2027,18 March 2027,17 April 2027,11 March 2027
+128,9,2026-10-21T04:01:37Z,Region A had 147 orders averaging $50.00; region B had 193 orders averaging $31.00. What is the overall average order value?,69.08,41.79,39.21,40.50
+128,10,2026-10-21T04:01:37Z,An item listed at $30.44 is discounted by 5%. What is the sale price?,$31.96,$1.52,$28.92,$25.44
+128,11,2026-10-21T04:01:37Z,"A product line generates $57,750.00 in revenue against $47,979.14 in cost of goods sold. What is the gross margin?",20.4%,9.2%,83.1%,16.9%
+128,12,2026-10-21T04:01:37Z,"An invoice for $4,676.22 is converted to euros at 1.2504 euros per US dollar. How many euros is that?","5,847.15","3,739.78","6,314.77","5,379.52"
+128,13,2026-10-21T04:01:37Z,Region A had 142 orders averaging $90.00; region B had 182 orders averaging $24.00. What is the overall average order value?,94.22,57.00,52.93,61.07
+128,14,2026-10-21T04:01:37Z,"Quarterly revenue moved from $1,550.00 to $2,472.00. What is the percentage change?",59.5%,37.3%,159.5%,-59.5%
+128,15,2026-10-21T04:01:37Z,A retailer sells 626 units at $71.05 each. What is total revenue?,"$44,477.30","$45,103.30","$43,766.80","$45,187.80"
+128,16,2026-10-21T04:01:37Z,"A $7,380.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?","$5,271.43","$2,952.00","$1,054.29","$2,108.57"
+128,17,2026-10-21T04:01:37Z,"A product line generates $7,000.00 in revenue against $6,239.69 in cost of goods sold. What is the gross margin?",10.9%,89.1%,12.2%,5.7%
+128,18,2026-10-21T04:01:37Z,"An invoice for $5,305.71 is converted to euros at 1.5379 euros per US dollar. How many euros is that?","8,690.22","7,629.08","8,159.65","3,449.97"
+128,19,2026-10-21T04:01:37Z,"Quarterly revenue moved from $4,200.00 to $3,386.00. What is the percentage change?",-19.4%,19.4%,-24.0%,80.6%
+128,20,2026-10-21T04:01:37Z,"A support queue holds 16 billing tickets, 11 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",123.1%,93.1%,55.2%,37.9%
+128,21,2026-10-21T04:01:37Z,An item listed at $742.89 is discounted by 20%. What is the sale price?,$148.58,$891.47,$594.31,$722.89
+128,22,2026-10-21T04:01:37Z,"Quarterly revenue moved from $2,000.00 to $1,356.00. What is the percentage change?",-47.5%,67.8%,32.2%,-32.2%
+128,23,2026-10-21T04:01:37Z,A contract signed on 6 November 2026 has a 197-day settlement period. On what date does it settle?,22 May 2027,15 May 2027,21 June 2027,23 May 2027
+128,24,2026-10-21T04:01:37Z,"Fixed costs are $38,500.00. Each unit sells for $143.00 with a variable cost of $80.00. How many units must be sold to break even, to the nearest unit?",269 units,611 units,173 units,481 units
+128,25,2026-10-21T04:01:37Z,"Quarterly revenue moved from $1,400.00 to $2,005.00. What is the percentage change?",43.2%,143.2%,-43.2%,30.2%
