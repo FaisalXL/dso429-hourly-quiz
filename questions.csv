@@ -3449,3 +3449,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 138,23,2026-10-21T14:01:45Z,"An investment of $16,500.00 grows at 5% compounded annually. What is its value after 7 years?","$5,775.00","$22,275.00","$23,217.16","$22,111.58"
 138,24,2026-10-21T14:01:45Z,Region A had 139 orders averaging $34.00; region B had 105 orders averaging $30.00. What is the overall average order value?,31.72,32.00,32.28,56.66
 138,25,2026-10-21T14:01:45Z,"A product line generates $86,250.00 in revenue against $77,657.22 in cost of goods sold. What is the gross margin?",5.2%,10.0%,11.1%,90.0%
+139,1,2026-10-21T15:01:43Z,"A support queue holds 9 billing tickets, 4 technical tickets and 9 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",59.1%,40.9%,69.2%,18.2%
+139,2,2026-10-21T15:01:43Z,A retailer sells 805 units at $57.13 each. What is total revenue?,"$45,989.65","$46,794.65","$46,560.95","$45,418.35"
+139,3,2026-10-21T15:01:43Z,An item listed at $413.05 is discounted by 15%. What is the sale price?,$398.05,$475.01,$351.09,$61.96
+139,4,2026-10-21T15:01:43Z,"A monthly headcount series runs 15, 31, 47, 63, 79. If the pattern continues, what is the next value?",127,95,79,111
+139,5,2026-10-21T15:01:43Z,A $870.00 marketing budget is split between two channels in the ratio 8:7. What does the first channel receive?,$994.29,$464.00,$58.00,$406.00
+139,6,2026-10-21T15:01:43Z,"An invoice for $4,327.66 is converted to euros at 0.6300 euros per US dollar. How many euros is that?","2,293.66","6,869.30","2,726.43","3,159.19"
+139,7,2026-10-21T15:01:43Z,"Fixed costs are $40,000.00. Each unit sells for $166.00 with a variable cost of $110.00. How many units must be sold to break even, to the nearest unit?",714 units,145 units,241 units,364 units
+139,8,2026-10-21T15:01:43Z,"Quarterly revenue moved from $1,100.00 to $1,626.00. What is the percentage change?",32.3%,-47.8%,147.8%,47.8%
+139,9,2026-10-21T15:01:43Z,"Fixed costs are $5,000.00. Each unit sells for $160.00 with a variable cost of $47.00. How many units must be sold to break even, to the nearest unit?",44 units,31 units,106 units,24 units
+139,10,2026-10-21T15:01:43Z,"A support queue holds 15 billing tickets, 25 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",33.3%,50.0%,55.6%,88.9%
+139,11,2026-10-21T15:01:43Z,Region A had 158 orders averaging $83.00; region B had 75 orders averaging $48.00. What is the overall average order value?,105.78,65.50,59.27,71.73
+139,12,2026-10-21T15:01:43Z,"Quarterly revenue moved from $2,500.00 to $1,745.00. What is the percentage change?",30.2%,69.8%,-30.2%,-43.3%
+139,13,2026-10-21T15:01:43Z,An item listed at $701.13 is discounted by 10%. What is the sale price?,$631.02,$70.11,$771.24,$691.13
+139,14,2026-10-21T15:01:43Z,"A $7,860.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$4,491.43","$1,122.86","$3,368.57","$5,895.00"
+139,15,2026-10-21T15:01:43Z,"Fixed costs are $24,000.00. Each unit sells for $199.00 with a variable cost of $171.00. How many units must be sold to break even, to the nearest unit?",140 units,121 units,65 units,857 units
+139,16,2026-10-21T15:01:43Z,"Quarterly revenue moved from $2,950.00 to $4,484.00. What is the percentage change?",34.2%,152.0%,52.0%,-52.0%
+139,17,2026-10-21T15:01:43Z,"An investment of $44,000.00 grows at 8% compounded annually. What is its value after 5 years?","$17,600.00","$59,861.51","$64,650.44","$61,600.00"
+139,18,2026-10-21T15:01:43Z,A contract signed on 18 June 2026 has a 225-day settlement period. On what date does it settle?,30 January 2027,28 February 2027,29 January 2027,22 January 2027
+139,19,2026-10-21T15:01:43Z,"An investment of $39,500.00 grows at 4% compounded annually. What is its value after 2 years?","$41,080.00","$42,723.20","$42,660.00","$3,160.00"
+139,20,2026-10-21T15:01:43Z,A contract signed on 5 March 2026 has a 252-day settlement period. On what date does it settle?,5 November 2026,13 November 2026,12 December 2026,12 November 2026
+139,21,2026-10-21T15:01:43Z,"A monthly headcount series runs 3, 19, 35, 51, 67. If the pattern continues, what is the next value?",67,99,115,83
+139,22,2026-10-21T15:01:43Z,"An investment of $18,500.00 grows at 8% compounded annually. What is its value after 3 years?","$23,304.67","$4,440.00","$22,940.00","$21,578.40"
+139,23,2026-10-21T15:01:43Z,A $810.00 marketing budget is split between two channels in the ratio 5:7. What does the first channel receive?,$67.50,$578.57,$337.50,$472.50
+139,24,2026-10-21T15:01:43Z,"A support queue holds 17 billing tickets, 16 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",37.0%,71.7%,58.6%,34.8%
+139,25,2026-10-21T15:01:43Z,"Fixed costs are $17,500.00. Each unit sells for $181.00 with a variable cost of $103.00. How many units must be sold to break even, to the nearest unit?",62 units,170 units,97 units,224 units
