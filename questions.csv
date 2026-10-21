@@ -3074,3 +3074,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 123,23,2026-10-20T23:01:42Z,A contract signed on 15 December 2026 has a 339-day settlement period. On what date does it settle?,19 December 2027,12 November 2027,19 November 2027,20 November 2027
 123,24,2026-10-20T23:01:42Z,"A support queue holds 18 billing tickets, 8 technical tickets and 15 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",78.3%,43.9%,19.5%,63.4%
 123,25,2026-10-20T23:01:42Z,"A support queue holds 24 billing tickets, 21 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",35.6%,76.3%,68.6%,40.7%
+124,1,2026-10-21T00:01:41Z,"A product line generates $26,750.00 in revenue against $15,885.96 in cost of goods sold. What is the gross margin?",68.4%,59.4%,25.5%,40.6%
+124,2,2026-10-21T00:01:41Z,A retailer sells 862 units at $31.79 each. What is total revenue?,"$28,264.98","$27,720.88","$27,085.08","$27,402.98"
+124,3,2026-10-21T00:01:41Z,"A support queue holds 3 billing tickets, 25 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",11.1%,83.3%,10.0%,93.3%
+124,4,2026-10-21T00:01:41Z,"Fixed costs are $78,000.00. Each unit sells for $53.00 with a variable cost of $5.00. How many units must be sold to break even, to the nearest unit?","1,625 units","1,472 units","1,345 units","15,600 units"
+124,5,2026-10-21T00:01:41Z,Region A had 12 orders averaging $30.00; region B had 83 orders averaging $62.00. What is the overall average order value?,46.00,57.96,66.34,34.04
+124,6,2026-10-21T00:01:41Z,An item listed at $430.24 is discounted by 45%. What is the sale price?,$236.63,$623.85,$193.61,$385.24
+124,7,2026-10-21T00:01:41Z,An item listed at $282.87 is discounted by 10%. What is the sale price?,$28.29,$272.87,$254.58,$311.16
+124,8,2026-10-21T00:01:41Z,Region A had 196 orders averaging $67.00; region B had 154 orders averaging $76.00. What is the overall average order value?,72.04,126.71,71.50,70.96
+124,9,2026-10-21T00:01:41Z,Region A had 137 orders averaging $29.00; region B had 151 orders averaging $74.00. What is the overall average order value?,51.50,52.59,100.31,50.41
+124,10,2026-10-21T00:01:41Z,"A support queue holds 8 billing tickets, 6 technical tickets and 12 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",30.8%,44.4%,53.8%,23.1%
+124,11,2026-10-21T00:01:41Z,"Fixed costs are $32,000.00. Each unit sells for $171.00 with a variable cost of $48.00. How many units must be sold to break even, to the nearest unit?",146 units,187 units,260 units,667 units
+124,12,2026-10-21T00:01:41Z,A contract signed on 22 July 2026 has a 101-day settlement period. On what date does it settle?,1 November 2026,31 October 2026,24 October 2026,30 November 2026
+124,13,2026-10-21T00:01:41Z,Quarterly revenue moved from $750.00 to $946.00. What is the percentage change?,-26.1%,126.1%,20.7%,26.1%
+124,14,2026-10-21T00:01:41Z,An item listed at $40.88 is discounted by 45%. What is the sale price?,$59.28,$22.48,$18.40,$-4.12
+124,15,2026-10-21T00:01:41Z,Region A had 50 orders averaging $21.00; region B had 51 orders averaging $51.00. What is the overall average order value?,36.15,35.85,36.00,71.59
+124,16,2026-10-21T00:01:41Z,"An investment of $27,000.00 grows at 9% compounded annually. What is its value after 5 years?","$39,150.00","$12,150.00","$41,542.85","$38,112.70"
+124,17,2026-10-21T00:01:41Z,"A support queue holds 10 billing tickets, 21 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",24.4%,32.3%,75.6%,51.2%
+124,18,2026-10-21T00:01:41Z,A retailer sells 345 units at $44.53 each. What is total revenue?,"$15,808.15","$14,917.55","$15,707.85","$15,362.85"
+124,19,2026-10-21T00:01:41Z,A contract signed on 20 February 2026 has a 273-day settlement period. On what date does it settle?,20 November 2026,21 November 2026,20 December 2026,13 November 2026
+124,20,2026-10-21T00:01:41Z,A $720.00 marketing budget is split between two channels in the ratio 6:5. What does the first channel receive?,$392.73,$65.45,$327.27,$864.00
+124,21,2026-10-21T00:01:41Z,An item listed at $350.21 is discounted by 20%. What is the sale price?,$70.04,$330.21,$420.25,$280.17
+124,22,2026-10-21T00:01:41Z,A retailer sells 378 units at $79.09 each. What is total revenue?,"$29,105.12","$30,686.92","$30,274.02","$29,896.02"
+124,23,2026-10-21T00:01:41Z,A retailer sells 210 units at $77.42 each. What is total revenue?,"$16,258.20","$16,468.20","$17,032.40","$15,484.00"
+124,24,2026-10-21T00:01:41Z,"Quarterly revenue moved from $2,100.00 to $3,027.00. What is the percentage change?",44.1%,30.6%,144.1%,-44.1%
+124,25,2026-10-21T00:01:41Z,"Fixed costs are $68,000.00. Each unit sells for $195.00 with a variable cost of $119.00. How many units must be sold to break even, to the nearest unit?",349 units,571 units,217 units,895 units
