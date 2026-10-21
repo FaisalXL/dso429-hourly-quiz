@@ -3124,3 +3124,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 125,23,2026-10-21T01:01:39Z,An item listed at $165.24 is discounted by 30%. What is the sale price?,$115.67,$214.81,$49.57,$135.24
 125,24,2026-10-21T01:01:39Z,"Fixed costs are $11,000.00. Each unit sells for $47.00 with a variable cost of $30.00. How many units must be sold to break even, to the nearest unit?",234 units,143 units,647 units,367 units
 125,25,2026-10-21T01:01:39Z,"Quarterly revenue moved from $3,950.00 to $3,278.00. What is the percentage change?",17.0%,83.0%,-20.5%,-17.0%
+126,1,2026-10-21T02:03:58Z,"An investment of $10,000.00 grows at 8% compounded annually. What is its value after 8 years?","$16,400.00","$18,509.30","$6,400.00","$17,138.24"
+126,2,2026-10-21T02:03:58Z,Region A had 56 orders averaging $29.00; region B had 39 orders averaging $45.00. What is the overall average order value?,37.00,38.43,35.57,60.34
+126,3,2026-10-21T02:03:58Z,"An invoice for $2,418.37 is converted to euros at 0.7297 euros per US dollar. How many euros is that?","2,006.52","3,314.20","1,522.85","1,764.68"
+126,4,2026-10-21T02:03:58Z,"An investment of $39,500.00 grows at 8% compounded annually. What is its value after 7 years?","$61,620.00","$67,696.06","$62,681.54","$22,120.00"
+126,5,2026-10-21T02:03:58Z,A contract signed on 26 September 2026 has a 261-day settlement period. On what date does it settle?,7 June 2027,14 July 2027,14 June 2027,15 June 2027
+126,6,2026-10-21T02:03:58Z,"A $1,320.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?",$792.00,$880.00,$264.00,$528.00
+126,7,2026-10-21T02:03:58Z,"A product line generates $35,500.00 in revenue against $22,407.38 in cost of goods sold. What is the gross margin?",22.6%,63.1%,58.4%,36.9%
+126,8,2026-10-21T02:03:58Z,"Quarterly revenue moved from $2,200.00 to $3,481.00. What is the percentage change?",36.8%,58.2%,-58.2%,158.2%
+126,9,2026-10-21T02:03:58Z,"A support queue holds 18 billing tickets, 21 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",51.2%,43.9%,78.3%,95.1%
+126,10,2026-10-21T02:03:58Z,"Fixed costs are $40,000.00. Each unit sells for $151.00 with a variable cost of $99.00. How many units must be sold to break even, to the nearest unit?",404 units,769 units,160 units,265 units
+126,11,2026-10-21T02:03:58Z,Region A had 45 orders averaging $65.00; region B had 95 orders averaging $36.00. What is the overall average order value?,66.79,45.32,50.50,55.68
+126,12,2026-10-21T02:03:58Z,"A support queue holds 21 billing tickets, 8 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",67.7%,25.8%,93.5%,210.0%
+126,13,2026-10-21T02:03:58Z,"A product line generates $9,000.00 in revenue against $5,746.65 in cost of goods sold. What is the gross margin?",63.9%,56.6%,36.1%,22.1%
+126,14,2026-10-21T02:03:58Z,"An investment of $10,000.00 grows at 12% compounded annually. What is its value after 5 years?","$6,000.00","$16,000.00","$15,735.19","$17,623.42"
+126,15,2026-10-21T02:03:58Z,"Fixed costs are $43,000.00. Each unit sells for $159.00 with a variable cost of $54.00. How many units must be sold to break even, to the nearest unit?",410 units,270 units,202 units,796 units
+126,16,2026-10-21T02:03:58Z,"A monthly headcount series runs 26, 30, 34, 38, 42. If the pattern continues, what is the next value?",54,42,46,50
+126,17,2026-10-21T02:03:58Z,A retailer sells 672 units at $73.78 each. What is total revenue?,"$50,252.16","$50,317.96","$49,580.16","$48,842.36"
+126,18,2026-10-21T02:03:58Z,"A monthly headcount series runs 36, 45, 54, 63, 72. If the pattern continues, what is the next value?",90,72,99,81
+126,19,2026-10-21T02:03:58Z,Region A had 19 orders averaging $24.00; region B had 92 orders averaging $57.00. What is the overall average order value?,61.96,29.65,40.50,51.35
+126,20,2026-10-21T02:03:58Z,A $660.00 marketing budget is split between two channels in the ratio 9:6. What does the first channel receive?,$44.00,$990.00,$396.00,$264.00
+126,21,2026-10-21T02:03:58Z,"An invoice for $4,730.03 is converted to euros at 1.4142 euros per US dollar. How many euros is that?","6,689.21","6,216.21","3,344.67","7,162.21"
+126,22,2026-10-21T02:03:58Z,"Quarterly revenue moved from $1,250.00 to $1,507.00. What is the percentage change?",120.6%,20.6%,17.1%,-20.6%
+126,23,2026-10-21T02:03:58Z,A retailer sells 968 units at $5.28 each. What is total revenue?,"$6,079.04","$5,163.84","$5,111.04","$5,058.24"
+126,24,2026-10-21T02:03:58Z,Region A had 13 orders averaging $45.00; region B had 171 orders averaging $44.00. What is the overall average order value?,44.07,47.42,44.93,44.50
+126,25,2026-10-21T02:03:58Z,"A product line generates $9,250.00 in revenue against $4,613.24 in cost of goods sold. What is the gross margin?",50.1%,100.5%,49.9%,33.4%
