@@ -3774,3 +3774,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 151,23,2026-10-22T03:01:42Z,"A $8,970.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?","$5,125.71","$1,281.43","$6,727.50","$3,844.29"
 151,24,2026-10-22T03:01:42Z,An item listed at $80.27 is discounted by 25%. What is the sale price?,$55.27,$60.20,$100.34,$20.07
 151,25,2026-10-22T03:01:42Z,Region A had 31 orders averaging $60.00; region B had 96 orders averaging $27.00. What is the overall average order value?,51.94,35.06,46.38,43.50
+152,1,2026-10-22T04:01:37Z,Region A had 54 orders averaging $59.00; region B had 106 orders averaging $58.00. What is the overall average order value?,58.34,88.06,58.50,58.66
+152,2,2026-10-22T04:01:37Z,"A product line generates $21,500.00 in revenue against $17,188.55 in cost of goods sold. What is the gross margin?",25.1%,11.1%,20.1%,79.9%
+152,3,2026-10-22T04:01:37Z,"Fixed costs are $55,500.00. Each unit sells for $134.00 with a variable cost of $64.00. How many units must be sold to break even, to the nearest unit?",280 units,414 units,867 units,793 units
+152,4,2026-10-22T04:01:37Z,"A monthly headcount series runs 35, 43, 51, 59, 67. If the pattern continues, what is the next value?",83,67,75,91
+152,5,2026-10-22T04:01:37Z,"Quarterly revenue moved from $4,200.00 to $5,460.00. What is the percentage change?",-30.0%,23.1%,30.0%,130.0%
+152,6,2026-10-22T04:01:37Z,"A product line generates $84,500.00 in revenue against $72,860.17 in cost of goods sold. What is the gross margin?",7.4%,16.0%,86.2%,13.8%
+152,7,2026-10-22T04:01:37Z,"An investment of $4,000.00 grows at 8% compounded annually. What is its value after 6 years?","$5,877.31","$1,920.00","$5,920.00","$6,347.50"
+152,8,2026-10-22T04:01:37Z,Region A had 175 orders averaging $27.00; region B had 161 orders averaging $80.00. What is the overall average order value?,53.50,52.40,100.60,54.60
+152,9,2026-10-22T04:01:37Z,"A monthly headcount series runs 39, 54, 69, 84, 99. If the pattern continues, what is the next value?",99,129,144,114
+152,10,2026-10-22T04:01:37Z,A contract signed on 2 February 2026 has a 105-day settlement period. On what date does it settle?,19 May 2026,17 June 2026,18 May 2026,11 May 2026
+152,11,2026-10-22T04:01:37Z,"Fixed costs are $21,000.00. Each unit sells for $165.00 with a variable cost of $134.00. How many units must be sold to break even, to the nearest unit?",157 units,677 units,127 units,70 units
+152,12,2026-10-22T04:01:37Z,"A support queue holds 13 billing tickets, 22 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",76.1%,39.4%,47.8%,28.3%
+152,13,2026-10-22T04:01:37Z,A $750.00 marketing budget is split between two channels in the ratio 5:8. What does the first channel receive?,$461.54,$57.69,$288.46,$468.75
+152,14,2026-10-22T04:01:37Z,A retailer sells 433 units at $81.89 each. What is total revenue?,"$34,639.47","$36,277.27","$35,891.37","$35,458.37"
+152,15,2026-10-22T04:01:37Z,A contract signed on 21 December 2026 has a 400-day settlement period. On what date does it settle?,18 January 2028,25 January 2028,24 February 2028,26 January 2028
+152,16,2026-10-22T04:01:37Z,A retailer sells 381 units at $84.13 each. What is total revenue?,"$31,212.23","$32,894.83","$32,434.53","$32,053.53"
+152,17,2026-10-22T04:01:37Z,"A monthly headcount series runs 10, 24, 38, 52, 66. If the pattern continues, what is the next value?",80,108,94,66
+152,18,2026-10-22T04:01:37Z,"A monthly headcount series runs 26, 35, 44, 53, 62. If the pattern continues, what is the next value?",80,89,71,62
+152,19,2026-10-22T04:01:37Z,A retailer sells 477 units at $7.49 each. What is total revenue?,"$3,572.73","$3,497.83","$4,049.73","$3,647.63"
+152,20,2026-10-22T04:01:37Z,Region A had 89 orders averaging $31.00; region B had 185 orders averaging $29.00. What is the overall average order value?,30.35,30.00,43.91,29.65
+152,21,2026-10-22T04:01:37Z,"Fixed costs are $33,000.00. Each unit sells for $183.00 with a variable cost of $86.00. How many units must be sold to break even, to the nearest unit?",180 units,384 units,340 units,123 units
+152,22,2026-10-22T04:01:37Z,A contract signed on 7 June 2026 has a 360-day settlement period. On what date does it settle?,2 July 2027,3 June 2027,26 May 2027,2 June 2027
+152,23,2026-10-22T04:01:37Z,An item listed at $284.51 is discounted by 10%. What is the sale price?,$256.06,$274.51,$312.96,$28.45
+152,24,2026-10-22T04:01:37Z,"An invoice for $6,261.02 is converted to euros at 1.2251 euros per US dollar. How many euros is that?","8,296.48","7,044.27","5,110.62","7,670.38"
+152,25,2026-10-22T04:01:37Z,"An invoice for $7,084.19 is converted to euros at 0.7803 euros per US dollar. How many euros is that?","4,819.37","9,078.80","6,236.21","5,527.79"
