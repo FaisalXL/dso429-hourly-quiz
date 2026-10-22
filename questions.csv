@@ -4024,3 +4024,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 161,23,2026-10-22T13:01:41Z,"A support queue holds 4 billing tickets, 9 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",54.2%,16.7%,20.0%,37.5%
 161,24,2026-10-22T13:01:41Z,Region A had 140 orders averaging $26.00; region B had 173 orders averaging $82.00. What is the overall average order value?,56.95,54.00,103.04,51.05
 161,25,2026-10-22T13:01:41Z,An item listed at $278.31 is discounted by 5%. What is the sale price?,$264.39,$292.23,$273.31,$13.92
+162,1,2026-10-22T14:01:41Z,"A monthly headcount series runs 23, 30, 37, 44, 51. If the pattern continues, what is the next value?",72,51,58,65
+162,2,2026-10-22T14:01:41Z,"An investment of $44,000.00 grows at 13% compounded annually. What is its value after 3 years?","$56,183.60","$61,160.00","$63,487.47","$17,160.00"
+162,3,2026-10-22T14:01:41Z,A contract signed on 7 May 2026 has a 208-day settlement period. On what date does it settle?,24 November 2026,31 December 2026,1 December 2026,2 December 2026
+162,4,2026-10-22T14:01:41Z,"A product line generates $25,500.00 in revenue against $18,546.96 in cost of goods sold. What is the gross margin?",15.8%,37.5%,72.7%,27.3%
+162,5,2026-10-22T14:01:41Z,"A $8,880.00 marketing budget is split between two channels in the ratio 6:2. What does the first channel receive?","$26,640.00","$6,660.00","$1,110.00","$2,220.00"
+162,6,2026-10-22T14:01:41Z,A contract signed on 2 June 2026 has a 137-day settlement period. On what date does it settle?,18 October 2026,10 October 2026,16 November 2026,17 October 2026
+162,7,2026-10-22T14:01:41Z,"A product line generates $84,750.00 in revenue against $47,355.20 in cost of goods sold. What is the gross margin?",28.3%,55.9%,79.0%,44.1%
+162,8,2026-10-22T14:01:41Z,A contract signed on 22 November 2026 has a 381-day settlement period. On what date does it settle?,9 December 2027,7 January 2028,8 December 2027,1 December 2027
+162,9,2026-10-22T14:01:41Z,"A monthly headcount series runs 5, 12, 19, 26, 33. If the pattern continues, what is the next value?",47,40,54,33
+162,10,2026-10-22T14:01:41Z,"Quarterly revenue moved from $4,150.00 to $5,041.00. What is the percentage change?",-21.5%,121.5%,17.7%,21.5%
+162,11,2026-10-22T14:01:41Z,"A product line generates $46,000.00 in revenue against $40,730.93 in cost of goods sold. What is the gross margin?",6.1%,11.5%,12.9%,88.5%
+162,12,2026-10-22T14:01:41Z,A retailer sells 571 units at $28.45 each. What is total revenue?,"$16,815.95","$15,960.45","$16,244.95","$16,529.45"
+162,13,2026-10-22T14:01:41Z,A retailer sells 251 units at $20.20 each. What is total revenue?,"$5,272.20","$5,321.20","$5,070.20","$4,868.20"
+162,14,2026-10-22T14:01:41Z,An item listed at $282.53 is discounted by 35%. What is the sale price?,$183.64,$98.89,$247.53,$381.42
+162,15,2026-10-22T14:01:41Z,"Fixed costs are $8,500.00. Each unit sells for $63.00 with a variable cost of $16.00. How many units must be sold to break even, to the nearest unit?",531 units,181 units,108 units,135 units
+162,16,2026-10-22T14:01:41Z,"A monthly headcount series runs 17, 34, 51, 68, 85. If the pattern continues, what is the next value?",136,119,85,102
+162,17,2026-10-22T14:01:41Z,"A support queue holds 18 billing tickets, 4 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",300.0%,75.0%,16.7%,91.7%
+162,18,2026-10-22T14:01:41Z,"A product line generates $83,750.00 in revenue against $75,810.99 in cost of goods sold. What is the gross margin?",90.5%,10.5%,5.0%,9.5%
+162,19,2026-10-22T14:01:41Z,"A support queue holds 18 billing tickets, 15 technical tickets and 8 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",80.5%,78.3%,36.6%,43.9%
+162,20,2026-10-22T14:01:41Z,A contract signed on 12 September 2026 has a 183-day settlement period. On what date does it settle?,15 March 2027,14 March 2027,13 April 2027,7 March 2027
+162,21,2026-10-22T14:01:41Z,"Fixed costs are $23,000.00. Each unit sells for $187.00 with a variable cost of $52.00. How many units must be sold to break even, to the nearest unit?",442 units,96 units,170 units,123 units
+162,22,2026-10-22T14:01:41Z,An item listed at $288.03 is discounted by 15%. What is the sale price?,$43.20,$331.23,$273.03,$244.83
+162,23,2026-10-22T14:01:41Z,"Quarterly revenue moved from $2,900.00 to $1,953.00. What is the percentage change?",67.3%,-48.5%,-32.7%,32.7%
+162,24,2026-10-22T14:01:41Z,Region A had 10 orders averaging $58.00; region B had 141 orders averaging $71.00. What is the overall average order value?,58.86,70.14,64.50,75.11
+162,25,2026-10-22T14:01:41Z,"Fixed costs are $30,500.00. Each unit sells for $193.00 with a variable cost of $33.00. How many units must be sold to break even, to the nearest unit?",191 units,135 units,158 units,924 units
