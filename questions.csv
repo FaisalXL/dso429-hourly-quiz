@@ -4174,3 +4174,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 167,23,2026-10-22T19:01:40Z,"A monthly headcount series runs 5, 22, 39, 56, 73. If the pattern continues, what is the next value?",124,90,107,73
 167,24,2026-10-22T19:01:40Z,"A $7,770.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$1,554.00","$4,662.00","$3,108.00","$5,180.00"
 167,25,2026-10-22T19:01:40Z,"A $7,740.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$1,548.00","$3,096.00","$5,160.00","$4,644.00"
+168,1,2026-10-22T20:01:42Z,Region A had 197 orders averaging $57.00; region B had 177 orders averaging $81.00. What is the overall average order value?,68.36,129.78,69.64,69.00
+168,2,2026-10-22T20:01:42Z,A $690.00 marketing budget is split between two channels in the ratio 6:8. What does the first channel receive?,$394.29,$295.71,$517.50,$49.29
+168,3,2026-10-22T20:01:42Z,An item listed at $589.35 is discounted by 15%. What is the sale price?,$88.40,$677.75,$574.35,$500.95
+168,4,2026-10-22T20:01:42Z,"A monthly headcount series runs 14, 24, 34, 44, 54. If the pattern continues, what is the next value?",54,84,74,64
+168,5,2026-10-22T20:01:42Z,A contract signed on 18 December 2026 has a 93-day settlement period. On what date does it settle?,14 March 2027,20 April 2027,22 March 2027,21 March 2027
+168,6,2026-10-22T20:01:42Z,An item listed at $491.05 is discounted by 15%. What is the sale price?,$73.66,$476.05,$564.71,$417.39
+168,7,2026-10-22T20:01:42Z,An item listed at $482.49 is discounted by 5%. What is the sale price?,$458.37,$506.61,$24.12,$477.49
+168,8,2026-10-22T20:01:42Z,"Quarterly revenue moved from $2,100.00 to $2,896.00. What is the percentage change?",-37.9%,137.9%,27.5%,37.9%
+168,9,2026-10-22T20:01:42Z,A contract signed on 8 December 2026 has a 317-day settlement period. On what date does it settle?,22 October 2027,14 October 2027,21 October 2027,20 November 2027
+168,10,2026-10-22T20:01:42Z,Region A had 85 orders averaging $37.00; region B had 114 orders averaging $23.00. What is the overall average order value?,30.00,31.02,50.59,28.98
+168,11,2026-10-22T20:01:42Z,"An investment of $27,000.00 grows at 12% compounded annually. What is its value after 8 years?","$59,688.40","$66,851.01","$25,920.00","$52,920.00"
+168,12,2026-10-22T20:01:42Z,A $990.00 marketing budget is split between two channels in the ratio 6:7. What does the first channel receive?,$76.15,$456.92,$848.57,$533.08
+168,13,2026-10-22T20:01:42Z,Region A had 74 orders averaging $51.00; region B had 28 orders averaging $24.00. What is the overall average order value?,60.08,31.41,37.50,43.59
+168,14,2026-10-22T20:01:42Z,"Quarterly revenue moved from $1,750.00 to $2,334.00. What is the percentage change?",25.0%,-33.4%,133.4%,33.4%
+168,15,2026-10-22T20:01:42Z,A contract signed on 22 October 2026 has a 238-day settlement period. On what date does it settle?,18 June 2027,17 June 2027,17 July 2027,10 June 2027
+168,16,2026-10-22T20:01:42Z,"Quarterly revenue moved from $4,650.00 to $2,672.00. What is the percentage change?",-74.0%,-42.5%,42.5%,57.5%
+168,17,2026-10-22T20:01:42Z,A $930.00 marketing budget is split between two channels in the ratio 5:6. What does the first channel receive?,$507.27,$775.00,$422.73,$84.55
+168,18,2026-10-22T20:01:42Z,An item listed at $335.53 is discounted by 40%. What is the sale price?,$201.32,$295.53,$134.21,$469.74
+168,19,2026-10-22T20:01:42Z,"Fixed costs are $39,000.00. Each unit sells for $87.00 with a variable cost of $40.00. How many units must be sold to break even, to the nearest unit?",830 units,975 units,307 units,448 units
+168,20,2026-10-22T20:01:42Z,"Quarterly revenue moved from $2,950.00 to $3,740.00. What is the percentage change?",-26.8%,21.1%,26.8%,126.8%
+168,21,2026-10-22T20:01:42Z,An item listed at $583.36 is discounted by 5%. What is the sale price?,$554.19,$612.53,$29.17,$578.36
+168,22,2026-10-22T20:01:42Z,"Quarterly revenue moved from $1,900.00 to $2,551.00. What is the percentage change?",34.3%,25.5%,134.3%,-34.3%
+168,23,2026-10-22T20:01:42Z,"A product line generates $34,500.00 in revenue against $30,591.70 in cost of goods sold. What is the gross margin?",6.0%,12.8%,11.3%,88.7%
+168,24,2026-10-22T20:01:42Z,An item listed at $279.89 is discounted by 10%. What is the sale price?,$307.88,$27.99,$269.89,$251.90
+168,25,2026-10-22T20:01:42Z,Quarterly revenue moved from $250.00 to $155.00. What is the percentage change?,-38.0%,-61.3%,62.0%,38.0%
