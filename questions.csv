@@ -3699,3 +3699,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 148,23,2026-10-22T00:01:41Z,A retailer sells 287 units at $76.26 each. What is total revenue?,"$21,886.62","$21,124.02","$22,649.22","$22,173.62"
 148,24,2026-10-22T00:01:41Z,"Quarterly revenue moved from $3,500.00 to $5,477.00. What is the percentage change?",-56.5%,156.5%,36.1%,56.5%
 148,25,2026-10-22T00:01:41Z,"A product line generates $60,250.00 in revenue against $55,348.25 in cost of goods sold. What is the gross margin?",8.1%,8.9%,91.9%,4.2%
+149,1,2026-10-22T01:01:38Z,"A support queue holds 20 billing tickets, 15 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",40.8%,69.0%,71.4%,30.6%
+149,2,2026-10-22T01:01:38Z,"A $8,460.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$5,640.00","$3,384.00","$1,692.00","$5,076.00"
+149,3,2026-10-22T01:01:38Z,"Quarterly revenue moved from $1,050.00 to $852.00. What is the percentage change?",18.9%,81.1%,-18.9%,-23.2%
+149,4,2026-10-22T01:01:38Z,"A monthly headcount series runs 3, 7, 11, 15, 19. If the pattern continues, what is the next value?",19,31,23,27
+149,5,2026-10-22T01:01:38Z,"A $8,910.00 marketing budget is split between two channels in the ratio 3:2. What does the first channel receive?","$1,782.00","$3,564.00","$13,365.00","$5,346.00"
+149,6,2026-10-22T01:01:38Z,A retailer sells 128 units at $71.48 each. What is total revenue?,"$8,434.64","$9,277.44","$9,149.44","$9,864.24"
+149,7,2026-10-22T01:01:38Z,An item listed at $409.12 is discounted by 35%. What is the sale price?,$265.93,$374.12,$552.31,$143.19
+149,8,2026-10-22T01:01:38Z,An item listed at $804.89 is discounted by 10%. What is the sale price?,$794.89,$80.49,$885.38,$724.40
+149,9,2026-10-22T01:01:38Z,An item listed at $704.79 is discounted by 40%. What is the sale price?,$422.87,$664.79,$986.71,$281.92
+149,10,2026-10-22T01:01:38Z,"An investment of $30,500.00 grows at 14% compounded annually. What is its value after 7 years?","$66,946.67","$60,390.00","$29,890.00","$76,319.20"
+149,11,2026-10-22T01:01:38Z,"An investment of $7,500.00 grows at 11% compounded annually. What is its value after 7 years?","$5,775.00","$15,571.20","$14,028.11","$13,275.00"
+149,12,2026-10-22T01:01:38Z,"A product line generates $32,250.00 in revenue against $24,573.53 in cost of goods sold. What is the gross margin?",31.2%,13.5%,23.8%,76.2%
+149,13,2026-10-22T01:01:38Z,A contract signed on 31 July 2026 has a 229-day settlement period. On what date does it settle?,18 March 2027,17 March 2027,10 March 2027,16 April 2027
+149,14,2026-10-22T01:01:38Z,"Fixed costs are $7,500.00. Each unit sells for $154.00 with a variable cost of $79.00. How many units must be sold to break even, to the nearest unit?",32 units,49 units,95 units,100 units
+149,15,2026-10-22T01:01:38Z,"An invoice for $8,407.14 is converted to euros at 0.6123 euros per US dollar. How many euros is that?","5,988.41","5,147.69","13,730.43","4,306.98"
+149,16,2026-10-22T01:01:38Z,"An investment of $20,500.00 grows at 15% compounded annually. What is its value after 4 years?","$31,177.94","$12,300.00","$32,800.00","$35,854.63"
+149,17,2026-10-22T01:01:38Z,A retailer sells 327 units at $79.82 each. What is total revenue?,"$26,101.14","$26,899.34","$26,428.14","$25,302.94"
+149,18,2026-10-22T01:01:38Z,"A monthly headcount series runs 35, 42, 49, 56, 63. If the pattern continues, what is the next value?",70,63,84,77
+149,19,2026-10-22T01:01:38Z,"Fixed costs are $61,500.00. Each unit sells for $44.00 with a variable cost of $10.00. How many units must be sold to break even, to the nearest unit?","6,150 units","1,398 units","1,139 units","1,809 units"
+149,20,2026-10-22T01:01:38Z,"A monthly headcount series runs 8, 18, 28, 38, 48. If the pattern continues, what is the next value?",78,58,48,68
+149,21,2026-10-22T01:01:38Z,An item listed at $197.95 is discounted by 15%. What is the sale price?,$168.26,$29.69,$227.64,$182.95
+149,22,2026-10-22T01:01:38Z,"A product line generates $66,750.00 in revenue against $51,252.57 in cost of goods sold. What is the gross margin?",13.1%,23.2%,30.2%,76.8%
+149,23,2026-10-22T01:01:38Z,An item listed at $104.43 is discounted by 40%. What is the sale price?,$146.20,$64.43,$41.77,$62.66
+149,24,2026-10-22T01:01:38Z,A contract signed on 2 March 2026 has a 221-day settlement period. On what date does it settle?,9 October 2026,10 October 2026,2 October 2026,8 November 2026
+149,25,2026-10-22T01:01:38Z,"An investment of $38,500.00 grows at 6% compounded annually. What is its value after 2 years?","$40,810.00","$43,258.60","$4,620.00","$43,120.00"
