@@ -3999,3 +3999,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 160,23,2026-10-22T12:01:42Z,"An invoice for $5,798.86 is converted to euros at 0.6174 euros per US dollar. How many euros is that?","9,392.39","3,000.33","3,580.22","4,160.10"
 160,24,2026-10-22T12:01:42Z,A retailer sells 232 units at $25.01 each. What is total revenue?,"$5,552.22","$6,034.32","$5,802.32","$6,052.42"
 160,25,2026-10-22T12:01:42Z,A retailer sells 619 units at $83.19 each. What is total revenue?,"$50,662.71","$52,326.51","$52,113.61","$51,494.61"
+161,1,2026-10-22T13:01:41Z,"Quarterly revenue moved from $1,800.00 to $1,041.00. What is the percentage change?",-72.9%,42.2%,-42.2%,57.8%
+161,2,2026-10-22T13:01:41Z,A retailer sells 310 units at $35.64 each. What is total revenue?,"$10,692.00","$11,404.80","$11,048.40","$11,358.40"
+161,3,2026-10-22T13:01:41Z,"A monthly headcount series runs 8, 17, 26, 35, 44. If the pattern continues, what is the next value?",62,53,44,71
+161,4,2026-10-22T13:01:41Z,A retailer sells 751 units at $15.64 each. What is total revenue?,"$11,589.24","$11,902.04","$12,496.64","$11,745.64"
+161,5,2026-10-22T13:01:41Z,A contract signed on 12 April 2026 has a 59-day settlement period. On what date does it settle?,11 June 2026,3 June 2026,10 June 2026,10 July 2026
+161,6,2026-10-22T13:01:41Z,"A support queue holds 5 billing tickets, 25 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",11.4%,12.8%,68.2%,56.8%
+161,7,2026-10-22T13:01:41Z,An item listed at $122.11 is discounted by 40%. What is the sale price?,$48.84,$170.95,$73.27,$82.11
+161,8,2026-10-22T13:01:41Z,"Quarterly revenue moved from $3,950.00 to $2,955.00. What is the percentage change?",25.2%,-25.2%,-33.7%,74.8%
+161,9,2026-10-22T13:01:41Z,"Quarterly revenue moved from $2,650.00 to $2,024.00. What is the percentage change?",-30.9%,23.6%,-23.6%,76.4%
+161,10,2026-10-22T13:01:41Z,"A support queue holds 16 billing tickets, 7 technical tickets and 14 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",18.9%,62.2%,43.2%,76.2%
+161,11,2026-10-22T13:01:41Z,"An invoice for $6,488.64 is converted to euros at 1.4301 euros per US dollar. How many euros is that?","9,928.27","9,279.40","4,537.19","8,630.54"
+161,12,2026-10-22T13:01:41Z,"Fixed costs are $13,000.00. Each unit sells for $93.00 with a variable cost of $31.00. How many units must be sold to break even, to the nearest unit?",105 units,419 units,140 units,210 units
+161,13,2026-10-22T13:01:41Z,A contract signed on 18 August 2026 has a 97-day settlement period. On what date does it settle?,23 November 2026,23 December 2026,16 November 2026,24 November 2026
+161,14,2026-10-22T13:01:41Z,"Fixed costs are $23,500.00. Each unit sells for $113.00 with a variable cost of $41.00. How many units must be sold to break even, to the nearest unit?",326 units,208 units,573 units,153 units
+161,15,2026-10-22T13:01:41Z,"An invoice for $4,386.13 is converted to euros at 1.8037 euros per US dollar. How many euros is that?","2,431.74","7,472.65","7,911.26","8,349.88"
+161,16,2026-10-22T13:01:41Z,"A product line generates $42,500.00 in revenue against $34,032.90 in cost of goods sold. What is the gross margin?",11.1%,24.9%,80.1%,19.9%
+161,17,2026-10-22T13:01:41Z,An item listed at $389.38 is discounted by 45%. What is the sale price?,$344.38,$175.22,$214.16,$564.60
+161,18,2026-10-22T13:01:41Z,Region A had 78 orders averaging $71.00; region B had 138 orders averaging $51.00. What is the overall average order value?,63.78,58.22,91.13,61.00
+161,19,2026-10-22T13:01:41Z,A retailer sells 594 units at $34.45 each. What is total revenue?,"$21,057.30","$20,118.80","$20,807.80","$20,463.30"
+161,20,2026-10-22T13:01:41Z,"A product line generates $46,250.00 in revenue against $32,456.63 in cost of goods sold. What is the gross margin?",29.8%,70.2%,17.5%,42.5%
+161,21,2026-10-22T13:01:41Z,An item listed at $184.17 is discounted by 45%. What is the sale price?,$267.05,$101.29,$82.88,$139.17
+161,22,2026-10-22T13:01:41Z,A $780.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?,$520.00,$156.00,$468.00,$312.00
+161,23,2026-10-22T13:01:41Z,"A support queue holds 4 billing tickets, 9 technical tickets and 11 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",54.2%,16.7%,20.0%,37.5%
+161,24,2026-10-22T13:01:41Z,Region A had 140 orders averaging $26.00; region B had 173 orders averaging $82.00. What is the overall average order value?,56.95,54.00,103.04,51.05
+161,25,2026-10-22T13:01:41Z,An item listed at $278.31 is discounted by 5%. What is the sale price?,$264.39,$292.23,$273.31,$13.92
