@@ -3974,3 +3974,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 159,23,2026-10-22T11:02:10Z,"An investment of $31,000.00 grows at 2% compounded annually. What is its value after 2 years?","$31,620.00","$32,252.40","$1,240.00","$32,240.00"
 159,24,2026-10-22T11:02:10Z,"An investment of $36,500.00 grows at 6% compounded annually. What is its value after 6 years?","$49,640.00","$13,140.00","$48,845.23","$51,775.95"
 159,25,2026-10-22T11:02:10Z,"An investment of $31,500.00 grows at 11% compounded annually. What is its value after 4 years?","$13,860.00","$47,819.22","$45,360.00","$43,080.38"
+160,1,2026-10-22T12:01:42Z,"Quarterly revenue moved from $3,200.00 to $4,116.00. What is the percentage change?",128.6%,22.3%,28.6%,-28.6%
+160,2,2026-10-22T12:01:42Z,"An invoice for $5,272.57 is converted to euros at 1.5604 euros per US dollar. How many euros is that?","3,378.99","7,700.06","8,754.58","8,227.32"
+160,3,2026-10-22T12:01:42Z,"A monthly headcount series runs 38, 51, 64, 77, 90. If the pattern continues, what is the next value?",116,129,103,90
+160,4,2026-10-22T12:01:42Z,An item listed at $487.42 is discounted by 45%. What is the sale price?,$706.76,$442.42,$219.34,$268.08
+160,5,2026-10-22T12:01:42Z,"An invoice for $5,645.42 is converted to euros at 0.9991 euros per US dollar. How many euros is that?","6,204.88","5,650.51","5,075.80","5,640.34"
+160,6,2026-10-22T12:01:42Z,"Fixed costs are $6,500.00. Each unit sells for $60.00 with a variable cost of $44.00. How many units must be sold to break even, to the nearest unit?",406 units,148 units,62 units,108 units
+160,7,2026-10-22T12:01:42Z,"An invoice for $8,233.97 is converted to euros at 1.0335 euros per US dollar. How many euros is that?","7,967.07","7,686.41","8,509.81","9,333.20"
+160,8,2026-10-22T12:01:42Z,"An investment of $14,000.00 grows at 2% compounded annually. What is its value after 5 years?","$15,154.05","$15,400.00","$15,457.13","$1,400.00"
+160,9,2026-10-22T12:01:42Z,"Fixed costs are $19,500.00. Each unit sells for $200.00 with a variable cost of $124.00. How many units must be sold to break even, to the nearest unit?",157 units,98 units,60 units,257 units
+160,10,2026-10-22T12:01:42Z,"A support queue holds 4 billing tickets, 13 technical tickets and 13 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",15.4%,13.3%,43.3%,56.7%
+160,11,2026-10-22T12:01:42Z,"An investment of $12,000.00 grows at 14% compounded annually. What is its value after 3 years?","$15,595.20","$17,778.53","$17,040.00","$5,040.00"
+160,12,2026-10-22T12:01:42Z,"Quarterly revenue moved from $2,150.00 to $3,209.00. What is the percentage change?",33.0%,149.3%,-49.3%,49.3%
+160,13,2026-10-22T12:01:42Z,"A product line generates $66,500.00 in revenue against $58,667.75 in cost of goods sold. What is the gross margin?",13.4%,6.3%,88.2%,11.8%
+160,14,2026-10-22T12:01:42Z,A retailer sells 489 units at $39.54 each. What is total revenue?,"$19,730.46","$19,335.06","$19,824.06","$18,939.66"
+160,15,2026-10-22T12:01:42Z,An item listed at $21.39 is discounted by 20%. What is the sale price?,$4.28,$17.11,$25.67,$1.39
+160,16,2026-10-22T12:01:42Z,"An invoice for $5,719.60 is converted to euros at 1.6412 euros per US dollar. How many euros is that?","9,387.01","8,815.05","3,485.01","9,958.97"
+160,17,2026-10-22T12:01:42Z,"An invoice for $2,221.47 is converted to euros at 1.0593 euros per US dollar. How many euros is that?","2,097.11","2,353.20","2,131.06","2,575.35"
+160,18,2026-10-22T12:01:42Z,"A product line generates $5,250.00 in revenue against $4,159.11 in cost of goods sold. What is the gross margin?",26.2%,11.6%,20.8%,79.2%
+160,19,2026-10-22T12:01:42Z,"An invoice for $8,728.87 is converted to euros at 1.8965 euros per US dollar. How many euros is that?","15,681.41","16,554.30","4,602.62","17,427.19"
+160,20,2026-10-22T12:01:42Z,"An investment of $6,500.00 grows at 12% compounded annually. What is its value after 7 years?","$5,460.00","$12,829.85","$11,960.00","$14,369.43"
+160,21,2026-10-22T12:01:42Z,"Fixed costs are $40,000.00. Each unit sells for $178.00 with a variable cost of $91.00. How many units must be sold to break even, to the nearest unit?",460 units,440 units,149 units,225 units
+160,22,2026-10-22T12:01:42Z,"A $7,350.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$5,250.00","$2,100.00","$18,375.00","$1,050.00"
+160,23,2026-10-22T12:01:42Z,"An invoice for $5,798.86 is converted to euros at 0.6174 euros per US dollar. How many euros is that?","9,392.39","3,000.33","3,580.22","4,160.10"
+160,24,2026-10-22T12:01:42Z,A retailer sells 232 units at $25.01 each. What is total revenue?,"$5,552.22","$6,034.32","$5,802.32","$6,052.42"
+160,25,2026-10-22T12:01:42Z,A retailer sells 619 units at $83.19 each. What is total revenue?,"$50,662.71","$52,326.51","$52,113.61","$51,494.61"
