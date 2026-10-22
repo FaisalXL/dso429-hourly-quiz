@@ -4124,3 +4124,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 165,23,2026-10-22T17:01:42Z,"A $7,560.00 marketing budget is split between two channels in the ratio 2:5. What does the first channel receive?","$1,080.00","$5,400.00","$3,024.00","$2,160.00"
 165,24,2026-10-22T17:01:42Z,"Fixed costs are $5,000.00. Each unit sells for $106.00 with a variable cost of $48.00. How many units must be sold to break even, to the nearest unit?",104 units,32 units,47 units,86 units
 165,25,2026-10-22T17:01:42Z,"A support queue holds 10 billing tickets, 21 technical tickets and 2 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",30.3%,93.9%,63.6%,43.5%
+166,1,2026-10-22T18:01:39Z,A contract signed on 21 December 2026 has a 156-day settlement period. On what date does it settle?,25 June 2027,27 May 2027,19 May 2027,26 May 2027
+166,2,2026-10-22T18:01:39Z,"Quarterly revenue moved from $3,600.00 to $2,555.00. What is the percentage change?",-29.0%,71.0%,29.0%,-40.9%
+166,3,2026-10-22T18:01:39Z,"A $8,130.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?","$3,252.00","$4,878.00","$5,420.00","$1,626.00"
+166,4,2026-10-22T18:01:39Z,"A $1,260.00 marketing budget is split between two channels in the ratio 3:4. What does the first channel receive?",$180.00,$945.00,$720.00,$540.00
+166,5,2026-10-22T18:01:39Z,An item listed at $402.59 is discounted by 40%. What is the sale price?,$241.55,$161.04,$362.59,$563.63
+166,6,2026-10-22T18:01:39Z,An invoice for $295.08 is converted to euros at 1.3289 euros per US dollar. How many euros is that?,392.13,421.64,222.05,362.62
+166,7,2026-10-22T18:01:39Z,"An investment of $38,000.00 grows at 15% compounded annually. What is its value after 7 years?","$77,900.00","$101,080.76","$87,896.31","$39,900.00"
+166,8,2026-10-22T18:01:39Z,A contract signed on 2 November 2026 has a 46-day settlement period. On what date does it settle?,19 December 2026,17 January 2027,11 December 2026,18 December 2026
+166,9,2026-10-22T18:01:39Z,"A monthly headcount series runs 27, 43, 59, 75, 91. If the pattern continues, what is the next value?",123,91,139,107
+166,10,2026-10-22T18:01:39Z,A retailer sells 948 units at $84.75 each. What is total revenue?,"$79,495.50","$81,190.50","$81,291.00","$80,343.00"
+166,11,2026-10-22T18:01:39Z,"A $1,080.00 marketing budget is split between two channels in the ratio 3:6. What does the first channel receive?",$540.00,$360.00,$720.00,$120.00
+166,12,2026-10-22T18:01:39Z,A contract signed on 9 September 2026 has a 192-day settlement period. On what date does it settle?,19 April 2027,13 March 2027,20 March 2027,21 March 2027
+166,13,2026-10-22T18:01:39Z,"Fixed costs are $37,500.00. Each unit sells for $160.00 with a variable cost of $99.00. How many units must be sold to break even, to the nearest unit?",145 units,615 units,379 units,234 units
+166,14,2026-10-22T18:01:39Z,"Fixed costs are $10,000.00. Each unit sells for $156.00 with a variable cost of $20.00. How many units must be sold to break even, to the nearest unit?",500 units,64 units,57 units,74 units
+166,15,2026-10-22T18:01:39Z,"An investment of $6,000.00 grows at 5% compounded annually. What is its value after 7 years?","$2,100.00","$8,442.60","$8,100.00","$8,040.57"
+166,16,2026-10-22T18:01:39Z,A retailer sells 348 units at $26.85 each. What is total revenue?,"$9,691.80","$9,075.30","$9,343.80","$9,612.30"
+166,17,2026-10-22T18:01:39Z,A contract signed on 3 September 2026 has a 189-day settlement period. On what date does it settle?,12 March 2027,10 April 2027,11 March 2027,4 March 2027
+166,18,2026-10-22T18:01:39Z,"Quarterly revenue moved from $700.00 to $1,114.00. What is the percentage change?",-59.1%,159.1%,59.1%,37.2%
+166,19,2026-10-22T18:01:39Z,"An investment of $28,000.00 grows at 6% compounded annually. What is its value after 3 years?","$33,040.00","$31,460.80","$33,348.45","$5,040.00"
+166,20,2026-10-22T18:01:39Z,"An investment of $40,000.00 grows at 8% compounded annually. What is its value after 2 years?","$46,656.00","$46,400.00","$6,400.00","$43,200.00"
+166,21,2026-10-22T18:01:39Z,Region A had 71 orders averaging $41.00; region B had 139 orders averaging $70.00. What is the overall average order value?,50.80,55.50,60.20,90.94
+166,22,2026-10-22T18:01:39Z,An item listed at $106.70 is discounted by 40%. What is the sale price?,$64.02,$42.68,$66.70,$149.38
+166,23,2026-10-22T18:01:39Z,"A monthly headcount series runs 24, 33, 42, 51, 60. If the pattern continues, what is the next value?",60,87,78,69
+166,24,2026-10-22T18:01:39Z,"A $6,030.00 marketing budget is split between two channels in the ratio 4:2. What does the first channel receive?","$4,020.00","$1,005.00","$2,010.00","$12,060.00"
+166,25,2026-10-22T18:01:39Z,"A product line generates $44,000.00 in revenue against $36,401.39 in cost of goods sold. What is the gross margin?",9.5%,20.9%,17.3%,82.7%
