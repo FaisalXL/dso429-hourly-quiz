@@ -3849,3 +3849,28 @@ round_id,q_index,released_at,question_text,option_a,option_b,option_c,option_d
 154,23,2026-10-22T06:01:41Z,An item listed at $119.45 is discounted by 25%. What is the sale price?,$29.86,$149.31,$94.45,$89.59
 154,24,2026-10-22T06:01:41Z,"A product line generates $34,000.00 in revenue against $26,074.08 in cost of goods sold. What is the gross margin?",13.2%,76.7%,23.3%,30.4%
 154,25,2026-10-22T06:01:41Z,"Fixed costs are $79,000.00. Each unit sells for $49.00 with a variable cost of $19.00. How many units must be sold to break even, to the nearest unit?","2,633 units","1,162 units","4,158 units","1,612 units"
+155,1,2026-10-22T07:01:39Z,Region A had 170 orders averaging $56.00; region B had 184 orders averaging $35.00. What is the overall average order value?,45.08,45.92,86.74,45.50
+155,2,2026-10-22T07:01:39Z,"A product line generates $81,750.00 in revenue against $50,599.50 in cost of goods sold. What is the gross margin?",61.9%,23.5%,61.6%,38.1%
+155,3,2026-10-22T07:01:39Z,"Fixed costs are $7,500.00. Each unit sells for $36.00 with a variable cost of $26.00. How many units must be sold to break even, to the nearest unit?",750 units,121 units,288 units,208 units
+155,4,2026-10-22T07:01:39Z,A $960.00 marketing budget is split between two channels in the ratio 6:7. What does the first channel receive?,$822.86,$73.85,$443.08,$516.92
+155,5,2026-10-22T07:01:39Z,A retailer sells 141 units at $68.96 each. What is total revenue?,"$9,864.36","$9,723.36","$10,412.96","$9,033.76"
+155,6,2026-10-22T07:01:39Z,"An investment of $37,500.00 grows at 12% compounded annually. What is its value after 8 years?","$82,900.55","$92,848.62","$36,000.00","$73,500.00"
+155,7,2026-10-22T07:01:39Z,"An investment of $5,000.00 grows at 5% compounded annually. What is its value after 6 years?","$6,500.00","$1,500.00","$6,700.48","$6,381.41"
+155,8,2026-10-22T07:01:39Z,"A support queue holds 18 billing tickets, 12 technical tickets and 10 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",45.0%,30.0%,81.8%,75.0%
+155,9,2026-10-22T07:01:39Z,"Quarterly revenue moved from $1,400.00 to $1,126.00. What is the percentage change?",-19.6%,80.4%,19.6%,-24.3%
+155,10,2026-10-22T07:01:39Z,"Quarterly revenue moved from $1,800.00 to $2,655.00. What is the percentage change?",32.2%,-47.5%,47.5%,147.5%
+155,11,2026-10-22T07:01:39Z,"A support queue holds 4 billing tickets, 11 technical tickets and 5 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",55.0%,25.0%,75.0%,20.0%
+155,12,2026-10-22T07:01:39Z,"A product line generates $80,250.00 in revenue against $63,016.41 in cost of goods sold. What is the gross margin?",21.5%,12.0%,78.5%,27.3%
+155,13,2026-10-22T07:01:39Z,A retailer sells 936 units at $77.23 each. What is total revenue?,"$73,223.28","$73,059.58","$72,287.28","$71,514.98"
+155,14,2026-10-22T07:01:39Z,Region A had 38 orders averaging $92.00; region B had 147 orders averaging $23.00. What is the overall average order value?,77.83,57.50,46.78,37.17
+155,15,2026-10-22T07:01:39Z,"A support queue holds 7 billing tickets, 14 technical tickets and 3 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",87.5%,41.2%,58.3%,29.2%
+155,16,2026-10-22T07:01:39Z,"Quarterly revenue moved from $850.00 to $1,262.00. What is the percentage change?",48.5%,32.6%,148.5%,-48.5%
+155,17,2026-10-22T07:01:39Z,An item listed at $89.02 is discounted by 40%. What is the sale price?,$35.61,$49.02,$124.63,$53.41
+155,18,2026-10-22T07:01:39Z,"Quarterly revenue moved from $4,300.00 to $3,291.00. What is the percentage change?",-23.5%,-30.7%,76.5%,23.5%
+155,19,2026-10-22T07:01:39Z,"An invoice for $8,248.05 is converted to euros at 0.9676 euros per US dollar. How many euros is that?","7,980.81","8,524.24","8,805.62","7,156.01"
+155,20,2026-10-22T07:01:39Z,"An invoice for $8,777.62 is converted to euros at 1.2299 euros per US dollar. How many euros is that?","10,795.59","9,917.83","7,136.86","11,673.36"
+155,21,2026-10-22T07:01:39Z,"A $8,580.00 marketing budget is split between two channels in the ratio 5:2. What does the first channel receive?","$2,451.43","$6,128.57","$1,225.71","$21,450.00"
+155,22,2026-10-22T07:01:39Z,A retailer sells 906 units at $64.51 each. What is total revenue?,"$57,800.96","$59,352.06","$58,446.06","$59,091.16"
+155,23,2026-10-22T07:01:39Z,"A support queue holds 10 billing tickets, 16 technical tickets and 4 account tickets. If one is drawn at random, what is the probability it is a billing ticket?",53.3%,50.0%,33.3%,86.7%
+155,24,2026-10-22T07:01:39Z,"A $1,290.00 marketing budget is split between two channels in the ratio 2:3. What does the first channel receive?",$258.00,$774.00,$516.00,$860.00
+155,25,2026-10-22T07:01:39Z,"Fixed costs are $19,000.00. Each unit sells for $180.00 with a variable cost of $101.00. How many units must be sold to break even, to the nearest unit?",68 units,241 units,106 units,188 units
